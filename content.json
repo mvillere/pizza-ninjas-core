@@ -1,0 +1,86 @@
+{
+  "project": "ninjalerts",
+  "default_user_draw_version": 1,
+  "inscription_ids": {
+    "error_sound": "a6120ed42360fee260c591fb3e4d603fdc8b0e01d007b24c4b3e5bc39571540fi0",
+    "license": "e36245ce2b7f8e71480ae49101ca21ec29e2c87efa3fb3ef2fdb513d3e5f2abdi0",
+    "default_animation": "826fe75c2e9d567baa6bee11160ae265b3007814ecca79299c5bd8338298b5d5i0",
+    "emulator_glue": "58ecf6b923776d5fbc8a5dbbb8ea66c67d4292e326cd1b4321c6d046ee44cd6ci0",
+    "decrypt": "031d60cebab0d0e96f15ac512dbe3953ff1586d8e86f2f35e22bac76519bf0dbi0",
+    "gif": "cd9ef7c97b7ae46e9452456c355df4ee5cdcca2f41db8523e8e0ef3c5b895a30i0",
+    "gif_worker": "3c5a37c77891af12a3e133cb47463915221bfe75fa0c63a9eed932c81cdaa56fi0",
+    "inscription_join": "031d60cebab0d0e96f15ac512dbe3953ff1586d8e86f2f35e22bac76519bf0dbi2",
+    "snes9x_binary": [
+      "94d802d73ebf04250a22caa583cfee8e2e984f6ca1cd3b559b06d32881c89387i0",
+      "fb0b65d6b8ea4dd80ab9977b78ad7b93340dddf1a38717b7ac75ffc577a706c0i0",
+      "bf0d09909070b39f9dff9ecb5b87bea182c96fe09915dc94c7f85fb1cb81e3c7i0",
+      "f736eda47c4adef51c00adfbe33c1348ddfd6961679b2bc34d637d91d7cc4fd4i0",
+      "c93d0f72d535b05dfa277e1586dda4b9ad28c0a4aaad36325bb9c1e63489b6f7i0",
+      "2c3c9b2fd28fb5f378da5a34165ebf0c211769ebf16b967b87b8996a8181dca2i0",
+      "fdbf48f9c2ca2d91a6b7ee83ec200ba381186aaef2324bfc64c3855f736b4062i0",
+      "e47b326c146153eda0533ce161c4dd9c5a053c88cdbee0757e4e659e84684b9bi0",
+      "750eddb51d6513963a5db32ed5df0b31453375f980ae979e9e2ab1542ad03218i0",
+      "3389e599ffe79a542ead1518a29ca9db8795e27986570316a3a53ed6c55fa0a3i0",
+      "b4832765c67c0be83c3f1c1f86b49dc0439e2d4a1cd2dd669dbd1bd15971848ai0",
+      "cb57eb6da14e4361bbcc708fe2f9fb8ba4dad5cef84a4d4569a14040e687a095i0"
+    ],
+    "holiday_traits": {
+      "new_years_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i5",
+      "chinese_new_year": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i1",
+      "valentines_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i9",
+      "st_patricks_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i8",
+      "easter_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i3",
+      "april_fools_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i0",
+      "bitcoin_pizza_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i7",
+      "ordinals_birthday": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i6",
+      "halloween": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i4",
+      "christmas_day": "c4c41f4d2bc7ea34edf9cd9c652253802f21746c5859932954faf9d065b67d95i2"
+    },
+    "stickers": [
+      {
+        "name": "GM",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi6"
+      },
+      {
+        "name": "Yes",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi10"
+      },
+      {
+        "name": "Fud",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi5"
+      },
+      {
+        "name": "Heart",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi7"
+      },
+      {
+        "name": "Mic",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi8"
+      },
+      {
+        "name": "Wen",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi9"
+      },
+      {
+        "name": "Awesome (CN)",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi0"
+      },
+      {
+        "name": "GM (CN)",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi1"
+      },
+      {
+        "name": "Hello (CN)",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi2"
+      },
+      {
+        "name": "Thanks (CN)",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi3"
+      },
+      {
+        "name": "Very Good (CN)",
+        "id": "beb19efd6c83ced18823f37ffa26d6bf83c85c8372f40725a67af2d90d8b729fi4"
+      }
+    ]
+  }
+}
