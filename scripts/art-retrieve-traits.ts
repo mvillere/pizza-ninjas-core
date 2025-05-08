@@ -27,7 +27,7 @@ async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
   try {
     // Save HTML to ./ninjas/<ninjaId>.html
     const html = await getInscriptionPreview(ninjaId);
-    const ninjaHtmlPath = path.join(__dirname, '..', 'ninjas', `${ninjaId}.html`);
+    const ninjaHtmlPath = path.join(__dirname, '..', 'ninjas/inscriptions', `${ninjaId}.html`);
     await fs.writeFile(ninjaHtmlPath, html);
 
     // Extract the Ninja.load() array
