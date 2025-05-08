@@ -25,7 +25,10 @@ async function getNinjaChildren(): Promise<string[]> {
 
 async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
   try {
+    // Save HTML to ./ninjas/<ninjaId>.html
     const html = await getInscriptionPreview(ninjaId);
+    const ninjaHtmlPath = path.join(__dirname, '..', 'ninjas', `${ninjaId}.html`);
+    await fs.writeFile(ninjaHtmlPath, html);
 
     // Extract the Ninja.load() array
     const match = html.match(/Ninja\.load\(\[([\s\S]*?)\]\)/);
@@ -90,7 +93,7 @@ async function main() {
     const traitObject = Object.fromEntries(traitMap);
 
     // Save trait mapping to file
-    const traitOutputPath = path.join(dataDir, 'trait-mapping.json');
+    const traitOutputPath = path.join(dataDir, 'trait-mappings.json');
     await fs.writeFile(traitOutputPath, JSON.stringify(traitObject, null, 2));
 
     console.log(`Successfully saved ${ninjaIds.length} ninja IDs to ${outputPath}`);

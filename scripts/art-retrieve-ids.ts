@@ -14,11 +14,9 @@ async function main() {
     console.log('Fetching art asset inscription IDs...');
     const artIds = await getChildrenInscriptions(ROOT_ART_ASSET);
 
-    // Use __dirname for ESM
     const dataDir = path.join(__dirname, '../data');
     await fs.mkdir(dataDir, { recursive: true });
 
-    // Save to JSON file
     const outputPath = path.join(dataDir, 'art-ids.json');
     await fs.writeFile(outputPath, JSON.stringify(artIds, null, 2));
 
