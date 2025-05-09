@@ -8,7 +8,8 @@
     "build": "tsc",
     "art:retrieve-ids": "node --loader ts-node/esm scripts/art-retrieve-ids.ts",
     "art:retrieve-traits": "node --loader ts-node/esm scripts/art-retrieve-traits.ts",
-    "art:join": "node --loader ts-node/esm scripts/art-join.ts"
+    "art:process-ids": "node --loader ts-node/esm scripts/art-process-ids.ts",
+    "art:process-traits": "node --loader ts-node/esm scripts/art-process-traits.ts"
   },
   "author": "@NiftyMike",
   "license": "MIT",

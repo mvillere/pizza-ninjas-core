@@ -21,34 +21,42 @@ async function main() {
     // Read the input files
     const dataDir = path.join(__dirname, '../data');
     const artIdsPath = path.join(dataDir, 'art-ids.json');
-    const traitsPath = path.join(dataDir, 'trait-mapping.json');
+    const traitMappingPath = path.join(dataDir, 'trait-mappings.json');
 
-    const [artIds, traitsData] = await Promise.all([
-      fs.readFile(artIdsPath, 'utf-8').then(JSON.parse),
-      fs.readFile(traitsPath, 'utf-8').then(JSON.parse) as Promise<TraitData>,
+    const [artIds, traitsToIds] = await Promise.all([
+      fs.readFile(artIdsPath, 'utf-8').then(JSON.parse) as Promise<string[]>,
+      fs.readFile(traitMappingPath, 'utf-8').then(JSON.parse) as Promise<TraitData>,
     ]);
 
-    const relatedTraits = new Map<string, string[]>();
-    const traitGroups = new Map<string, Set<string>>();
-
     // First pass: collect all trait groups and their variations
-    for (const [trait, id] of Object.entries(traitsData)) {
+    const relatedTraits = new Map<string, string[]>();
+    for (const [trait, id] of Object.entries(traitsToIds)) {
       if (!relatedTraits.has(id)) {
         relatedTraits.set(id, []);
       }
 
       relatedTraits.get(id)?.push(trait);
-
-    //   const normalized = normalizeTraitName(trait);
-    //   if (!traitGroups.has(normalized)) {
-    //     traitGroups.set(normalized, new Set());
-    //   }
-    //   traitGroups.get(normalized)!.add(id);
     }
 
-    console.log(relatedTraits);
+    const relatedTraitsPath = path.join(dataDir, 'trait-relationships.json');
+    await fs.writeFile(relatedTraitsPath, JSON.stringify(Object.fromEntries(relatedTraits), null, 2));
 
-    return;
+    const allArtIds = new Set(artIds);
+    const notUsedIds = new Set();
+    for (const id of allArtIds) {
+      if (!relatedTraits.has(id)) {
+        //console.log(`Inscription ${id} is not used`);
+        notUsedIds.add(id);
+      }
+    }
+
+    const notUsedIdsPath = path.join(dataDir, 'art-ids-not-used.json');
+    await fs.writeFile(notUsedIdsPath, JSON.stringify(Array.from(notUsedIds), null, 2));
+
+    // const traitGroups = new Map<string, Set<string>>();
+
+    // for (const [trait, id] of Object.entries(relatedTraits)) {
+    //     if (!relatedTraits.has(id)) {
 
     // // Second pass: identify unique traits and their IDs
     // for (const [normalizedTrait, ids] of traitGroups) {
@@ -85,4 +93,6 @@ async function main() {
   }
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+});
