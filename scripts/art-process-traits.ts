@@ -21,59 +21,80 @@ function getCommonPrefix(strings: string[]): string {
   return prefix;
 }
 
-// Helper to get the root and variants for a set of trait names
-function getRootAndVariants(traitNames: string[]): { root: string, variants: string[] } {
-  if (traitNames.length === 1) {
-    // Only one trait, root is the name, no variants
-    return { root: traitNames[0].replace(/\.svg$/, ''), variants: [] };
+// Helper to get the root and color map for a set of traitPairs
+function getRootAndColors(traitPairs: { traitname: string; colorDef: Record<string, string> | null }[]): {
+  root: string;
+  colorMap: Record<string, Record<string, string>>;
+} {
+  if (traitPairs.length === 1) {
+    const traitname = traitPairs[0].traitname.replace(/\.svg$/, '');
+    const color = traitname.split('-').pop()!;
+    const colorMap: Record<string, Record<string, string>> = {};
+    if (traitPairs[0].colorDef) colorMap[color] = traitPairs[0].colorDef;
+    return { root: traitname, colorMap };
   }
   // Remove .svg extension
-  const names = traitNames.map(name => name.replace(/\.svg$/, ''));
+  const names = traitPairs.map((pair) => pair.traitname.replace(/\.svg$/, ''));
   // Find common prefix
   const prefix = getCommonPrefix(names);
-  if (prefix && names.every(n => n.startsWith(prefix))) {
-    // If the prefix is not the full name, use it as root
-    const root = prefix.replace(/-$/, ''); // Remove trailing dash if present
-    const variants = names.map(n => n.slice(prefix.length)).map(v => v.replace(/^-/, ''));
-    // Remove empty variants
-    return { root, variants: variants.filter(v => v) };
+  let root: string;
+  if (prefix && names.every((n) => n.startsWith(prefix))) {
+    root = prefix.replace(/-$/, '');
   } else {
-    // No common prefix, use the shortest string as root
-    const root = names.reduce((a, b) => a.length <= b.length ? a : b);
-    const variants = names.filter(n => n !== root);
-    return { root, variants };
+    root = names.reduce((a, b) => (a.length <= b.length ? a : b));
   }
+  // Build colorMap
+  const colorMap: Record<string, Record<string, string>> = {};
+  for (const pair of traitPairs) {
+    const color = pair.traitname
+      .replace(/\.svg$/, '')
+      .split('-')
+      .pop()!;
+    if (pair.colorDef) colorMap[color] = pair.colorDef;
+  }
+  return { root, colorMap };
 }
 
 async function main() {
   try {
     const dataDir = path.join(__dirname, '../data');
+
+    const traitColorDefsPath = path.join(dataDir, 'trait-color-defs.json');
+    const traitColorDefs = (await fs.readFile(traitColorDefsPath, 'utf-8').then(JSON.parse)) as Record<
+      string,
+      Record<string, string>
+    >;
+
     const traitRelationshipsPath = path.join(dataDir, 'trait-relationships.json');
-    const outputPath = path.join(dataDir, 'trait-root-mapping.json');
+    const traitRelationships = (await fs.readFile(traitRelationshipsPath, 'utf-8').then(JSON.parse)) as Record<
+      string,
+      string[]
+    >;
 
-    const traitRelationships = await fs.readFile(traitRelationshipsPath, 'utf-8').then(JSON.parse) as Record<string, string[]>;
-
-    // traitgroup -> trait-root -> id -> variantListArr
-    const mapping: Record<string, Record<string, Record<string, string[]>>> = {};
+    // traitgroup -> trait-root -> id -> color -> colorDef
+    const mapping: Record<string, Record<string, Record<string, Record<string, Record<string, string>>>>> = {};
 
     for (const [id, traitArr] of Object.entries(traitRelationships)) {
       // Group by traitgroup
-      const groupMap: Record<string, string[]> = {};
+      const groupMap: Record<string, { traitname: string; colorDef: Record<string, string> }[]> = {};
       for (const trait of traitArr) {
         const [traitgroup, traitname] = trait.split('____');
         if (!traitgroup || !traitname) continue;
         if (!groupMap[traitgroup]) groupMap[traitgroup] = [];
-        groupMap[traitgroup].push(traitname);
+        const colorDef: Record<string, string> | null = traitColorDefs[trait] ?? null;
+        groupMap[traitgroup].push({ traitname, colorDef });
       }
-      for (const [traitgroup, traitnames] of Object.entries(groupMap)) {
-        const { root, variants } = getRootAndVariants(traitnames);
+      for (const [traitgroup, traitPairs] of Object.entries(groupMap)) {
+        const { root, colorMap } = getRootAndColors(traitPairs);
         if (!mapping[traitgroup]) mapping[traitgroup] = {};
         if (!mapping[traitgroup][root]) mapping[traitgroup][root] = {};
-        mapping[traitgroup][root][id] = variants;
+        mapping[traitgroup][root][id] = colorMap;
       }
     }
 
+    const outputPath = path.join(dataDir, 'trait-root-mapping.json');
     await fs.writeFile(outputPath, JSON.stringify(mapping, null, 2));
+
     console.log(`Wrote trait root mapping to ${outputPath}`);
   } catch (error) {
     console.error('Error in art-process-traits:', error);
@@ -83,4 +104,4 @@ async function main() {
 
 main().catch((err) => {
   console.error(err);
-}); 
+});

@@ -29,6 +29,7 @@ export async function getChildrenInscriptions(parentId: string): Promise<string[
 }
 
 export async function getInscriptionPreview(inscriptionId: string): Promise<string> {
+  console.log(`Retrieving ${inscriptionId} from Ord node.`);
   try {
     const response = await axios.get(`${BASE_URL}/preview/${inscriptionId}`);
     return response.data;

@@ -13,10 +13,8 @@ interface TraitConfig {
   trait: string;
   id: string;
   type?: string;
-  ST0?: string;
-  ST1?: string;
-  ST2?: string;
   holiday_swap?: string;
+  [key: `ST${number}`]: string | undefined;
 }
 
 async function getNinjaChildren(): Promise<string[]> {
@@ -25,10 +23,16 @@ async function getNinjaChildren(): Promise<string[]> {
 
 async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
   try {
-    // Save HTML to ./ninjas/<ninjaId>.html
-    const html = await getInscriptionPreview(ninjaId);
+    // Check if ninja HTML exists on disk first
     const ninjaHtmlPath = path.join(__dirname, '..', 'ninjas/inscriptions', `${ninjaId}.html`);
-    await fs.writeFile(ninjaHtmlPath, html);
+    let html;
+    try {
+      html = await fs.readFile(ninjaHtmlPath, 'utf-8');
+    } catch (err) {
+      // If file doesn't exist, fetch from inscription preview and save
+      html = await getInscriptionPreview(ninjaId);
+      await fs.writeFile(ninjaHtmlPath, html);
+    }
 
     // Extract the Ninja.load() array
     const match = html.match(/Ninja\.load\(\[([\s\S]*?)\]\)/);
@@ -45,11 +49,7 @@ async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
     const objectMatches = configStr.match(/\{([\s\S]*?)\}/g) || [];
     for (const objStr of objectMatches) {
       try {
-        // Convert the object string to a proper JSON string
-        const jsonStr = objStr
-          .replace(/(\w+):/g, '"$1":') // Add quotes to keys
-          .replace(/'/g, '"'); // Replace single quotes with double quotes
-
+        const jsonStr = objStr.replace(/(\w+):/g, '"$1":').replace(/'/g, '"');
         const config = JSON.parse(jsonStr) as TraitConfig;
         if (config.trait && config.id) {
           configs.push(config);
@@ -81,20 +81,71 @@ async function main() {
 
     console.log(`Processing ${ninjaIds.length} ninjas...`);
     const traitMap = new Map<string, string>();
+    const traitColorDefs = new Map<string, Record<string, string>>();
 
     for (const ninjaId of ninjaIds) {
       const traits = await getNinjaPreview(ninjaId);
       for (const trait of traits) {
         traitMap.set(trait.trait, trait.id);
+        // Collect ST* color defs
+        const colorDefs: Record<string, string> = {};
+        for (const key in trait) {
+          if (typeof key === 'string' && /^ST\d+$/.test(key) && trait[key as keyof TraitConfig]) {
+            colorDefs[key] = trait[key as keyof TraitConfig] as string;
+          }
+        }
+        if (Object.keys(colorDefs).length > 0) {
+          const existing = traitColorDefs.get(trait.trait);
+          if (existing) {
+            let corrected = false;
+            const existingStr = JSON.stringify(existing);
+            const newStr = JSON.stringify(colorDefs);
+            if (existingStr !== newStr) {
+              let correctValue: Record<string, string> | undefined;
+              switch (trait.trait) {
+                case 'cat-eyes____dead-cat-eyes-white.svg':
+                  correctValue = { ST0: '#000000', ST1: '#EDEDED', ST3: '#000000' };
+                  break;
+                case 'cat-eyes____dead-cat-eyes-yellow.svg':
+                  correctValue = { ST0: '#000000', ST1: '#FFD400', ST3: '#000000' };
+                  break;
+                case 'hooded-head____hooded-head-blackout-white.svg':
+                  correctValue = { ST1: '#000000', ST2: '#EDEDED' };
+                  break;
+              }
+
+              const correctStr = JSON.stringify(correctValue);
+              if (correctValue && existingStr !== correctStr) {
+                traitColorDefs.set(trait.trait, correctValue);
+                console.warn(
+                  `\n[CORRECTED] Trait: ${trait.trait} corrected according to the ${trait.trait} rule.\nOld: ${existingStr}\nNew: ${correctStr}\n`
+                );
+                corrected = true;
+              }
+            }
+            if (!corrected && existingStr !== newStr) {
+              console.error(
+                `\n\n[TRAIT COLOR DEF MISMATCH] Trait: ${trait.trait}\nExisting: ${existingStr}\nNew:      ${newStr}\n`
+              );
+            }
+          } else {
+            traitColorDefs.set(trait.trait, colorDefs);
+          }
+        }
       }
     }
 
     // Convert Map to object for JSON serialization
     const traitObject = Object.fromEntries(traitMap);
+    const traitColorDefsObject = Object.fromEntries(traitColorDefs);
 
     // Save trait mapping to file
     const traitOutputPath = path.join(dataDir, 'trait-mappings.json');
     await fs.writeFile(traitOutputPath, JSON.stringify(traitObject, null, 2));
+
+    // Save trait color defs to file
+    const traitColorDefsPath = path.join(dataDir, 'trait-color-defs.json');
+    await fs.writeFile(traitColorDefsPath, JSON.stringify(traitColorDefsObject, null, 2));
 
     console.log(`Successfully saved ${ninjaIds.length} ninja IDs to ${outputPath}`);
   } catch (error) {
