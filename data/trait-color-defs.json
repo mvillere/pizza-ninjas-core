@@ -1,0 +1,1881 @@
+{
+  "back-accessories____ninjato-gray.svg": {
+    "ST0": "#000000",
+    "ST1": "#959898",
+    "ST2": "#FFD400"
+  },
+  "stoic-body____stoic-body-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "shinobi-stripe____shinobi-stripe-gray.svg": {
+    "ST0": "#959898"
+  },
+  "cat-head____cat-head-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "weapon-body____weapon-body-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED"
+  },
+  "hands-weapons____microphone-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#959898"
+  },
+  "shinobi-belt____shinobi-belt-double-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "back-accessories____bo-staff.svg": {
+    "ST0": "#000000",
+    "ST1": "#B65F40",
+    "ST2": "#EDEDED"
+  },
+  "kombat-gi-body____kombat-gi-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "blackout-face____blackout-face-dark.svg": {
+    "ST0": "#464B4B"
+  },
+  "weapon-body____weapon-body-blue.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "hands-weapons____pizza-fork-blue.svg": {
+    "ST5": "#000000",
+    "ST6": "#6089FF"
+  },
+  "ninjalerts-head____ninjalerts-head-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____dead-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "top-of-head____classic-headband-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "back-accessories____ninjato-white-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST2": "#FF002C"
+  },
+  "stoic-body____stoic-body-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "blackout-face____blackout-face-light.svg": {
+    "ST0": "#EDEDED"
+  },
+  "blackout-eyes____blackout-maxi-biz-green.svg": {
+    "ST0": "#00A900"
+  },
+  "men-yoroi____men-yoroi-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "top-of-head____mohawk-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED"
+  },
+  "back-accessories____ninjato-purple.svg": {
+    "ST0": "#000000",
+    "ST1": "#B36CFF",
+    "ST2": "#FFD400"
+  },
+  "stoic-body____stoic-body-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "shinobi-stripe____shinobi-stripe-orange.svg": {
+    "ST0": "#E94000"
+  },
+  "ninjalerts-head____ninjalerts-head-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____laser-maxi-red.svg": {
+    "ST1": "#f32525"
+  },
+  "men-yoroi____men-yoroi-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "back-accessories____ninjato-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B",
+    "ST2": "#FFD400"
+  },
+  "weapon-body____weapon-body-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B"
+  },
+  "hands-weapons____shuriken-black.svg": {
+    "ST1": "#000000",
+    "ST2": "#464B4B"
+  },
+  "shinobi-belt____shinobi-belt-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____classic.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "top-of-head____mohawk-pink.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF3CAE"
+  },
+  "shinobi-stripe____shinobi-stripe-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "monomi-head____monomi-head-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "stoic-body____stoic-body-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "shinobi-stripe____shinobi-stripe-black.svg": {
+    "ST0": "#464B4B"
+  },
+  "ninjalerts-head____ninjalerts-head-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____skull.svg": {
+    "ST0": "#EDEDED"
+  },
+  "top-of-head____classic-headband-black.svg": {
+    "ST1": "#464B4B"
+  },
+  "weapon-body____weapon-body-green.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A900"
+  },
+  "hands-weapons____thumbs-up-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "cat-head____cat-head-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "hands-weapons____heart-emoji-yellow.svg": {
+    "ST2": "#FFD400"
+  },
+  "kombat-gi-body____kombat-gi-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "monomi-head____monomi-head-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "kombat-gi-body____kombat-gi-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "frog-head____albino-frog-head.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "frog-eyes____ninja-mask-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "back-accessories____ninjato-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF002C",
+    "ST2": "#FFD400"
+  },
+  "tracksuit____tracksuit-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B"
+  },
+  "ninjalerts-face____skull-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "ninjalerts-face____dark-assassin-cyan.svg": {
+    "ST0": "#00A28A"
+  },
+  "top-of-head____horns-cyan.svg": {
+    "ST1": "#00A28A"
+  },
+  "stoic-body____stoic-body-blackout-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "cat-head____cat-head-blackout-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "cat-eyes____focused-cat-eyes-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF",
+    "ST2": "#000000"
+  },
+  "stoic-body____stoic-body-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "top-of-head____pigtails-dark.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#FF002C"
+  },
+  "back-accessories____ninjato-blue.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF",
+    "ST2": "#FFD400"
+  },
+  "kombat-color____kombat-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____laser-maxi-blue.svg": {
+    "ST1": "#0088FF"
+  },
+  "weapon-body____weapon-body-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "hands-weapons____katana-white.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#EDEDED"
+  },
+  "hooded-head____hooded-head-blackout-black.svg": {
+    "ST1": "#000000",
+    "ST2": "#464B4B"
+  },
+  "top-of-head____crown.svg": {
+    "ST1": "#FFD400"
+  },
+  "hands-weapons____katana-green.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#00A900"
+  },
+  "shinobi-belt____shinobi-belt-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____dark-assassin.svg": {
+    "ST0": "#EDEDED"
+  },
+  "top-of-head____mohawk-purple.svg": {
+    "ST0": "#000000",
+    "ST1": "#B36CFF"
+  },
+  "weapon-body____weapon-body-gray.svg": {
+    "ST0": "#000000",
+    "ST1": "#959898"
+  },
+  "hands-weapons____katana-black.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#464B4B"
+  },
+  "shinobi-belt____shinobi-belt-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "back-accessories____ninjato-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST2": "#FFD400"
+  },
+  "stoic-body____stoic-body-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-black.svg": {
+    "ST5": "#000000",
+    "ST6": "#464B4B"
+  },
+  "top-of-head____mohawk-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400"
+  },
+  "ninjalerts-face____dead-dark.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B",
+    "ST2": "#000000"
+  },
+  "top-of-head____horns-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "stoic-body____stoic-body-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "tv-head____tv-head-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "hands-weapons____thumbs-up-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "hands-weapons____microphone-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#959898"
+  },
+  "cat-head____cat-head-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "weapon-body____weapon-body-purple.svg": {
+    "ST0": "#000000",
+    "ST1": "#B36CFF"
+  },
+  "hands-weapons____katana-fawn.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#C18300"
+  },
+  "shinobi-belt____shinobi-belt-double-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____dark-assassin-purple.svg": {
+    "ST0": "#B36CFF"
+  },
+  "weapon-body____weapon-body-orange.svg": {
+    "ST0": "#000000",
+    "ST1": "#E94000"
+  },
+  "hands-weapons____thumbs-up-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "top-of-head____horns-black.svg": {
+    "ST1": "#000000"
+  },
+  "hands-weapons____microphone-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#959898"
+  },
+  "hooded-skull____hooded-skull-blackout-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400"
+  },
+  "shinobi-stripe____shinobi-stripe-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "cat-head____cat-head-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "cat-eyes____dead-cat-eyes-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000",
+    "ST3": "#EDEDED"
+  },
+  "hooded-skull____hooded-skull-black-white.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#EDEDED"
+  },
+  "weapon-body____weapon-body-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400"
+  },
+  "ninjalerts-head____ninjalerts-head-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "top-of-head____classic-headband-orange.svg": {
+    "ST1": "#E94000"
+  },
+  "kombat-gi-body____kombat-gi-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "monomi-head____monomi-head-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "frog-head____frog-head.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "frog-eyes____ninja-mask-black.svg": {
+    "ST0": "#464B4B"
+  },
+  "monomi-head____monomi-head-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "kombat-gi-body____kombat-gi-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "tv-head____tv-head.svg": {
+    "ST1": "#959898"
+  },
+  "hands-weapons____heart-emoji-red.svg": {
+    "ST2": "#FF002C"
+  },
+  "top-of-head____mohawk-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF002C"
+  },
+  "hands-weapons____thumbs-up-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "pepe-head____pepe-head-green.svg": {
+    "ST0": "#00A900",
+    "ST2": "#FF002C"
+  },
+  "tracksuit____tracksuit-blue.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "hands-weapons____push-notification-white.svg": {
+    "ST1": "#EDEDED"
+  },
+  "frog-eyes____bored-albino-eyes.svg": {
+    "ST0": "#959898"
+  },
+  "stoic-body____stoic-body-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "top-of-head____bunny-ears.svg": {
+    "ST1": "#EDEDED",
+    "ST2": "#FF3CAE"
+  },
+  "kombat-color____kombat-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "back-accessories____ninjato-cyan.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A28A",
+    "ST2": "#FFD400"
+  },
+  "weapon-body____weapon-body-pink.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF3CAE"
+  },
+  "hands-weapons____heart-emoji-white.svg": {
+    "ST2": "#EDEDED"
+  },
+  "top-of-head____pigtails.svg": {
+    "ST1": "#FFD400",
+    "ST2": "#FF3CAE"
+  },
+  "men-yoroi____men-yoroi-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "frog-eyes____ninja-mask-blue.svg": {
+    "ST0": "#6089FF"
+  },
+  "kombat-gi-body____kombat-gi-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "frog-eyes____ninja-mask-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "back-accessories____ninjato-purple-silver.svg": {
+    "ST0": "#000000",
+    "ST1": "#B36CFF",
+    "ST2": "#959898"
+  },
+  "hands-weapons____thumbs-up-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "frog-eyes____bored-frog-eyes.svg": {
+    "ST0": "#00A900"
+  },
+  "ninjalerts-face____dead.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "men-yoroi____men-yoroi-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "hands-weapons____microphone-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#959898"
+  },
+  "shinobi-belt____shinobi-belt-double-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____maxi-biz-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "kombat-gi-body____kombat-gi-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "frog-eyes____ninja-mask-orange.svg": {
+    "ST0": "#E94000"
+  },
+  "back-accessories____bo-staff-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000",
+    "ST2": "#464B4B"
+  },
+  "monomi-headband____monomi-headband-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "kombat-gi-body____kombat-gi-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "men-yoroi____men-yoroi-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "hands-weapons____shuriken-yellow.svg": {
+    "ST1": "#000000",
+    "ST2": "#FFD400"
+  },
+  "shinobi-belt____shinobi-belt-double-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "monomi-head____monomi-head-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "stoic-body____stoic-body-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED"
+  },
+  "shinobi-stripe____shinobi-stripe-purple.svg": {
+    "ST0": "#B36CFF"
+  },
+  "cat-eyes____classic-cat-eyes-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST2": "#000000"
+  },
+  "ninjalerts-face____maxi-biz-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "hands-weapons____microphone-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#959898"
+  },
+  "frog-eyes____headband-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "hands-weapons____katana-yellow.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#FFD400"
+  },
+  "top-of-head____classic-headband-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "pepe-head____pepe-head-white.svg": {
+    "ST0": "#EDEDED",
+    "ST2": "#FF002C"
+  },
+  "back-accessories____ninjato-spirit.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#FF5400",
+    "ST2": "#FF5400"
+  },
+  "kombat-color____kombat-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "hooded-skull____hooded-hockey-mask-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "back-accessories____ninjato-pink.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF3CAE",
+    "ST2": "#FFD400"
+  },
+  "cat-eyes____focused-cat-eyes-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST2": "#000000"
+  },
+  "cat-head____cat-head-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "shinobi-belt____shinobi-belt-double-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "top-of-head____classic-headband-pink.svg": {
+    "ST1": "#FF3CAE"
+  },
+  "hands-weapons____shuriken-white.svg": {
+    "ST1": "#000000",
+    "ST2": "#EDEDED"
+  },
+  "hooded-head____hooded-head-blackout-white.svg": {
+    "ST1": "#000000",
+    "ST2": "#EDEDED"
+  },
+  "cat-head____cat-head-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-purple.svg": {
+    "ST0": "#000000",
+    "ST1": "#B36CFF"
+  },
+  "monomi-head____monomi-head-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "men-yoroi____men-yoroi-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "hooded-head____hooded-head-white-black.svg": {
+    "ST1": "#EDEDED",
+    "ST2": "#464B4B"
+  },
+  "hands-weapons____shuriken-pink.svg": {
+    "ST1": "#000000",
+    "ST2": "#FF3CAE"
+  },
+  "stoic-body____stoic-body-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-yellow.svg": {
+    "ST5": "#000000",
+    "ST6": "#FFD400"
+  },
+  "shinobi-belt____shinobi-belt-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-pink.svg": {
+    "ST5": "#000000",
+    "ST6": "#FF3CAE"
+  },
+  "ninjalerts-head____ninjalerts-head-blackout-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400"
+  },
+  "hands-weapons____shuriken-red.svg": {
+    "ST1": "#000000",
+    "ST2": "#FF002C"
+  },
+  "kombat-gi-body____kombat-gi-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "monomi-head____monomi-head-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____classic-light.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST2": "#000000"
+  },
+  "back-accessories____ninjato-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400",
+    "ST2": "#EDEDED"
+  },
+  "top-of-head____bunny-ears-red-yellow.svg": {
+    "ST1": "#FF002C",
+    "ST2": "#FFD400"
+  },
+  "men-yoroi____men-yoroi-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000"
+  },
+  "hooded-head____hooded-head-black-green.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#00A900"
+  },
+  "shinobi-belt____shinobi-belt-double-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "top-of-head____classic-headband-white.svg": {
+    "ST1": "#EDEDED"
+  },
+  "hands-weapons____katana-orange.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#E94000"
+  },
+  "shinobi-belt____shinobi-belt-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "blackout-eyes____blackout-dead-dark.svg": {
+    "ST0": "#000000"
+  },
+  "frog-eyes____headband-black.svg": {
+    "ST0": "#464B4B"
+  },
+  "hands-weapons____push-notification-purple.svg": {
+    "ST1": "#B36CFF"
+  },
+  "top-of-head____horns-yellow.svg": {
+    "ST1": "#FFD400"
+  },
+  "ninjalerts-head____ninjalerts-head-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "blackout-face____blackout-face-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "blackout-eyes____blackout-classic.svg": {
+    "ST0": "#000000"
+  },
+  "weapon-body____weapon-body-cyan.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A28A"
+  },
+  "shinobi-belt____shinobi-belt-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "blackout-face____blackout-face-tron.svg": {
+    "ST0": "#6089FF"
+  },
+  "cat-head____cat-head-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "hands-weapons____shuriken-purple.svg": {
+    "ST1": "#000000",
+    "ST2": "#B36CFF"
+  },
+  "shinobi-belt____shinobi-belt-double-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "weapon-body____weapon-body-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF002C"
+  },
+  "hands-weapons____pizza-fork-green.svg": {
+    "ST5": "#000000",
+    "ST6": "#00A900"
+  },
+  "shinobi-stripe____shinobi-stripe-white.svg": {
+    "ST0": "#EDEDED"
+  },
+  "men-yoroi____men-yoroi-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "top-of-head____classic-headband-green.svg": {
+    "ST1": "#00A900"
+  },
+  "kombat-gi-body____kombat-gi-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-gray.svg": {
+    "ST5": "#000000",
+    "ST6": "#959898"
+  },
+  "shinobi-belt____shinobi-belt-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-gray.svg": {
+    "ST0": "#000000",
+    "ST1": "#959898"
+  },
+  "shinobi-stripe____shinobi-stripe-blue.svg": {
+    "ST0": "#6089FF"
+  },
+  "hands-weapons____katana-blue.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#6089FF"
+  },
+  "shinobi-belt____shinobi-belt-double-black.svg": {
+    "ST0": "#464B4B",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-purple.svg": {
+    "ST5": "#000000",
+    "ST6": "#B36CFF"
+  },
+  "men-yoroi____men-yoroi-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "shinobi-stripe____shinobi-stripe-fawn.svg": {
+    "ST0": "#C18300"
+  },
+  "cat-eyes____dead-cat-eyes-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST3": "#000000"
+  },
+  "shinobi-belt____shinobi-belt-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "cat-eyes____classic-cat-eyes-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "hands-weapons____heart-emoji-black.svg": {
+    "ST2": "#464B4B"
+  },
+  "shinobi-belt____shinobi-belt-double-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "monomi-head____monomi-head-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-red.svg": {
+    "ST5": "#000000",
+    "ST6": "#FF002C"
+  },
+  "hands-weapons____pizza-fork-orange.svg": {
+    "ST5": "#000000",
+    "ST6": "#E94000"
+  },
+  "cat-head____cat-head-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "shinobi-stripe____shinobi-stripe-pink.svg": {
+    "ST0": "#FF3CAE"
+  },
+  "monomi-head____monomi-head-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-pink.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF3CAE"
+  },
+  "ninjalerts-head____ninjalerts-head-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "top-of-head____beanie-blue.svg": {
+    "ST0": "#6089FF"
+  },
+  "tracksuit____tracksuit-cyan.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A28A"
+  },
+  "frog-head____purple-frog-head.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "stoic-body____stoic-body-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-blackout-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "blackout-eyes____blackout-maxi-biz-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "hands-weapons____katana-gray.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#959898"
+  },
+  "kombat-gi-body____kombat-gi-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "shinobi-belt____shinobi-belt-double-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-cyan.svg": {
+    "ST5": "#000000",
+    "ST6": "#00A28A"
+  },
+  "frog-eyes____ninja-mask-cyan.svg": {
+    "ST0": "#00A28A"
+  },
+  "hands-weapons____push-notification-yellow.svg": {
+    "ST1": "#FFD400"
+  },
+  "top-of-head____classic-headband-purple.svg": {
+    "ST1": "#B36CFF"
+  },
+  "shinobi-belt____shinobi-belt-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "top-of-head____bunny-ears-black-purple.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#B36CFF"
+  },
+  "stoic-body____stoic-body-blackout-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400"
+  },
+  "stoic-body____stoic-body-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____dead-dark-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B",
+    "ST2": "#EDEDED"
+  },
+  "men-yoroi____men-yoroi-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "hands-weapons____heart-emoji-pink.svg": {
+    "ST2": "#FF3CAE"
+  },
+  "frog-eyes____headband-cyan.svg": {
+    "ST0": "#00A28A"
+  },
+  "ninjalerts-face____classic-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B",
+    "ST2": "#EDEDED"
+  },
+  "hands-weapons____lightsaber-green.svg": {
+    "ST2": "#00A900"
+  },
+  "shinobi-belt____shinobi-belt-double-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "frog-head____blue-frog-head.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "hands-weapons____thumbs-up-white.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#000000"
+  },
+  "hands-weapons____shuriken-green.svg": {
+    "ST1": "#000000",
+    "ST2": "#00A900"
+  },
+  "shinobi-belt____shinobi-belt-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400"
+  },
+  "monomi-headband____monomi-headband-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "hands-weapons____pizza-fork-white.svg": {
+    "ST5": "#000000",
+    "ST6": "#EDEDED"
+  },
+  "shinobi-stripe____shinobi-stripe-cyan.svg": {
+    "ST0": "#00A28A"
+  },
+  "ninjalerts-face____skull-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "hands-weapons____katana-pink.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#FF3CAE"
+  },
+  "frog-eyes____headband-pink.svg": {
+    "ST0": "#FF3CAE"
+  },
+  "kombat-gi-body____kombat-gi-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "hands-weapons____shuriken-fawn.svg": {
+    "ST1": "#000000",
+    "ST2": "#C18300"
+  },
+  "frog-eyes____ninja-mask-fawn.svg": {
+    "ST0": "#C18300"
+  },
+  "top-of-head____mohawk-green.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A900"
+  },
+  "weapon-body____weapon-body-blackout-tron.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "hands-weapons____shuriken-blue.svg": {
+    "ST1": "#000000",
+    "ST2": "#6089FF"
+  },
+  "top-of-head____mohawk-blue.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "cat-head____cat-head-red.svg": {
+    "ST0": "#FF002C",
+    "ST1": "#000000"
+  },
+  "frog-eyes____headband-orange.svg": {
+    "ST0": "#E94000"
+  },
+  "monomi-head____monomi-head-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "hands-weapons____heart-emoji-cyan.svg": {
+    "ST2": "#00A28A"
+  },
+  "men-yoroi____men-yoroi-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "top-of-head____crown-purple.svg": {
+    "ST1": "#B36CFF"
+  },
+  "hands-weapons____shuriken-orange.svg": {
+    "ST1": "#000000",
+    "ST2": "#E94000"
+  },
+  "hands-weapons____thumbs-up-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____maxi-biz-green.svg": {
+    "ST1": "#00A900"
+  },
+  "monomi-headband____monomi-headband-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "kombat-color____kombat-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "pepe-head____pepe-head-pink-purple.svg": {
+    "ST0": "#FF3CAE",
+    "ST2": "#B36CFF"
+  },
+  "hands-weapons____shuriken-gray.svg": {
+    "ST1": "#000000",
+    "ST2": "#959898"
+  },
+  "top-of-head____bunny-ears-gray-pink.svg": {
+    "ST1": "#959898",
+    "ST2": "#FF3CAE"
+  },
+  "back-accessories____bo-staff-spirit.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#FF5400",
+    "ST2": "#FF5400"
+  },
+  "hands-weapons____lightsaber-pink.svg": {
+    "ST2": "#FF3CAE"
+  },
+  "shinobi-belt____shinobi-belt-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "frog-head____cyan-frog-head.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "kombat-gi-body____kombat-gi-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "kombat-color____kombat-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "frog-head____tron-frog-head.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "hooded-head____hooded-head-black-black.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#464B4B"
+  },
+  "pepe-head____pepe-head-gray.svg": {
+    "ST0": "#464B4B",
+    "ST2": "#FF002C"
+  },
+  "hooded-head____hooded-head-blue-purple.svg": {
+    "ST1": "#6089FF",
+    "ST2": "#B36CFF"
+  },
+  "cat-eyes____cat-glasses-pink.svg": {
+    "ST0": "#FF3CAE"
+  },
+  "ninjalerts-head____ninjalerts-head-white-tron.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#6089FF"
+  },
+  "cat-eyes____dead-cat-eyes-black-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000",
+    "ST3": "#FF002C"
+  },
+  "frog-eyes____bored-toad-eyes.svg": {
+    "ST0": "#C18300"
+  },
+  "weapon-body____weapon-body-fawn.svg": {
+    "ST0": "#000000",
+    "ST1": "#C18300"
+  },
+  "cat-eyes____dead-cat-eyes-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400",
+    "ST3": "#000000"
+  },
+  "ninjalerts-face____dark-assassin-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "frog-eyes____headband-blue.svg": {
+    "ST0": "#6089FF"
+  },
+  "frog-eyes____headband-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "blackout-face____blackout-face-green.svg": {
+    "ST0": "#00A900"
+  },
+  "hooded-skull____hooded-skull-purple-yellow.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#FFD400"
+  },
+  "hands-weapons____lightsaber-yellow.svg": {
+    "ST2": "#FFD400"
+  },
+  "tracksuit____tracksuit-orange.svg": {
+    "ST0": "#000000",
+    "ST1": "#E94000"
+  },
+  "hands-weapons____heart-emoji-orange.svg": {
+    "ST2": "#E94000"
+  },
+  "frog-head____orange-frog-head.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "back-accessories____ninjato-black-blue.svg": {
+    "ST0": "#000000",
+    "ST1": "#464B4B",
+    "ST2": "#6089FF"
+  },
+  "top-of-head____crown-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "hands-weapons____katana-red.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#FF002C"
+  },
+  "back-accessories____ninjato-pink-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF3CAE",
+    "ST2": "#000000"
+  },
+  "hands-weapons____katana-orange-black.svg": {
+    "ST2": "#000000",
+    "ST3": "#000000",
+    "ST4": "#E94000"
+  },
+  "frog-eyes____headband-purple.svg": {
+    "ST0": "#B36CFF"
+  },
+  "cat-head____cat-head-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "turtles-body____turtle-body-blue.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#6089FF",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "tracksuit____tracksuit-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#FF002C"
+  },
+  "hands-weapons____katana-white-white.svg": {
+    "ST2": "#EDEDED",
+    "ST3": "#000000",
+    "ST4": "#EDEDED"
+  },
+  "top-of-head____horns-white.svg": {
+    "ST1": "#EDEDED"
+  },
+  "shinobi-belt____shinobi-belt-blue.svg": {
+    "ST0": "#6089FF",
+    "ST1": "#000000"
+  },
+  "ninjalerts-face____classic-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "tracksuit____tracksuit-fawn.svg": {
+    "ST0": "#000000",
+    "ST1": "#C18300"
+  },
+  "cat-head____cat-head-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "hands-weapons____katana-purple.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#B36CFF"
+  },
+  "hands-weapons____shuriken-cyan.svg": {
+    "ST1": "#000000",
+    "ST2": "#00A28A"
+  },
+  "tracksuit____tracksuit-green.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A900"
+  },
+  "hands-weapons____bitcoin-block-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "shinobi-stripe____shinobi-stripe-green.svg": {
+    "ST0": "#00A900"
+  },
+  "men-yoroi____men-yoroi-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#000000"
+  },
+  "hands-weapons____bitcoin-block-yellow.svg": {
+    "ST1": "#FFD400"
+  },
+  "hooded-head____hooded-head-pink-cyan.svg": {
+    "ST1": "#FF3CAE",
+    "ST2": "#00A28A"
+  },
+  "top-of-head____hooded-head-mohawk-cyan.svg": {
+    "ST1": "#00A28A"
+  },
+  "hands-weapons____katana-blackout.svg": {
+    "ST2": "#464B4B",
+    "ST3": "#000000",
+    "ST4": "#000000"
+  },
+  "ninjalerts-head____ninjalerts-head-ff5400.svg": {
+    "ST0": "#FF5400",
+    "ST1": "#000000"
+  },
+  "hands-weapons____lightsaber-red.svg": {
+    "ST2": "#FF002C"
+  },
+  "top-of-head____beanie-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "tv-head____tv-head-cyan.svg": {
+    "ST1": "#00A28A"
+  },
+  "back-accessories____bo-staff-blackout.svg": {
+    "ST0": "#000000",
+    "ST1": "#000000",
+    "ST2": "#EDEDED"
+  },
+  "monomi-head____monomi-head-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "tv-head____tv-head-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "stoic-body____stoic-body-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "pepe-head____pepe-head-yellow.svg": {
+    "ST0": "#FFD400",
+    "ST2": "#FF002C"
+  },
+  "hooded-head____hooded-head-black-purple.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#B36CFF"
+  },
+  "pepe-head____pepe-head-blue.svg": {
+    "ST0": "#6089FF",
+    "ST2": "#FF002C"
+  },
+  "hooded-head____hooded-head-black-red.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#FF002C"
+  },
+  "pepe-head____pepe-head-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST2": "#FF002C"
+  },
+  "frog-head____pink-frog-head.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "frog-head____yellow-frog-head.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#000000"
+  },
+  "hands-weapons____lightsaber-blue.svg": {
+    "ST2": "#6089FF"
+  },
+  "top-of-head____classic-headband-gray.svg": {
+    "ST1": "#959898"
+  },
+  "hands-weapons____microphone-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#959898"
+  },
+  "tv-head____tv-head-yellow.svg": {
+    "ST1": "#FFD400"
+  },
+  "hands-weapons____thumbs-up-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "hooded-skull____hooded-hockey-mask-white.svg": {
+    "ST0": "#EDEDED"
+  },
+  "hooded-head____hooded-head-red-white.svg": {
+    "ST1": "#FF002C",
+    "ST2": "#EDEDED"
+  },
+  "monomi-head____monomi-head-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "back-accessories____ninjato-white-white.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED",
+    "ST2": "#EDEDED"
+  },
+  "hooded-skull____hooded-hockey-mask-black.svg": {
+    "ST0": "#464B4B"
+  },
+  "top-of-head____bunny-ears-purple-white.svg": {
+    "ST1": "#B36CFF",
+    "ST2": "#EDEDED"
+  },
+  "frog-eyes____bored-cyan-frog-eyes.svg": {
+    "ST0": "#00A28A"
+  },
+  "hands-weapons____thumbs-up-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#000000"
+  },
+  "hands-weapons____katana-cyan.svg": {
+    "ST2": "#FFD400",
+    "ST3": "#000000",
+    "ST4": "#00A28A"
+  },
+  "frog-eyes____bored-purple-frog-eyes.svg": {
+    "ST0": "#B36CFF"
+  },
+  "shinobi-belt____shinobi-belt-double-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "hooded-head____hooded-head-black-yellow.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#FFD400"
+  },
+  "tv-head____tv-head-purple.svg": {
+    "ST1": "#B36CFF"
+  },
+  "hooded-head____hooded-head-black-blue.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#6089FF"
+  },
+  "hands-weapons____bitcoin-block-purple.svg": {
+    "ST1": "#B36CFF"
+  },
+  "frog-eyes____ninja-mask-pink.svg": {
+    "ST0": "#FF3CAE"
+  },
+  "hands-weapons____push-notification-pink.svg": {
+    "ST1": "#FF3CAE"
+  },
+  "hands-weapons____push-notification-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "hands-weapons____microphone-green.svg": {
+    "ST0": "#00A900",
+    "ST1": "#959898"
+  },
+  "hands-weapons____thumbs-up-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "monomi-headband____monomi-headband-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "cat-eyes____focused-cat-eyes-yellow.svg": {
+    "ST0": "#000000",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "top-of-head____beanie-orange.svg": {
+    "ST0": "#E94000"
+  },
+  "hands-weapons____heart-emoji-gray.svg": {
+    "ST2": "#959898"
+  },
+  "frog-eyes____ninja-mask-purple.svg": {
+    "ST0": "#B36CFF"
+  },
+  "top-of-head____hooded-head-mohawk-white.svg": {
+    "ST1": "#EDEDED"
+  },
+  "kombat-gi-body____kombat-gi-pink.svg": {
+    "ST0": "#FF3CAE",
+    "ST1": "#000000"
+  },
+  "cat-head____cat-head-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#000000"
+  },
+  "hooded-head____hooded-head-black-white.svg": {
+    "ST1": "#464B4B",
+    "ST2": "#EDEDED"
+  },
+  "hooded-head____hooded-head-yellow-black.svg": {
+    "ST1": "#FFD400",
+    "ST2": "#464B4B"
+  },
+  "hands-weapons____microphone-cyan.svg": {
+    "ST0": "#00A28A",
+    "ST1": "#959898"
+  },
+  "hands-weapons____thumbs-up-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#000000"
+  },
+  "hands-weapons____microphone-fawn.svg": {
+    "ST0": "#C18300",
+    "ST1": "#959898"
+  },
+  "shinobi-belt____shinobi-belt-double-orange.svg": {
+    "ST0": "#E94000",
+    "ST1": "#000000"
+  },
+  "hands-weapons____bitcoin-block-black.svg": {
+    "ST1": "#464B4B"
+  },
+  "hands-weapons____push-notification-gray.svg": {
+    "ST1": "#959898"
+  },
+  "cat-eyes____cat-glasses-gray.svg": {
+    "ST0": "#959898"
+  },
+  "hands-weapons____microphone-gray.svg": {
+    "ST0": "#959898",
+    "ST1": "#959898"
+  },
+  "hands-weapons____heart-emoji-green.svg": {
+    "ST2": "#00A900"
+  },
+  "hands-weapons____push-notification-cyan.svg": {
+    "ST1": "#00A28A"
+  },
+  "hands-weapons____microphone-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#959898"
+  },
+  "hands-weapons____push-notification-green.svg": {
+    "ST1": "#00A900"
+  },
+  "hands-weapons____bitcoin-block-white.svg": {
+    "ST1": "#EDEDED"
+  },
+  "hands-weapons____push-notification-orange.svg": {
+    "ST1": "#E94000"
+  },
+  "hands-weapons____heart-emoji-purple.svg": {
+    "ST2": "#B36CFF"
+  },
+  "hands-weapons____bitcoin-block-pink.svg": {
+    "ST1": "#FF3CAE"
+  },
+  "hands-weapons____bitcoin-block-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "frog-eyes____bored-blue-frog-eyes.svg": {
+    "ST0": "#6089FF"
+  },
+  "top-of-head____beanie-yellow.svg": {
+    "ST0": "#FFD400"
+  },
+  "ninjalerts-face____dark-assassin-red.svg": {
+    "ST0": "#FF002C"
+  },
+  "frog-eyes____bored-pink-frog-eyes.svg": {
+    "ST0": "#FF3CAE"
+  },
+  "top-of-head____mohawk-cyan.svg": {
+    "ST0": "#000000",
+    "ST1": "#00A28A"
+  },
+  "hands-weapons____push-notification-black.svg": {
+    "ST1": "#464B4B"
+  },
+  "top-of-head____mohawk-gray.svg": {
+    "ST0": "#000000",
+    "ST1": "#959898"
+  },
+  "top-of-head____mohawk-orange.svg": {
+    "ST0": "#000000",
+    "ST1": "#E94000"
+  },
+  "blackout-eyes____blackout-dead-white.svg": {
+    "ST0": "#EDEDED"
+  },
+  "monomi-head____monomi-head-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "monomi-headband____monomi-headband-tron.svg": {
+    "ST0": "#000000",
+    "ST1": "#6089FF"
+  },
+  "monomi-head____monomi-head-spirit.svg": {
+    "ST0": "#FF5400",
+    "ST1": "#EDEDED"
+  },
+  "monomi-headband____monomi-headband-spirit.svg": {
+    "ST0": "#FF5400",
+    "ST1": "#EDEDED"
+  },
+  "shinobi-belt____shinobi-belt-double-spirit.svg": {
+    "ST0": "#FF5400",
+    "ST1": "#EDEDED"
+  },
+  "top-of-head____mohawk-spirit.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#FF5400"
+  },
+  "turtles-body____turtle-body-black.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#464B4B",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-black.svg": {
+    "ST1": "#464B4B"
+  },
+  "turtles-head____turtle-mask-purple.svg": {
+    "ST1": "#B36CFF",
+    "ST2": "#00A900"
+  },
+  "turtles-body____turtle-body-brown.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#B65F40",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-mask-brown.svg": {
+    "ST1": "#B65F40",
+    "ST2": "#00A900"
+  },
+  "hands-weapons____microphone-gold.svg": {
+    "ST0": "#FFD400",
+    "ST1": "#FFD400"
+  },
+  "back-accessories____ninjato_spirit_pink_yellow.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#FF3CAE",
+    "ST2": "#FFD400"
+  },
+  "cat-head____cat-head-spirit.svg": {
+    "ST0": "#FF5400",
+    "ST1": "#EDEDED"
+  },
+  "monomi-headband____monomi-headband-spirit-black.svg": {
+    "ST0": "#000000",
+    "ST1": "#EDEDED"
+  },
+  "hands-weapons____thumbs-up-purple.svg": {
+    "ST0": "#B36CFF",
+    "ST1": "#000000"
+  },
+  "tracksuit____tracksuit-spirit.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#FF5400"
+  },
+  "cat-eyes____focused-cat-eyes-spirit.svg": {
+    "ST0": "#EDEDED",
+    "ST1": "#FFD400",
+    "ST2": "#000000"
+  },
+  "turtles-body____turtle-body-black-red.svg": {
+    "ST0": "#000000",
+    "ST1": "#959898",
+    "ST2": "#FF002C",
+    "ST3": "#EDEDED",
+    "ST4": "#EDEDED",
+    "ST5": "#464B4B",
+    "ST6": "#464B4B"
+  },
+  "turtles-head____turtle-mask-black-white.svg": {
+    "ST1": "#EDEDED",
+    "ST2": "#464B4B"
+  },
+  "hooded-head____hooded_head_white_purple.svg": {
+    "ST1": "#EDEDED",
+    "ST2": "#B36CFF"
+  },
+  "hands-weapons____push-notification-blue.svg": {
+    "ST1": "#6089FF"
+  },
+  "turtles-body____turtle-body-gray.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#959898",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-gray.svg": {
+    "ST1": "#959898"
+  },
+  "turtles-head____turtle-mask-gray.svg": {
+    "ST1": "#959898",
+    "ST2": "#00A900"
+  },
+  "turtles-body____turtle-body-yellow.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#FFD400",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-mask-yellow.svg": {
+    "ST1": "#FFD400",
+    "ST2": "#00A900"
+  },
+  "turtles-head____turtle-bandana-yellow.svg": {
+    "ST1": "#FFD400"
+  },
+  "turtles-body____turtle-body-red.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#FF002C",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-red.svg": {
+    "ST1": "#FF002C"
+  },
+  "turtles-head____turtle-bandana-brown.svg": {
+    "ST1": "#B65F40"
+  },
+  "turtles-body____turtle-body-cyan.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#00A28A",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-cyan.svg": {
+    "ST1": "#00A28A"
+  },
+  "turtles-head____turtle-mask-red.svg": {
+    "ST1": "#FF002C",
+    "ST2": "#00A900"
+  },
+  "turtles-body____turtle-body-purple.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#B36CFF",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-purple.svg": {
+    "ST1": "#B36CFF"
+  },
+  "ninjalerts-face____dark-assassin-pink.svg": {
+    "ST0": "#FF3CAE"
+  },
+  "turtles-body____turtle-body-white.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#EDEDED",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-white.svg": {
+    "ST1": "#EDEDED"
+  },
+  "turtles-body____turtle-body-pink.svg": {
+    "ST0": "#8D3D21",
+    "ST1": "#D25B31",
+    "ST2": "#FFD400",
+    "ST3": "#FF3CAE",
+    "ST4": "#EDEDED",
+    "ST5": "#5EBD3E",
+    "ST6": "#00A900"
+  },
+  "turtles-head____turtle-bandana-pink.svg": {
+    "ST1": "#FF3CAE"
+  },
+  "turtles-head____turtle-mask-pink.svg": {
+    "ST1": "#FF3CAE",
+    "ST2": "#00A900"
+  },
+  "turtles-head____turtle-mask-cyan.svg": {
+    "ST1": "#00A28A",
+    "ST2": "#00A900"
+  },
+  "turtles-head____turtle-mask-blue.svg": {
+    "ST1": "#6089FF",
+    "ST2": "#00A900"
+  }
+}
