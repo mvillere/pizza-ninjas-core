@@ -18,17 +18,21 @@ interface TraitConfig {
 }
 
 /**
- * Normalizes a trait name by converting underscores to dashes in the part after the '____' separator
- * For example: "back-accessories____ninjato_spirit_pink_yellow.svg" -> "back-accessories____ninjato-spirit-pink-yellow.svg"
+ * Normalizes a trait name by:
+ * 1. Converting underscores to dashes in the part after the '____' separator
+ * 2. Converting uppercase to lowercase in the filename part
+ * For example: 
+ * - "back-accessories____ninjato_spirit_pink_yellow.svg" -> "back-accessories____ninjato-spirit-pink-yellow.svg"
+ * - "blackout-eyes____Blackout-Scar.svg" -> "blackout-eyes____blackout-scar.svg"
  */
 function normalizeTraitName(traitName: string): string {
   const parts = traitName.split('____');
   if (parts.length !== 2) return traitName;
-
+  
   const [traitGroup, fileName] = parts;
-  // Convert underscores to dashes in the file name part
-  const normalizedFileName = fileName.replace(/_/g, '-');
-
+  // Convert underscores to dashes and lowercase the file name part
+  const normalizedFileName = fileName.replace(/_/g, '-').toLowerCase();
+  
   return `${traitGroup}____${normalizedFileName}`;
 }
 

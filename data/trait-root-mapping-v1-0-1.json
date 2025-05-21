@@ -1635,7 +1635,7 @@
     "sad": {
       "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai12": {}
     },
-    "3D-Glasses": {
+    "3d-glasses": {
       "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i132": {}
     },
     "sunglasses": {
@@ -1826,7 +1826,7 @@
     }
   },
   "blackout-eyes": {
-    "Blackout-Scar": {
+    "blackout-scar": {
       "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i13": {}
     },
     "blackout-maxi-biz": {
