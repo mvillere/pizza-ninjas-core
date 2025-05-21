@@ -916,6 +916,9 @@
     "ST1": "#EDEDED",
     "ST3": "#000000"
   },
+  "hands-weapons____push-notification-white-text.svg": {
+    "ST1": "#4A4F4F"
+  },
   "shinobi-belt____shinobi-belt-red.svg": {
     "ST0": "#FF002C",
     "ST1": "#000000"

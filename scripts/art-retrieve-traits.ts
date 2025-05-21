@@ -22,7 +22,7 @@ interface TraitConfig {
  * 1. Converting underscores to dashes in the part after the '____' separator
  * 2. Converting uppercase to lowercase in the filename part
  * 3. For frog-head traits, moving leading color tokens to the trailing position
- * For example: 
+ * For example:
  * - "back-accessories____ninjato_spirit_pink_yellow.svg" -> "back-accessories____ninjato-spirit-pink-yellow.svg"
  * - "blackout-eyes____Blackout-Scar.svg" -> "blackout-eyes____blackout-scar.svg"
  * - "frog-head____albino-frog-head.svg" -> "frog-head____frog-head-albino.svg"
@@ -30,11 +30,11 @@ interface TraitConfig {
 function normalizeTraitName(traitName: string): string {
   const parts = traitName.split('____');
   if (parts.length !== 2) return traitName;
-  
+
   const [traitGroup, fileName] = parts;
   // Convert underscores to dashes and lowercase the file name part
   let normalizedFileName = fileName.replace(/_/g, '-').toLowerCase();
-  
+
   // Special handling for frog-head traits with leading color
   if (traitGroup === 'frog-head' && normalizedFileName.includes('frog-head')) {
     // Check if the color is at the beginning (e.g., "albino-frog-head.svg")
@@ -46,7 +46,7 @@ function normalizeTraitName(traitName: string): string {
       normalizedFileName = `${root}-${color}.svg`;
     }
   }
-  
+
   return `${traitGroup}____${normalizedFileName}`;
 }
 
@@ -122,27 +122,31 @@ async function main() {
         // Normalize trait name (convert underscores to dashes)
         const originalTrait = trait.trait;
         const normalizedTrait = normalizeTraitName(originalTrait);
-        
+
         if (originalTrait !== normalizedTrait) {
           // Check if this is a frog-head trait with a leading color being moved
-          if (originalTrait.includes('frog-head') && 
-              originalTrait.includes('frog-head____') && 
-              !originalTrait.includes('____frog-head.svg')) {
+          if (
+            originalTrait.includes('frog-head') &&
+            originalTrait.includes('frog-head____') &&
+            !originalTrait.includes('____frog-head.svg')
+          ) {
             console.warn(`[LEADING COLOR MOVED TO TRAILING] ${originalTrait} -> ${normalizedTrait}`);
           } else {
             console.warn(`[TRAIT NAME NORMALIZED] ${originalTrait} -> ${normalizedTrait}`);
           }
           trait.trait = normalizedTrait;
         }
-        
+
         // Correct frog-head IDs - all frog head variants should use the same inscription ID
-        if (trait.trait.startsWith('frog-head____frog-head') && 
-            trait.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69') {
+        if (
+          trait.trait.startsWith('frog-head____frog-head') &&
+          trait.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69'
+        ) {
           const originalId = trait.id;
           trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
           console.warn(`[FROG HEAD ID CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
         }
-        
+
         traitMap.set(trait.trait, trait.id);
         // Collect ST* color defs
         const colorDefs: Record<string, string> = {};
@@ -151,6 +155,15 @@ async function main() {
             colorDefs[key] = trait[key as keyof TraitConfig] as string;
           }
         }
+
+        if (trait.trait === 'hands-weapons____push-notification-white-text.svg') {
+          // Technically this is the same color that is set by default in the SVG, but we need
+          // it explicitly set since several different traits share the SVG with different colors.
+          colorDefs['ST1'] = '#4A4F4F';
+
+          console.warn(`\n[CORRECTED] Trait: ${trait.trait} corrected to contain explicit color setting for ST1`);
+        }
+
         if (Object.keys(colorDefs).length > 0) {
           const existing = traitColorDefs.get(trait.trait);
           if (existing) {

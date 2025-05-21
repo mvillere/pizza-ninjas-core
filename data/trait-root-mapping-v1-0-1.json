@@ -1176,6 +1176,9 @@
         "white": {
           "ST1": "#EDEDED"
         },
+        "white-text": {
+          "ST1": "#4A4F4F"
+        },
         "yellow": {
           "ST1": "#FFD400"
         }
