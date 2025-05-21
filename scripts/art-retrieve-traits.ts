@@ -21,9 +21,11 @@ interface TraitConfig {
  * Normalizes a trait name by:
  * 1. Converting underscores to dashes in the part after the '____' separator
  * 2. Converting uppercase to lowercase in the filename part
+ * 3. For frog-head traits, moving leading color tokens to the trailing position
  * For example: 
  * - "back-accessories____ninjato_spirit_pink_yellow.svg" -> "back-accessories____ninjato-spirit-pink-yellow.svg"
  * - "blackout-eyes____Blackout-Scar.svg" -> "blackout-eyes____blackout-scar.svg"
+ * - "frog-head____albino-frog-head.svg" -> "frog-head____frog-head-albino.svg"
  */
 function normalizeTraitName(traitName: string): string {
   const parts = traitName.split('____');
@@ -31,7 +33,19 @@ function normalizeTraitName(traitName: string): string {
   
   const [traitGroup, fileName] = parts;
   // Convert underscores to dashes and lowercase the file name part
-  const normalizedFileName = fileName.replace(/_/g, '-').toLowerCase();
+  let normalizedFileName = fileName.replace(/_/g, '-').toLowerCase();
+  
+  // Special handling for frog-head traits with leading color
+  if (traitGroup === 'frog-head' && normalizedFileName.includes('frog-head')) {
+    // Check if the color is at the beginning (e.g., "albino-frog-head.svg")
+    const segments = normalizedFileName.replace(/\.svg$/, '').split('-');
+    if (segments.length >= 3 && segments[1] === 'frog' && segments[2] === 'head') {
+      const color = segments[0];
+      const root = 'frog-head';
+      // Move color to the end
+      normalizedFileName = `${root}-${color}.svg`;
+    }
+  }
   
   return `${traitGroup}____${normalizedFileName}`;
 }
@@ -105,15 +119,30 @@ async function main() {
     for (const ninjaId of ninjaIds) {
       const traits = await getNinjaPreview(ninjaId);
       for (const trait of traits) {
-        // Normalize trait name (convert underscores to dashes in the file part)
+        // Normalize trait name (convert underscores to dashes)
         const originalTrait = trait.trait;
         const normalizedTrait = normalizeTraitName(originalTrait);
-
+        
         if (originalTrait !== normalizedTrait) {
-          console.warn(`[TRAIT NAME NORMALIZED] ${originalTrait} -> ${normalizedTrait}`);
+          // Check if this is a frog-head trait with a leading color being moved
+          if (originalTrait.includes('frog-head') && 
+              originalTrait.includes('frog-head____') && 
+              !originalTrait.includes('____frog-head.svg')) {
+            console.warn(`[LEADING COLOR MOVED TO TRAILING] ${originalTrait} -> ${normalizedTrait}`);
+          } else {
+            console.warn(`[TRAIT NAME NORMALIZED] ${originalTrait} -> ${normalizedTrait}`);
+          }
           trait.trait = normalizedTrait;
         }
-
+        
+        // Correct frog-head IDs - all frog head variants should use the same inscription ID
+        if (trait.trait.startsWith('frog-head____frog-head') && 
+            trait.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69') {
+          const originalId = trait.id;
+          trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
+          console.warn(`[FROG HEAD ID CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
+        }
+        
         traitMap.set(trait.trait, trait.id);
         // Collect ST* color defs
         const colorDefs: Record<string, string> = {};

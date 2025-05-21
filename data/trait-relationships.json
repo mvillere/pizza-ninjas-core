@@ -361,14 +361,15 @@
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i114": ["monomi-face____classic-smile.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai107": ["top-of-head____western-hat.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69": [
-    "frog-head____albino-frog-head.svg",
+    "frog-head____frog-head-albino.svg",
     "frog-head____frog-head.svg",
-    "frog-head____purple-frog-head.svg",
-    "frog-head____blue-frog-head.svg",
-    "frog-head____cyan-frog-head.svg",
-    "frog-head____tron-frog-head.svg",
-    "frog-head____orange-frog-head.svg",
-    "frog-head____pink-frog-head.svg"
+    "frog-head____frog-head-purple.svg",
+    "frog-head____frog-head-blue.svg",
+    "frog-head____frog-head-cyan.svg",
+    "frog-head____frog-head-tron.svg",
+    "frog-head____frog-head-orange.svg",
+    "frog-head____frog-head-pink.svg",
+    "frog-head____frog-head-yellow.svg"
   ],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i71": ["frog-mouth____angry-frog.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i67": [
@@ -542,10 +543,7 @@
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai144": ["tv-screen____cute-robot.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i75": ["frog-mouth____scared-frog.svg"],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70": [
-    "frog-head____toad-head.svg",
-    "frog-head____yellow-frog-head.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70": ["frog-head____toad-head.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i5": ["blackout-eyes____blackout-bold.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai74": ["top-of-head____dark-crown.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai99": ["top-of-head____sword.svg"],
