@@ -1,0 +1,21 @@
+Fetching ninja inscription IDs...
+Processing 1500 ninjas...
+
+[CORRECTED] Trait: cat-eyes____dead-cat-eyes-white.svg corrected according to the cat-eyes____dead-cat-eyes-white.svg rule.
+Old: {"ST0":"#000000","ST1":"#EDEDED","ST2":"#000000"}
+New: {"ST0":"#000000","ST1":"#EDEDED","ST3":"#000000"}
+
+
+[CORRECTED] Trait: cat-eyes____dead-cat-eyes-yellow.svg corrected according to the cat-eyes____dead-cat-eyes-yellow.svg rule.
+Old: {"ST0":"#000000","ST1":"#FFD400","ST2":"#000000"}
+New: {"ST0":"#000000","ST1":"#FFD400","ST3":"#000000"}
+
+
+[CORRECTED] Trait: hooded-head____hooded-head-blackout-white.svg corrected according to the hooded-head____hooded-head-blackout-white.svg rule.
+Old: {"ST1":"#000000","ST2":"#00A900"}
+New: {"ST1":"#000000","ST2":"#EDEDED"}
+
+[TRAIT NAME NORMALIZED] back-accessories____ninjato_spirit_pink_yellow.svg -> back-accessories____ninjato-spirit-pink-yellow.svg
+[TRAIT NAME NORMALIZED] cat-eyes____big_eyes_pink.svg -> cat-eyes____big-eyes-pink.svg
+[TRAIT NAME NORMALIZED] top-of-head____western_hat_spirit.svg -> top-of-head____western-hat-spirit.svg
+[TRAIT NAME NORMALIZED] hooded-head____hooded_head_white_purple.svg -> hooded-head____hooded-head-white-purple.svg

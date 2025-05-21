@@ -17,6 +17,21 @@ interface TraitConfig {
   [key: `ST${number}`]: string | undefined;
 }
 
+/**
+ * Normalizes a trait name by converting underscores to dashes in the part after the '____' separator
+ * For example: "back-accessories____ninjato_spirit_pink_yellow.svg" -> "back-accessories____ninjato-spirit-pink-yellow.svg"
+ */
+function normalizeTraitName(traitName: string): string {
+  const parts = traitName.split('____');
+  if (parts.length !== 2) return traitName;
+
+  const [traitGroup, fileName] = parts;
+  // Convert underscores to dashes in the file name part
+  const normalizedFileName = fileName.replace(/_/g, '-');
+
+  return `${traitGroup}____${normalizedFileName}`;
+}
+
 async function getNinjaChildren(): Promise<string[]> {
   return getChildrenInscriptions(NINJA_PARENT);
 }
@@ -86,6 +101,15 @@ async function main() {
     for (const ninjaId of ninjaIds) {
       const traits = await getNinjaPreview(ninjaId);
       for (const trait of traits) {
+        // Normalize trait name (convert underscores to dashes in the file part)
+        const originalTrait = trait.trait;
+        const normalizedTrait = normalizeTraitName(originalTrait);
+
+        if (originalTrait !== normalizedTrait) {
+          console.warn(`[TRAIT NAME NORMALIZED] ${originalTrait} -> ${normalizedTrait}`);
+          trait.trait = normalizedTrait;
+        }
+
         traitMap.set(trait.trait, trait.id);
         // Collect ST* color defs
         const colorDefs: Record<string, string> = {};
