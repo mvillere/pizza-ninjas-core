@@ -46,10 +46,18 @@ function getRootAndColors(traitPairs: { traitname: string; colorDef: Record<stri
   // Build colorMap
   const colorMap: Record<string, Record<string, string>> = {};
   for (const pair of traitPairs) {
-    const color = pair.traitname
-      .replace(/\.svg$/, '')
-      .split('-')
-      .pop()!;
+    // Extract color by removing the root prefix and .svg suffix
+    const traitWithoutSvg = pair.traitname.replace(/\.svg$/, '');
+    let color: string;
+    if (root && traitWithoutSvg.startsWith(root)) {
+      // Remove root + optional dash
+      color = traitWithoutSvg.slice(root.length).replace(/^-/, '');
+    } else {
+      // Fallback to last segment if root pattern doesn't match
+      color = traitWithoutSvg.split('-').pop()!;
+    }
+    // If empty after extraction, use the full name
+    color = color || traitWithoutSvg;
     if (pair.colorDef) colorMap[color] = pair.colorDef;
   }
   return { root, colorMap };
@@ -92,7 +100,7 @@ async function main() {
       }
     }
 
-    const outputPath = path.join(dataDir, 'trait-root-mapping.json');
+    const outputPath = path.join(dataDir, 'trait-root-mapping-v1-0-1.json');
     await fs.writeFile(outputPath, JSON.stringify(mapping, null, 2));
 
     console.log(`Wrote trait root mapping to ${outputPath}`);

@@ -1,16 +1,12 @@
 {
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai30": [
-    "spirit-body-stoic____stoic-body-spirit.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai30": ["spirit-body-stoic____stoic-body-spirit.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai55": [
     "spirit-ninjalerts-head____ninjalerts-head-spirit.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai42": [
     "spirit-ninjalerts-face____classic-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai78": [
-    "top-of-head____halo.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai78": ["top-of-head____halo.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i2": [
     "back-accessories____ninjato-gray.svg",
     "back-accessories____ninjato-white-red.svg",
@@ -27,7 +23,7 @@
     "back-accessories____ninjato-black-blue.svg",
     "back-accessories____ninjato-pink-black.svg",
     "back-accessories____ninjato-white-white.svg",
-    "back-accessories____ninjato_spirit_pink_yellow.svg"
+    "back-accessories____ninjato-spirit-pink-yellow.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai56": [
     "stoic-body____stoic-body-blackout.svg",
@@ -76,12 +72,8 @@
     "cat-head____cat-head-fawn.svg",
     "cat-head____cat-head-spirit.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i26": [
-    "cat-eyes____tabby-black-cat-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i40": [
-    "cat-top-of-head____tiny-crown.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i26": ["cat-eyes____tabby-black-cat-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i40": ["cat-top-of-head____tiny-crown.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai148": [
     "weapon-body____weapon-body-white.svg",
     "weapon-body____weapon-body-blue.svg",
@@ -147,12 +139,8 @@
     "ninjalerts-head____ninjalerts-head-white-tron.svg",
     "ninjalerts-head____ninjalerts-head-ff5400.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai15": [
-    "ninjalerts-face____spectacles.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai94": [
-    "top-of-head____sauce.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai15": ["ninjalerts-face____spectacles.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai94": ["top-of-head____sauce.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i0": [
     "back-accessories____bo-staff.svg",
     "back-accessories____bo-staff-black.svg",
@@ -197,12 +185,8 @@
     "blackout-face____blackout-face-tron.svg",
     "blackout-face____blackout-face-green.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i13": [
-    "blackout-eyes____Blackout-Scar.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai93": [
-    "top-of-head____rice-hat.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i13": ["blackout-eyes____Blackout-Scar.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai93": ["top-of-head____rice-hat.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i89": [
     "hands-weapons____pizza-fork-blue.svg",
     "hands-weapons____pizza-fork-black.svg",
@@ -321,12 +305,8 @@
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i127": [
     "monomi-headband____monomi-double-headband-white.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i119": [
-    "monomi-face____red-eyes-surprise.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai76": [
-    "top-of-head____flame.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i119": ["monomi-face____red-eyes-surprise.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai76": ["top-of-head____flame.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai14": [
     "ninjalerts-face____skull.svg",
     "ninjalerts-face____skull-yellow.svg",
@@ -346,12 +326,8 @@
     "hands-weapons____thumbs-up-gray.svg",
     "hands-weapons____thumbs-up-purple.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai25": [
-    "shinobi-belt____btc-necklace.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i42": [
-    "cat-top-of-head____uncommon-sat.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai25": ["shinobi-belt____btc-necklace.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i42": ["cat-top-of-head____uncommon-sat.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i84": [
     "hands-weapons____heart-emoji-yellow.svg",
     "hands-weapons____heart-emoji-red.svg",
@@ -364,9 +340,7 @@
     "hands-weapons____heart-emoji-green.svg",
     "hands-weapons____heart-emoji-purple.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i100": [
-    "kevin-head____kevin-head.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i100": ["kevin-head____kevin-head.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i129": [
     "monomi-headband____monomi-headband-gray.svg",
     "monomi-headband____monomi-headband-green.svg",
@@ -384,12 +358,8 @@
     "monomi-headband____monomi-headband-spirit.svg",
     "monomi-headband____monomi-headband-spirit-black.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i114": [
-    "monomi-face____classic-smile.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai107": [
-    "top-of-head____western-hat.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i114": ["monomi-face____classic-smile.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai107": ["top-of-head____western-hat.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69": [
     "frog-head____albino-frog-head.svg",
     "frog-head____frog-head.svg",
@@ -400,9 +370,7 @@
     "frog-head____orange-frog-head.svg",
     "frog-head____pink-frog-head.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i71": [
-    "frog-mouth____angry-frog.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i71": ["frog-mouth____angry-frog.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i67": [
     "frog-eyes____ninja-mask-red.svg",
     "frog-eyes____ninja-mask-black.svg",
@@ -430,9 +398,7 @@
     "tracksuit____tracksuit-green.svg",
     "tracksuit____tracksuit-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai114": [
-    "tracksuit-stripe____tracksuit-stripe.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai114": ["tracksuit-stripe____tracksuit-stripe.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i143": [
     "ninjalerts-face____dark-assassin-cyan.svg",
     "ninjalerts-face____dark-assassin.svg",
@@ -454,19 +420,13 @@
     "cat-eyes____focused-cat-eyes-yellow.svg",
     "cat-eyes____focused-cat-eyes-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai28": [
-    "shinobi-stripe____btc-chain.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i135": [
-    "ninjalerts-face____blush.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai28": ["shinobi-stripe____btc-chain.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i135": ["ninjalerts-face____blush.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai85": [
     "top-of-head____pigtails-dark.svg",
     "top-of-head____pigtails.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai81": [
-    "top-of-head____ice-cream.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai81": ["top-of-head____ice-cream.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i85": [
     "hands-weapons____katana-white.svg",
     "hands-weapons____katana-green.svg",
@@ -499,28 +459,18 @@
     "hooded-head____hooded-head-black-blue.svg",
     "hooded-head____hooded-head-black-white.svg",
     "hooded-head____hooded-head-yellow-black.svg",
-    "hooded-head____hooded_head_white_purple.svg"
+    "hooded-head____hooded-head-white-purple.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai73": [
     "top-of-head____crown.svg",
     "top-of-head____crown-purple.svg",
     "top-of-head____crown-blue.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai65": [
-    "top-of-head____btc-bozo.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i142": [
-    "ninjalerts-face____cyborg.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai108": [
-    "top-of-head____white-pizza.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai89": [
-    "top-of-head____pizza.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i128": [
-    "monomi-headband____monomi-durag-red.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai65": ["top-of-head____btc-bozo.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i142": ["ninjalerts-face____cyborg.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai108": ["top-of-head____white-pizza.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai89": ["top-of-head____pizza.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i128": ["monomi-headband____monomi-durag-red.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144": [
     "ninjalerts-face____dead-dark.svg",
     "ninjalerts-face____dead-dark-white.svg"
@@ -533,18 +483,10 @@
     "tv-head____tv-head-yellow.svg",
     "tv-head____tv-head-purple.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai145": [
-    "tv-screen____no-signal.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai67": [
-    "top-of-head____cheese-wedge.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i31": [
-    "cat-top-of-head____blue-fire.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai4": [
-    "ninjalerts-face____hollow-green-yellow.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai145": ["tv-screen____no-signal.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai67": ["top-of-head____cheese-wedge.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i31": ["cat-top-of-head____blue-fire.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai4": ["ninjalerts-face____hollow-green-yellow.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i96": [
     "hooded-skull____hooded-skull-blackout-yellow.svg",
     "hooded-skull____hooded-skull-black-white.svg",
@@ -559,30 +501,14 @@
     "cat-eyes____dead-cat-eyes-black-red.svg",
     "cat-eyes____dead-cat-eyes-yellow.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i35": [
-    "cat-top-of-head____green-tomato.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai18": [
-    "ninjalerts-face____white-classic.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i146": [
-    "ninjalerts-face____electric-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i113": [
-    "monomi-face____classic-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i72": [
-    "frog-mouth____bored-frog.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i110": [
-    "monomi-face____blackout-visor.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai143": [
-    "tv-screen____blue-robot.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i118": [
-    "monomi-face____lashes.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i35": ["cat-top-of-head____green-tomato.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai18": ["ninjalerts-face____white-classic.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i146": ["ninjalerts-face____electric-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i113": ["monomi-face____classic-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i72": ["frog-mouth____bored-frog.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i110": ["monomi-face____blackout-visor.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai143": ["tv-screen____blue-robot.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i118": ["monomi-face____lashes.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai24": [
     "pepe-head____pepe-head-green.svg",
     "pepe-head____pepe-head-white.svg",
@@ -604,15 +530,9 @@
     "frog-eyes____bored-blue-frog-eyes.svg",
     "frog-eyes____bored-pink-frog-eyes.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai104": [
-    "top-of-head____top-hat.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i1": [
-    "back-accessories____hockey-stick.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai3": [
-    "ninjalerts-face____hockey-mask.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai104": ["top-of-head____top-hat.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i1": ["back-accessories____hockey-stick.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai3": ["ninjalerts-face____hockey-mask.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai66": [
     "top-of-head____bunny-ears.svg",
     "top-of-head____bunny-ears-red-yellow.svg",
@@ -620,58 +540,32 @@
     "top-of-head____bunny-ears-gray-pink.svg",
     "top-of-head____bunny-ears-purple-white.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai144": [
-    "tv-screen____cute-robot.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i75": [
-    "frog-mouth____scared-frog.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai144": ["tv-screen____cute-robot.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i75": ["frog-mouth____scared-frog.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70": [
     "frog-head____toad-head.svg",
     "frog-head____yellow-frog-head.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i5": [
-    "blackout-eyes____blackout-bold.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai74": [
-    "top-of-head____dark-crown.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai99": [
-    "top-of-head____sword.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i5": ["blackout-eyes____blackout-bold.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai74": ["top-of-head____dark-crown.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai99": ["top-of-head____sword.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai7": [
     "ninjalerts-face____maxi-biz-red.svg",
     "ninjalerts-face____maxi-biz-blue.svg",
     "ninjalerts-face____maxi-biz-green.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i112": [
-    "monomi-face____classic-eyes-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai59": [
-    "top-of-head____banana.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai19": [
-    "ninjalerts-face____white-dead.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai20": [
-    "ninjalerts-face____white-hollow.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i116": [
-    "monomi-face____groan.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai95": [
-    "top-of-head____spinner-hat.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i147": [
-    "ninjalerts-face____eye-patch-white.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i112": ["monomi-face____classic-eyes-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai59": ["top-of-head____banana.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai19": ["ninjalerts-face____white-dead.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai20": ["ninjalerts-face____white-hollow.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i116": ["monomi-face____groan.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai95": ["top-of-head____spinner-hat.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i147": ["ninjalerts-face____eye-patch-white.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i22": [
     "cat-eyes____classic-cat-eyes-white.svg",
     "cat-eyes____classic-cat-eyes-yellow.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai87": [
-    "top-of-head____pirate.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai87": ["top-of-head____pirate.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i66": [
     "frog-eyes____headband-red.svg",
     "frog-eyes____headband-black.svg",
@@ -682,71 +576,33 @@
     "frog-eyes____headband-yellow.svg",
     "frog-eyes____headband-purple.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i140": [
-    "ninjalerts-face____cheerful.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i140": ["ninjalerts-face____cheerful.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i95": [
     "hooded-skull____hooded-hockey-mask-red.svg",
     "hooded-skull____hooded-hockey-mask-white.svg",
     "hooded-skull____hooded-hockey-mask-black.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i30": [
-    "cat-top-of-head____ball-of-yarn.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i39": [
-    "cat-top-of-head____ring-of-light.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai2": [
-    "ninjalerts-face____gasp.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i134": [
-    "ninjalerts-face____bitcoin.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i27": [
-    "cat-eyes____tabby-color-cat-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i41": [
-    "cat-top-of-head____tomato-sauce.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai9": [
-    "ninjalerts-face____pizza-note.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai109": [
-    "top-of-head____wizard.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai63": [
-    "top-of-head____blue-flame.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i28": [
-    "cat-eyes____vr-cat-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i16": [
-    "cat-eyes____big-black-eyes.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai13": [
-    "ninjalerts-face____scar.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i32": [
-    "cat-top-of-head____cheddar-wedge.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i121": [
-    "monomi-face____robotic.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai8": [
-    "ninjalerts-face____pixel.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai57": [
-    "top-of-head____apple.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i30": ["cat-top-of-head____ball-of-yarn.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i39": ["cat-top-of-head____ring-of-light.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai2": ["ninjalerts-face____gasp.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i134": ["ninjalerts-face____bitcoin.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i27": ["cat-eyes____tabby-color-cat-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i41": ["cat-top-of-head____tomato-sauce.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai9": ["ninjalerts-face____pizza-note.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai109": ["top-of-head____wizard.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai63": ["top-of-head____blue-flame.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i28": ["cat-eyes____vr-cat-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i16": ["cat-eyes____big-black-eyes.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai13": ["ninjalerts-face____scar.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i32": ["cat-top-of-head____cheddar-wedge.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i121": ["monomi-face____robotic.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai8": ["ninjalerts-face____pixel.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai57": ["top-of-head____apple.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai115": [
     "tracksuit-stripe____tracksuit-two-stripe.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai86": [
-    "top-of-head____pineapple.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai92": [
-    "top-of-head____push-pin.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai86": ["top-of-head____pineapple.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai92": ["top-of-head____push-pin.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i7": [
     "blackout-eyes____blackout-dead-dark.svg",
     "blackout-eyes____blackout-dead-white.svg"
@@ -762,54 +618,26 @@
     "hands-weapons____push-notification-black.svg",
     "hands-weapons____push-notification-blue.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i6": [
-    "blackout-eyes____blackout-classic.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai84": [
-    "top-of-head____party-hat.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai101": [
-    "top-of-head____tiny-tilted-crown.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i133": [
-    "ninjalerts-face____antihero.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i62": [
-    "frog-eyes____classic-frog-eyes.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai17": [
-    "ninjalerts-face____white-blush.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai98": [
-    "top-of-head____sprout.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai83": [
-    "top-of-head____monomi-rabbit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai5": [
-    "ninjalerts-face____hollow.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i38": [
-    "cat-top-of-head____pizza-slice.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai12": [
-    "ninjalerts-face____sad.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i132": [
-    "ninjalerts-face____3D-Glasses.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i6": ["blackout-eyes____blackout-classic.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai84": ["top-of-head____party-hat.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai101": ["top-of-head____tiny-tilted-crown.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i133": ["ninjalerts-face____antihero.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i62": ["frog-eyes____classic-frog-eyes.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai17": ["ninjalerts-face____white-blush.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai98": ["top-of-head____sprout.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai83": ["top-of-head____monomi-rabbit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai5": ["ninjalerts-face____hollow.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i38": ["cat-top-of-head____pizza-slice.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai12": ["ninjalerts-face____sad.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i132": ["ninjalerts-face____3D-Glasses.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai60": [
     "top-of-head____beanie-blue.svg",
     "top-of-head____beanie-red.svg",
     "top-of-head____beanie-orange.svg",
     "top-of-head____beanie-yellow.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i34": [
-    "cat-top-of-head____fire.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i73": [
-    "frog-mouth____happy-frog.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i34": ["cat-top-of-head____fire.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i73": ["frog-mouth____happy-frog.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i87": [
     "hands-weapons____lightsaber-green.svg",
     "hands-weapons____lightsaber-pink.svg",
@@ -817,114 +645,50 @@
     "hands-weapons____lightsaber-red.svg",
     "hands-weapons____lightsaber-blue.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai77": [
-    "top-of-head____fried-egg.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai16": [
-    "ninjalerts-face____sunglasses.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i125": [
-    "monomi-face____xx-dead.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai77": ["top-of-head____fried-egg.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai16": ["ninjalerts-face____sunglasses.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i125": ["monomi-face____xx-dead.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i11": [
     "blackout-eyes____blackout-laser-maxi-red.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i37": [
-    "cat-top-of-head____pineapple-fruit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai105": [
-    "top-of-head____unicorn.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i10": [
-    "blackout-eyes____blackout-hollow.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai88": [
-    "top-of-head____pizza-sticky.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i74": [
-    "frog-mouth____kawaii-frog.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i4": [
-    "blackout-eyes____blackout-blush.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i64": [
-    "frog-eyes____frog-lashes-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i136": [
-    "ninjalerts-face____bold.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i19": [
-    "cat-eyes____calico-cat-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i124": [
-    "monomi-face____white-eyes-surprise.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai68": [
-    "top-of-head____chef-hat.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i117": [
-    "monomi-face____laser-eyes.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai149": [
-    "cat-head____cat-head-blackout.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i18": [
-    "cat-eyes____big-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i115": [
-    "monomi-face____excited.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i86": [
-    "hands-weapons____legendary-sat.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai97": [
-    "top-of-head____spirit-flame.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai150": [
-    "frog-eyes____ninja-mask-tron.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai21": [
-    "ninjalerts-face____wink.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i37": ["cat-top-of-head____pineapple-fruit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai105": ["top-of-head____unicorn.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i10": ["blackout-eyes____blackout-hollow.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai88": ["top-of-head____pizza-sticky.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i74": ["frog-mouth____kawaii-frog.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i4": ["blackout-eyes____blackout-blush.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i64": ["frog-eyes____frog-lashes-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i136": ["ninjalerts-face____bold.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i19": ["cat-eyes____calico-cat-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i124": ["monomi-face____white-eyes-surprise.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai68": ["top-of-head____chef-hat.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i117": ["monomi-face____laser-eyes.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai149": ["cat-head____cat-head-blackout.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i18": ["cat-eyes____big-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i115": ["monomi-face____excited.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i86": ["hands-weapons____legendary-sat.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai97": ["top-of-head____spirit-flame.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai150": ["frog-eyes____ninja-mask-tron.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai21": ["ninjalerts-face____wink.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai160": [
     "pepe-head____pepe-head-gray.svg",
     "pepe-head____pepe-head-blackout.svg",
     "pepe-head____pepe-head-blue.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai91": [
-    "top-of-head____purple-flame.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai91": ["top-of-head____purple-flame.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i21": [
     "cat-eyes____cat-glasses-pink.svg",
     "cat-eyes____cat-glasses-gray.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai0": [
-    "ninjalerts-face____gasp-dark.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i36": [
-    "cat-top-of-head____orange-sherbert.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai110": [
-    "top-of-head____yellow-flame.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai103": [
-    "top-of-head____tomato.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai102": [
-    "top-of-head____toilet-paper.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i63": [
-    "frog-eyes____dead-frog-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i131": [
-    "ninjalerts-face____3d-glasses-yellow.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai10": [
-    "ninjalerts-face____robot-dark.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i130": [
-    "monomi-headband____monomi-ponytail.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai0": ["ninjalerts-face____gasp-dark.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i36": ["cat-top-of-head____orange-sherbert.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai110": ["top-of-head____yellow-flame.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai103": ["top-of-head____tomato.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai102": ["top-of-head____toilet-paper.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i63": ["frog-eyes____dead-frog-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i131": ["ninjalerts-face____3d-glasses-yellow.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai10": ["ninjalerts-face____robot-dark.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i130": ["monomi-headband____monomi-ponytail.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai117": [
     "turtles-body____turtle-body-blue.svg",
     "turtles-body____turtle-body-black.svg",
@@ -938,9 +702,7 @@
     "turtles-body____turtle-body-white.svg",
     "turtles-body____turtle-body-pink.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai138": [
-    "turtles-hand____short-sword.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai138": ["turtles-hand____short-sword.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai140": [
     "turtles-head____turtle-bandana-blue.svg",
     "turtles-head____turtle-bandana-black.svg",
@@ -954,24 +716,12 @@
     "turtles-head____turtle-bandana-white.svg",
     "turtles-head____turtle-bandana-pink.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai125": [
-    "turtles-face____glossy-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i149": [
-    "ninjalerts-face____flinch.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i123": [
-    "monomi-face____vr-visor.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i68": [
-    "frog-eyes____wink-frog-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i25": [
-    "cat-eyes____laser-cat-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i3": [
-    "blackout-eyes____big-eyes.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai125": ["turtles-face____glossy-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i149": ["ninjalerts-face____flinch.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i123": ["monomi-face____vr-visor.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i68": ["frog-eyes____wink-frog-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i25": ["cat-eyes____laser-cat-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i3": ["blackout-eyes____big-eyes.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i81": [
     "hands-weapons____bitcoin-block-blue.svg",
     "hands-weapons____bitcoin-block-yellow.svg",
@@ -985,114 +735,54 @@
     "top-of-head____hooded-head-mohawk-cyan.svg",
     "top-of-head____hooded-head-mohawk-white.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i145": [
-    "ninjalerts-face____dizzy.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai64": [
-    "top-of-head____bow.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai72": [
-    "top-of-head____cranium.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i145": ["ninjalerts-face____dizzy.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai64": ["top-of-head____bow.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai72": ["top-of-head____cranium.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai44": [
     "spirit-ninjalerts-face____electric-eyes-spirit.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai113": [
     "tracksuit-stripe____tracksuit-stripe-white.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai146": [
-    "tv-screen____static.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i33": [
-    "cat-top-of-head____common-sat.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai146": ["tv-screen____static.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i33": ["cat-top-of-head____common-sat.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i99": [
     "hooded-skull-eyes____hooded-skull-white-x-eyes.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai61": [
-    "top-of-head____black-crown.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i65": [
-    "frog-eyes____goofy-eyes.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i78": [
-    "frog-top-of-head____frog-halo-yellow.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i109": [
-    "monomi-face____black-eyes-surprise.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i20": [
-    "cat-eyes____cat-glasses-3d.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai62": [
-    "top-of-head____block-height.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i148": [
-    "ninjalerts-face____eye-patch.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i138": [
-    "ninjalerts-face____btc-spectacles.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai22": [
-    "ninjalerts-face____x.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai100": [
-    "top-of-head____threads.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai61": ["top-of-head____black-crown.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i65": ["frog-eyes____goofy-eyes.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i78": ["frog-top-of-head____frog-halo-yellow.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i109": ["monomi-face____black-eyes-surprise.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i20": ["cat-eyes____cat-glasses-3d.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai62": ["top-of-head____block-height.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i148": ["ninjalerts-face____eye-patch.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i138": ["ninjalerts-face____btc-spectacles.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai22": ["ninjalerts-face____x.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai100": ["top-of-head____threads.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai32": [
     "spirit-body-weapon____weapon-body-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai33": [
-    "spirit-hands-weapons____katana-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai46": [
-    "spirit-ninjalerts-face____gasp-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai147": [
-    "tv-screen____tv-off.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i82": [
-    "hands-weapons____black-sat-white.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai11": [
-    "ninjalerts-face____robot.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai90": [
-    "top-of-head____ponytail.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai1": [
-    "ninjalerts-face____gasp-yellow.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai155": [
-    "hands-weapons____lightsaber-tron.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i122": [
-    "monomi-face____tron-monomi-visor.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i120": [
-    "monomi-face____robotic-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai153": [
-    "hands-weapons____heart-emoji-spirit.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i139": [
-    "ninjalerts-face____cheerful-spirit.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai33": ["spirit-hands-weapons____katana-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai46": ["spirit-ninjalerts-face____gasp-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai147": ["tv-screen____tv-off.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i82": ["hands-weapons____black-sat-white.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai11": ["ninjalerts-face____robot.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai90": ["top-of-head____ponytail.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai1": ["ninjalerts-face____gasp-yellow.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai155": ["hands-weapons____lightsaber-tron.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i122": ["monomi-face____tron-monomi-visor.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i120": ["monomi-face____robotic-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai153": ["hands-weapons____heart-emoji-spirit.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i139": ["ninjalerts-face____cheerful-spirit.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai36": [
     "spirit-hands-weapons____pizza-fork-spirit.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai52": [
     "spirit-ninjalerts-face____vintage-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai43": [
-    "spirit-ninjalerts-face____dead-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai136": [
-    "turtles-hand____sai.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai120": [
-    "turtles-face____angry-eyes-smile.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai43": ["spirit-ninjalerts-face____dead-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai136": ["turtles-hand____sai.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai120": ["turtles-face____angry-eyes-smile.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai141": [
     "turtles-head____turtle-mask-purple.svg",
     "turtles-head____turtle-mask-brown.svg",
@@ -1103,51 +793,25 @@
     "turtles-head____turtle-mask-cyan.svg",
     "turtles-head____turtle-mask-blue.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai131": [
-    "turtles-face____xx-dead-eyes-pizza.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai157": [
-    "ninjalerts-face____dead-spirit-white.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai96": [
-    "top-of-head____spirit-bow.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai135": [
-    "turtles-hand____nunchucks.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai118": [
-    "turtles-face____angry-eyes-gasp.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai50": [
-    "spirit-ninjalerts-face____scar-spirit.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai131": ["turtles-face____xx-dead-eyes-pizza.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai157": ["ninjalerts-face____dead-spirit-white.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai96": ["top-of-head____spirit-bow.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai135": ["turtles-hand____nunchucks.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai118": ["turtles-face____angry-eyes-gasp.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai50": ["spirit-ninjalerts-face____scar-spirit.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i98": [
     "hooded-skull-eyes____hooded-skull-eyes-red.svg"
   ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i17": [
-    "cat-eyes____big_eyes_pink.svg"
-  ],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i91": [
-    "hands-weapons____rare-sat-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai40": [
-    "spirit-ninjalerts-face____blush-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai151": [
-    "hands-weapons____bitcoin-block-spirit.svg"
-  ],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i17": ["cat-eyes____big-eyes-pink.svg"],
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i91": ["hands-weapons____rare-sat-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai40": ["spirit-ninjalerts-face____blush-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai151": ["hands-weapons____bitcoin-block-spirit.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i111": [
     "monomi-face____classic-eyes-smile-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai124": [
-    "turtles-face____classic-cartoon-eyes.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai39": [
-    "spirit-ninja____scar-spirit-brown.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai106": [
-    "top-of-head____western_hat_spirit.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai124": ["turtles-face____classic-cartoon-eyes.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai39": ["spirit-ninja____scar-spirit-brown.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai106": ["top-of-head____western-hat-spirit.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai31": [
     "spirit-body-weapon____weapon-body-red-spirit.svg"
   ],
@@ -1157,24 +821,16 @@
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai54": [
     "spirit-ninjalerts-head____ninjalerts-head-red-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai75": [
-    "top-of-head____flame-red-white.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai137": [
-    "turtles-hand____short-sword-black-red.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai129": [
-    "turtles-face____tired-eyes.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai75": ["top-of-head____flame-red-white.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai137": ["turtles-hand____short-sword-black-red.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai129": ["turtles-face____tired-eyes.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai38": [
     "spirit-hands-weapons____thumbs-up-spirit.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai34": [
     "spirit-hands-weapons____microphone-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai41": [
-    "spirit-ninjalerts-face____bold-spirit.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai41": ["spirit-ninjalerts-face____bold-spirit.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai48": [
     "spirit-ninjalerts-face____laser-maxi-red-spirit.svg"
   ],
@@ -1184,43 +840,25 @@
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai45": [
     "spirit-ninjalerts-face____eye-patch-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai126": [
-    "turtles-face____tired-eyes-gasp.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai126": ["turtles-face____tired-eyes-gasp.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai123": [
     "turtles-face____classic-cartoon-eyes-smile.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai139": [
-    "turtles-hand____thumbs-up.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai132": [
-    "turtles-face____xx-dead-eyes-smile.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai49": [
-    "spirit-ninjalerts-face____robot-spirit.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai139": ["turtles-hand____thumbs-up.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai132": ["turtles-face____xx-dead-eyes-smile.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai49": ["spirit-ninjalerts-face____robot-spirit.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai122": [
     "turtles-face____classic-cartoon-eyes-pizza.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai121": [
     "turtles-face____classic-cartoon-eyes-gasp.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai53": [
-    "spirit-ninjalerts-face____wink-spirit.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai127": [
-    "turtles-face____tired-eyes-pizza.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai128": [
-    "turtles-face____tired-eyes-smile.svg"
-  ],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai53": ["spirit-ninjalerts-face____wink-spirit.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai127": ["turtles-face____tired-eyes-pizza.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai128": ["turtles-face____tired-eyes-smile.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai47": [
     "spirit-ninjalerts-face____laser-maxi-blue-spirit.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai134": [
-    "turtles-hand____bo-staff.svg"
-  ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai133": [
-    "turtles-face____xx-dead-eyes.svg"
-  ]
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai134": ["turtles-hand____bo-staff.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai133": ["turtles-face____xx-dead-eyes.svg"]
 }

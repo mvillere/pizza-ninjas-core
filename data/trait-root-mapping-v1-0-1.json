@@ -1,0 +1,2805 @@
+{
+  "spirit-body-stoic": {
+    "stoic-body-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai30": {}
+    }
+  },
+  "spirit-ninjalerts-head": {
+    "ninjalerts-head-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai55": {}
+    },
+    "ninjalerts-head-red-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai54": {}
+    }
+  },
+  "spirit-ninjalerts-face": {
+    "classic-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai42": {}
+    },
+    "electric-eyes-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai44": {}
+    },
+    "gasp-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai46": {}
+    },
+    "vintage-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai52": {}
+    },
+    "dead-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai43": {}
+    },
+    "scar-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai50": {}
+    },
+    "blush-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai40": {}
+    },
+    "bold-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai41": {}
+    },
+    "laser-maxi-red-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai48": {}
+    },
+    "spectacles-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai51": {}
+    },
+    "eye-patch-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai45": {}
+    },
+    "robot-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai49": {}
+    },
+    "wink-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai53": {}
+    },
+    "laser-maxi-blue-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai47": {}
+    }
+  },
+  "top-of-head": {
+    "halo": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai78": {}
+    },
+    "sauce": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai94": {}
+    },
+    "rice-hat": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai93": {}
+    },
+    "classic-headband": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai69": {
+        "blue": {
+          "ST1": "#6089FF"
+        },
+        "black": {
+          "ST1": "#464B4B"
+        },
+        "orange": {
+          "ST1": "#E94000"
+        },
+        "red": {
+          "ST1": "#FF002C"
+        },
+        "pink": {
+          "ST1": "#FF3CAE"
+        },
+        "white": {
+          "ST1": "#EDEDED"
+        },
+        "green": {
+          "ST1": "#00A900"
+        },
+        "purple": {
+          "ST1": "#B36CFF"
+        },
+        "gray": {
+          "ST1": "#959898"
+        }
+      }
+    },
+    "mohawk": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai82": {
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED"
+        },
+        "pink": {
+          "ST0": "#000000",
+          "ST1": "#FF3CAE"
+        },
+        "purple": {
+          "ST0": "#000000",
+          "ST1": "#B36CFF"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400"
+        },
+        "red": {
+          "ST0": "#000000",
+          "ST1": "#FF002C"
+        },
+        "green": {
+          "ST0": "#000000",
+          "ST1": "#00A900"
+        },
+        "blue": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "cyan": {
+          "ST0": "#000000",
+          "ST1": "#00A28A"
+        },
+        "gray": {
+          "ST0": "#000000",
+          "ST1": "#959898"
+        },
+        "orange": {
+          "ST0": "#000000",
+          "ST1": "#E94000"
+        },
+        "spirit": {
+          "ST0": "#EDEDED",
+          "ST1": "#FF5400"
+        }
+      }
+    },
+    "flame": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai76": {}
+    },
+    "western-hat": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai107": {}
+    },
+    "horns": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai80": {
+        "cyan": {
+          "ST1": "#00A28A"
+        },
+        "red": {
+          "ST1": "#FF002C"
+        },
+        "black": {
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST1": "#FFD400"
+        },
+        "white": {
+          "ST1": "#EDEDED"
+        }
+      }
+    },
+    "pigtails": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai85": {
+        "dark": {
+          "ST1": "#464B4B",
+          "ST2": "#FF002C"
+        },
+        "pigtails": {
+          "ST1": "#FFD400",
+          "ST2": "#FF3CAE"
+        }
+      }
+    },
+    "ice-cream": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai81": {}
+    },
+    "crown": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai73": {
+        "crown": {
+          "ST1": "#FFD400"
+        },
+        "purple": {
+          "ST1": "#B36CFF"
+        },
+        "blue": {
+          "ST1": "#6089FF"
+        }
+      }
+    },
+    "btc-bozo": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai65": {}
+    },
+    "white-pizza": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai108": {}
+    },
+    "pizza": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai89": {}
+    },
+    "cheese-wedge": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai67": {}
+    },
+    "top-hat": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai104": {}
+    },
+    "bunny-ears": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai66": {
+        "bunny-ears": {
+          "ST1": "#EDEDED",
+          "ST2": "#FF3CAE"
+        },
+        "red-yellow": {
+          "ST1": "#FF002C",
+          "ST2": "#FFD400"
+        },
+        "black-purple": {
+          "ST1": "#464B4B",
+          "ST2": "#B36CFF"
+        },
+        "gray-pink": {
+          "ST1": "#959898",
+          "ST2": "#FF3CAE"
+        },
+        "purple-white": {
+          "ST1": "#B36CFF",
+          "ST2": "#EDEDED"
+        }
+      }
+    },
+    "dark-crown": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai74": {}
+    },
+    "sword": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai99": {}
+    },
+    "banana": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai59": {}
+    },
+    "spinner-hat": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai95": {}
+    },
+    "pirate": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai87": {}
+    },
+    "wizard": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai109": {}
+    },
+    "blue-flame": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai63": {}
+    },
+    "apple": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai57": {}
+    },
+    "pineapple": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai86": {}
+    },
+    "push-pin": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai92": {}
+    },
+    "party-hat": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai84": {}
+    },
+    "tiny-tilted-crown": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai101": {}
+    },
+    "sprout": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai98": {}
+    },
+    "monomi-rabbit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai83": {}
+    },
+    "beanie": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai60": {
+        "blue": {
+          "ST0": "#6089FF"
+        },
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "orange": {
+          "ST0": "#E94000"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        }
+      }
+    },
+    "fried-egg": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai77": {}
+    },
+    "unicorn": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai105": {}
+    },
+    "pizza-sticky": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai88": {}
+    },
+    "chef-hat": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai68": {}
+    },
+    "spirit-flame": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai97": {}
+    },
+    "purple-flame": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai91": {}
+    },
+    "yellow-flame": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai110": {}
+    },
+    "tomato": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai103": {}
+    },
+    "toilet-paper": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai102": {}
+    },
+    "hooded-head-mohawk": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai79": {
+        "cyan": {
+          "ST1": "#00A28A"
+        },
+        "white": {
+          "ST1": "#EDEDED"
+        }
+      }
+    },
+    "bow": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai64": {}
+    },
+    "cranium": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai72": {}
+    },
+    "black-crown": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai61": {}
+    },
+    "block-height": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai62": {}
+    },
+    "threads": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai100": {}
+    },
+    "ponytail": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai90": {}
+    },
+    "spirit-bow": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai96": {}
+    },
+    "western-hat-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai106": {}
+    },
+    "flame-red-white": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai75": {}
+    }
+  },
+  "back-accessories": {
+    "ninjato": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i2": {
+        "gray": {
+          "ST0": "#000000",
+          "ST1": "#959898",
+          "ST2": "#FFD400"
+        },
+        "white-red": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST2": "#FF002C"
+        },
+        "purple": {
+          "ST0": "#000000",
+          "ST1": "#B36CFF",
+          "ST2": "#FFD400"
+        },
+        "black": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
+          "ST2": "#FFD400"
+        },
+        "red": {
+          "ST0": "#000000",
+          "ST1": "#FF002C",
+          "ST2": "#FFD400"
+        },
+        "blue": {
+          "ST0": "#000000",
+          "ST1": "#6089FF",
+          "ST2": "#FFD400"
+        },
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST2": "#FFD400"
+        },
+        "cyan": {
+          "ST0": "#000000",
+          "ST1": "#00A28A",
+          "ST2": "#FFD400"
+        },
+        "purple-silver": {
+          "ST0": "#000000",
+          "ST1": "#B36CFF",
+          "ST2": "#959898"
+        },
+        "spirit": {
+          "ST0": "#EDEDED",
+          "ST1": "#FF5400",
+          "ST2": "#FF5400"
+        },
+        "pink": {
+          "ST0": "#000000",
+          "ST1": "#FF3CAE",
+          "ST2": "#FFD400"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400",
+          "ST2": "#EDEDED"
+        },
+        "black-blue": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
+          "ST2": "#6089FF"
+        },
+        "pink-black": {
+          "ST0": "#000000",
+          "ST1": "#FF3CAE",
+          "ST2": "#000000"
+        },
+        "white-white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST2": "#EDEDED"
+        },
+        "spirit-pink-yellow": {
+          "ST0": "#EDEDED",
+          "ST1": "#FF3CAE",
+          "ST2": "#FFD400"
+        }
+      }
+    },
+    "bo-staff": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i0": {
+        "bo-staff": {
+          "ST0": "#000000",
+          "ST1": "#B65F40",
+          "ST2": "#EDEDED"
+        },
+        "black": {
+          "ST0": "#000000",
+          "ST1": "#000000",
+          "ST2": "#464B4B"
+        },
+        "spirit": {
+          "ST0": "#EDEDED",
+          "ST1": "#FF5400",
+          "ST2": "#FF5400"
+        },
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000",
+          "ST2": "#EDEDED"
+        }
+      }
+    },
+    "hockey-stick": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i1": {}
+    }
+  },
+  "stoic-body": {
+    "stoic-body": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai56": {
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "blackout-tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "blackout-yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        }
+      }
+    }
+  },
+  "shinobi-stripe": {
+    "shinobi-stripe": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai29": {
+        "gray": {
+          "ST0": "#959898"
+        },
+        "orange": {
+          "ST0": "#E94000"
+        },
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "black": {
+          "ST0": "#464B4B"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        },
+        "purple": {
+          "ST0": "#B36CFF"
+        },
+        "white": {
+          "ST0": "#EDEDED"
+        },
+        "blue": {
+          "ST0": "#6089FF"
+        },
+        "fawn": {
+          "ST0": "#C18300"
+        },
+        "pink": {
+          "ST0": "#FF3CAE"
+        },
+        "cyan": {
+          "ST0": "#00A28A"
+        },
+        "green": {
+          "ST0": "#00A900"
+        }
+      }
+    },
+    "btc-chain": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai28": {}
+    }
+  },
+  "cat-head": {
+    "cat-head": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i29": {
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "blackout-tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "spirit": {
+          "ST0": "#FF5400",
+          "ST1": "#EDEDED"
+        }
+      }
+    },
+    "cat-head-blackout": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai149": {}
+    }
+  },
+  "cat-eyes": {
+    "tabby-black-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i26": {}
+    },
+    "focused-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i24": {
+        "tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF",
+          "ST2": "#000000"
+        },
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST2": "#000000"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        },
+        "spirit": {
+          "ST0": "#EDEDED",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        }
+      }
+    },
+    "dead-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i23": {
+        "black": {
+          "ST0": "#000000",
+          "ST1": "#000000",
+          "ST3": "#EDEDED"
+        },
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST3": "#000000"
+        },
+        "black-red": {
+          "ST0": "#000000",
+          "ST1": "#000000",
+          "ST3": "#FF002C"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400",
+          "ST3": "#000000"
+        }
+      }
+    },
+    "classic-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i22": {
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST2": "#000000"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        }
+      }
+    },
+    "tabby-color-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i27": {}
+    },
+    "vr-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i28": {}
+    },
+    "big-black-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i16": {}
+    },
+    "calico-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i19": {}
+    },
+    "big-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i18": {}
+    },
+    "cat-glasses": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i21": {
+        "pink": {
+          "ST0": "#FF3CAE"
+        },
+        "gray": {
+          "ST0": "#959898"
+        }
+      }
+    },
+    "laser-cat-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i25": {}
+    },
+    "cat-glasses-3d": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i20": {}
+    },
+    "big-eyes-pink": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i17": {}
+    }
+  },
+  "cat-top-of-head": {
+    "tiny-crown": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i40": {}
+    },
+    "uncommon-sat": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i42": {}
+    },
+    "blue-fire": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i31": {}
+    },
+    "green-tomato": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i35": {}
+    },
+    "ball-of-yarn": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i30": {}
+    },
+    "ring-of-light": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i39": {}
+    },
+    "tomato-sauce": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i41": {}
+    },
+    "cheddar-wedge": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i32": {}
+    },
+    "pizza-slice": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i38": {}
+    },
+    "fire": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i34": {}
+    },
+    "pineapple-fruit": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i37": {}
+    },
+    "orange-sherbert": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i36": {}
+    },
+    "common-sat": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i33": {}
+    }
+  },
+  "weapon-body": {
+    "weapon-body": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai148": {
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED"
+        },
+        "blue": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "black": {
+          "ST0": "#000000",
+          "ST1": "#464B4B"
+        },
+        "green": {
+          "ST0": "#000000",
+          "ST1": "#00A900"
+        },
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#000000",
+          "ST1": "#959898"
+        },
+        "purple": {
+          "ST0": "#000000",
+          "ST1": "#B36CFF"
+        },
+        "orange": {
+          "ST0": "#000000",
+          "ST1": "#E94000"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400"
+        },
+        "pink": {
+          "ST0": "#000000",
+          "ST1": "#FF3CAE"
+        },
+        "cyan": {
+          "ST0": "#000000",
+          "ST1": "#00A28A"
+        },
+        "red": {
+          "ST0": "#000000",
+          "ST1": "#FF002C"
+        },
+        "blackout-tron": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#000000",
+          "ST1": "#C18300"
+        }
+      }
+    }
+  },
+  "hands-weapons": {
+    "microphone": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i88": {
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#959898"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#959898"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#959898"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#959898"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#959898"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#959898"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#959898"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#959898"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#959898"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#959898"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#959898"
+        },
+        "gold": {
+          "ST0": "#FFD400",
+          "ST1": "#FFD400"
+        }
+      }
+    },
+    "pizza-fork": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i89": {
+        "blue": {
+          "ST5": "#000000",
+          "ST6": "#6089FF"
+        },
+        "black": {
+          "ST5": "#000000",
+          "ST6": "#464B4B"
+        },
+        "yellow": {
+          "ST5": "#000000",
+          "ST6": "#FFD400"
+        },
+        "pink": {
+          "ST5": "#000000",
+          "ST6": "#FF3CAE"
+        },
+        "green": {
+          "ST5": "#000000",
+          "ST6": "#00A900"
+        },
+        "gray": {
+          "ST5": "#000000",
+          "ST6": "#959898"
+        },
+        "purple": {
+          "ST5": "#000000",
+          "ST6": "#B36CFF"
+        },
+        "red": {
+          "ST5": "#000000",
+          "ST6": "#FF002C"
+        },
+        "orange": {
+          "ST5": "#000000",
+          "ST6": "#E94000"
+        },
+        "cyan": {
+          "ST5": "#000000",
+          "ST6": "#00A28A"
+        },
+        "white": {
+          "ST5": "#000000",
+          "ST6": "#EDEDED"
+        }
+      }
+    },
+    "shuriken": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i92": {
+        "black": {
+          "ST1": "#000000",
+          "ST2": "#464B4B"
+        },
+        "yellow": {
+          "ST1": "#000000",
+          "ST2": "#FFD400"
+        },
+        "white": {
+          "ST1": "#000000",
+          "ST2": "#EDEDED"
+        },
+        "pink": {
+          "ST1": "#000000",
+          "ST2": "#FF3CAE"
+        },
+        "red": {
+          "ST1": "#000000",
+          "ST2": "#FF002C"
+        },
+        "purple": {
+          "ST1": "#000000",
+          "ST2": "#B36CFF"
+        },
+        "green": {
+          "ST1": "#000000",
+          "ST2": "#00A900"
+        },
+        "fawn": {
+          "ST1": "#000000",
+          "ST2": "#C18300"
+        },
+        "blue": {
+          "ST1": "#000000",
+          "ST2": "#6089FF"
+        },
+        "orange": {
+          "ST1": "#000000",
+          "ST2": "#E94000"
+        },
+        "gray": {
+          "ST1": "#000000",
+          "ST2": "#959898"
+        },
+        "cyan": {
+          "ST1": "#000000",
+          "ST2": "#00A28A"
+        }
+      }
+    },
+    "thumbs-up": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i93": {
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        }
+      }
+    },
+    "heart-emoji": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i84": {
+        "yellow": {
+          "ST2": "#FFD400"
+        },
+        "red": {
+          "ST2": "#FF002C"
+        },
+        "white": {
+          "ST2": "#EDEDED"
+        },
+        "black": {
+          "ST2": "#464B4B"
+        },
+        "pink": {
+          "ST2": "#FF3CAE"
+        },
+        "cyan": {
+          "ST2": "#00A28A"
+        },
+        "orange": {
+          "ST2": "#E94000"
+        },
+        "gray": {
+          "ST2": "#959898"
+        },
+        "green": {
+          "ST2": "#00A900"
+        },
+        "purple": {
+          "ST2": "#B36CFF"
+        }
+      }
+    },
+    "katana": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i85": {
+        "white": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#EDEDED"
+        },
+        "green": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#00A900"
+        },
+        "black": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#464B4B"
+        },
+        "fawn": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#C18300"
+        },
+        "yellow": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#FFD400"
+        },
+        "orange": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#E94000"
+        },
+        "blue": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#6089FF"
+        },
+        "gray": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#959898"
+        },
+        "pink": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#FF3CAE"
+        },
+        "red": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#FF002C"
+        },
+        "orange-black": {
+          "ST2": "#000000",
+          "ST3": "#000000",
+          "ST4": "#E94000"
+        },
+        "white-white": {
+          "ST2": "#EDEDED",
+          "ST3": "#000000",
+          "ST4": "#EDEDED"
+        },
+        "purple": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#B36CFF"
+        },
+        "blackout": {
+          "ST2": "#464B4B",
+          "ST3": "#000000",
+          "ST4": "#000000"
+        },
+        "cyan": {
+          "ST2": "#FFD400",
+          "ST3": "#000000",
+          "ST4": "#00A28A"
+        }
+      }
+    },
+    "push-notification": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai156": {
+        "white": {
+          "ST1": "#EDEDED"
+        },
+        "yellow": {
+          "ST1": "#FFD400"
+        }
+      },
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i90": {
+        "purple": {
+          "ST1": "#B36CFF"
+        },
+        "pink": {
+          "ST1": "#FF3CAE"
+        },
+        "red": {
+          "ST1": "#FF002C"
+        },
+        "gray": {
+          "ST1": "#959898"
+        },
+        "cyan": {
+          "ST1": "#00A28A"
+        },
+        "green": {
+          "ST1": "#00A900"
+        },
+        "orange": {
+          "ST1": "#E94000"
+        },
+        "black": {
+          "ST1": "#464B4B"
+        },
+        "blue": {
+          "ST1": "#6089FF"
+        }
+      }
+    },
+    "lightsaber": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i87": {
+        "green": {
+          "ST2": "#00A900"
+        },
+        "pink": {
+          "ST2": "#FF3CAE"
+        },
+        "yellow": {
+          "ST2": "#FFD400"
+        },
+        "red": {
+          "ST2": "#FF002C"
+        },
+        "blue": {
+          "ST2": "#6089FF"
+        }
+      }
+    },
+    "legendary-sat": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i86": {}
+    },
+    "bitcoin-block": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i81": {
+        "blue": {
+          "ST1": "#6089FF"
+        },
+        "yellow": {
+          "ST1": "#FFD400"
+        },
+        "purple": {
+          "ST1": "#B36CFF"
+        },
+        "black": {
+          "ST1": "#464B4B"
+        },
+        "white": {
+          "ST1": "#EDEDED"
+        },
+        "pink": {
+          "ST1": "#FF3CAE"
+        },
+        "red": {
+          "ST1": "#FF002C"
+        }
+      }
+    },
+    "black-sat-white": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i82": {}
+    },
+    "lightsaber-tron": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai155": {}
+    },
+    "heart-emoji-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai153": {}
+    },
+    "rare-sat-spirit": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i91": {}
+    },
+    "bitcoin-block-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai151": {}
+    }
+  },
+  "shinobi-belt": {
+    "shinobi-belt-double": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai27": {
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "spirit": {
+          "ST0": "#FF5400",
+          "ST1": "#EDEDED"
+        }
+      }
+    },
+    "shinobi-belt": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai26": {
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        }
+      }
+    },
+    "btc-necklace": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai25": {}
+    }
+  },
+  "ninjalerts-head": {
+    "ninjalerts-head": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai23": {
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "blackout-yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "blackout-tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "white-tron": {
+          "ST0": "#EDEDED",
+          "ST1": "#6089FF"
+        },
+        "ff5400": {
+          "ST0": "#FF5400",
+          "ST1": "#000000"
+        }
+      }
+    }
+  },
+  "ninjalerts-face": {
+    "spectacles": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai15": {}
+    },
+    "dead": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158": {
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        },
+        "dead": {
+          "ST0": "#000000",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        }
+      }
+    },
+    "laser-maxi": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai6": {
+        "red": {
+          "ST1": "#f32525"
+        },
+        "blue": {
+          "ST1": "#0088FF"
+        }
+      }
+    },
+    "classic": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i141": {
+        "classic": {
+          "ST0": "#000000",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        },
+        "light": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED",
+          "ST2": "#000000"
+        },
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
+          "ST2": "#EDEDED"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#FFD400",
+          "ST2": "#000000"
+        }
+      }
+    },
+    "skull": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai14": {
+        "skull": {
+          "ST0": "#EDEDED"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        },
+        "red": {
+          "ST0": "#FF002C"
+        }
+      }
+    },
+    "dark-assassin": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i143": {
+        "cyan": {
+          "ST0": "#00A28A"
+        },
+        "dark-assassin": {
+          "ST0": "#EDEDED"
+        },
+        "purple": {
+          "ST0": "#B36CFF"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        },
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "pink": {
+          "ST0": "#FF3CAE"
+        }
+      }
+    },
+    "blush": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i135": {}
+    },
+    "cyborg": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i142": {}
+    },
+    "dead-dark": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144": {
+        "dead-dark": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
+          "ST2": "#000000"
+        },
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
+          "ST2": "#EDEDED"
+        }
+      }
+    },
+    "hollow-green-yellow": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai4": {}
+    },
+    "white-classic": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai18": {}
+    },
+    "electric-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i146": {}
+    },
+    "hockey-mask": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai3": {}
+    },
+    "maxi-biz": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai7": {
+        "red": {
+          "ST1": "#FF002C"
+        },
+        "blue": {
+          "ST1": "#6089FF"
+        },
+        "green": {
+          "ST1": "#00A900"
+        }
+      }
+    },
+    "white-dead": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai19": {}
+    },
+    "white-hollow": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai20": {}
+    },
+    "eye-patch-white": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i147": {}
+    },
+    "cheerful": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i140": {}
+    },
+    "gasp": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai2": {}
+    },
+    "bitcoin": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i134": {}
+    },
+    "pizza-note": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai9": {}
+    },
+    "scar": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai13": {}
+    },
+    "pixel": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai8": {}
+    },
+    "antihero": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i133": {}
+    },
+    "white-blush": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai17": {}
+    },
+    "hollow": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai5": {}
+    },
+    "sad": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai12": {}
+    },
+    "3D-Glasses": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i132": {}
+    },
+    "sunglasses": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai16": {}
+    },
+    "bold": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i136": {}
+    },
+    "wink": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai21": {}
+    },
+    "gasp-dark": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai0": {}
+    },
+    "3d-glasses-yellow": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i131": {}
+    },
+    "robot-dark": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai10": {}
+    },
+    "flinch": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i149": {}
+    },
+    "dizzy": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i145": {}
+    },
+    "eye-patch": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i148": {}
+    },
+    "btc-spectacles": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i138": {}
+    },
+    "x": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai22": {}
+    },
+    "robot": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai11": {}
+    },
+    "gasp-yellow": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai1": {}
+    },
+    "cheerful-spirit": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i139": {}
+    },
+    "dead-spirit-white": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai157": {}
+    }
+  },
+  "kombat-gi-body": {
+    "kombat-gi": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i107": {
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        }
+      }
+    }
+  },
+  "kombat-color": {
+    "kombat": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i106": {
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        }
+      }
+    }
+  },
+  "blackout-face": {
+    "blackout-face": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i15": {
+        "dark": {
+          "ST0": "#464B4B"
+        },
+        "light": {
+          "ST0": "#EDEDED"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        },
+        "tron": {
+          "ST0": "#6089FF"
+        },
+        "green": {
+          "ST0": "#00A900"
+        }
+      }
+    }
+  },
+  "blackout-eyes": {
+    "Blackout-Scar": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i13": {}
+    },
+    "blackout-maxi-biz": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i12": {
+        "green": {
+          "ST0": "#00A900"
+        },
+        "red": {
+          "ST0": "#FF002C"
+        }
+      }
+    },
+    "blackout-bold": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i5": {}
+    },
+    "blackout-dead": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i7": {
+        "dark": {
+          "ST0": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED"
+        }
+      }
+    },
+    "blackout-classic": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i6": {
+        "classic": {
+          "ST0": "#000000"
+        }
+      }
+    },
+    "blackout-laser-maxi-red": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i11": {}
+    },
+    "blackout-hollow": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i10": {}
+    },
+    "blackout-blush": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i4": {}
+    },
+    "big-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i3": {}
+    }
+  },
+  "men-yoroi": {
+    "men-yoroi": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i108": {
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        }
+      }
+    }
+  },
+  "monomi-head": {
+    "monomi-head": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i126": {
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "spirit": {
+          "ST0": "#FF5400",
+          "ST1": "#EDEDED"
+        }
+      }
+    }
+  },
+  "monomi-headband": {
+    "monomi-double-headband-white": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i127": {}
+    },
+    "monomi-headband": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i129": {
+        "gray": {
+          "ST0": "#959898",
+          "ST1": "#000000"
+        },
+        "green": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        },
+        "black": {
+          "ST0": "#464B4B",
+          "ST1": "#000000"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST1": "#000000"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST1": "#000000"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        },
+        "pink": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "red": {
+          "ST0": "#FF002C",
+          "ST1": "#000000"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST1": "#000000"
+        },
+        "cyan": {
+          "ST0": "#00A28A",
+          "ST1": "#000000"
+        },
+        "fawn": {
+          "ST0": "#C18300",
+          "ST1": "#000000"
+        },
+        "orange": {
+          "ST0": "#E94000",
+          "ST1": "#000000"
+        },
+        "tron": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "spirit": {
+          "ST0": "#FF5400",
+          "ST1": "#EDEDED"
+        },
+        "spirit-black": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED"
+        }
+      }
+    },
+    "monomi-durag-red": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i128": {}
+    },
+    "monomi-ponytail": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i130": {}
+    }
+  },
+  "monomi-face": {
+    "red-eyes-surprise": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i119": {}
+    },
+    "classic-smile": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i114": {}
+    },
+    "classic-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i113": {}
+    },
+    "blackout-visor": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i110": {}
+    },
+    "lashes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i118": {}
+    },
+    "classic-eyes-spirit": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i112": {}
+    },
+    "groan": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i116": {}
+    },
+    "robotic": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i121": {}
+    },
+    "xx-dead": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i125": {}
+    },
+    "white-eyes-surprise": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i124": {}
+    },
+    "laser-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i117": {}
+    },
+    "excited": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i115": {}
+    },
+    "vr-visor": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i123": {}
+    },
+    "black-eyes-surprise": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i109": {}
+    },
+    "tron-monomi-visor": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i122": {}
+    },
+    "robotic-spirit": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i120": {}
+    },
+    "classic-eyes-smile-spirit": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i111": {}
+    }
+  },
+  "kevin-head": {
+    "kevin-head": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i100": {}
+    }
+  },
+  "frog-head": {
+    "frog-head": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69": {
+        "head": {
+          "ST0": "#FF3CAE",
+          "ST1": "#000000"
+        },
+        "frog-head": {
+          "ST0": "#00A900",
+          "ST1": "#000000"
+        }
+      }
+    },
+    "toad-head": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70": {
+        "head": {
+          "ST0": "#FFD400",
+          "ST1": "#000000"
+        }
+      }
+    }
+  },
+  "frog-mouth": {
+    "angry-frog": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i71": {}
+    },
+    "bored-frog": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i72": {}
+    },
+    "scared-frog": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i75": {}
+    },
+    "happy-frog": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i73": {}
+    },
+    "kawaii-frog": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i74": {}
+    }
+  },
+  "frog-eyes": {
+    "ninja-mask": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i67": {
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "black": {
+          "ST0": "#464B4B"
+        },
+        "blue": {
+          "ST0": "#6089FF"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        },
+        "orange": {
+          "ST0": "#E94000"
+        },
+        "cyan": {
+          "ST0": "#00A28A"
+        },
+        "fawn": {
+          "ST0": "#C18300"
+        },
+        "pink": {
+          "ST0": "#FF3CAE"
+        },
+        "purple": {
+          "ST0": "#B36CFF"
+        }
+      }
+    },
+    "bored": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i61": {
+        "albino-eyes": {
+          "ST0": "#959898"
+        },
+        "frog-eyes": {
+          "ST0": "#00A900"
+        },
+        "toad-eyes": {
+          "ST0": "#C18300"
+        },
+        "cyan-frog-eyes": {
+          "ST0": "#00A28A"
+        },
+        "purple-frog-eyes": {
+          "ST0": "#B36CFF"
+        },
+        "blue-frog-eyes": {
+          "ST0": "#6089FF"
+        },
+        "pink-frog-eyes": {
+          "ST0": "#FF3CAE"
+        }
+      }
+    },
+    "headband": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i66": {
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "black": {
+          "ST0": "#464B4B"
+        },
+        "cyan": {
+          "ST0": "#00A28A"
+        },
+        "pink": {
+          "ST0": "#FF3CAE"
+        },
+        "orange": {
+          "ST0": "#E94000"
+        },
+        "blue": {
+          "ST0": "#6089FF"
+        },
+        "yellow": {
+          "ST0": "#FFD400"
+        },
+        "purple": {
+          "ST0": "#B36CFF"
+        }
+      }
+    },
+    "classic-frog-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i62": {}
+    },
+    "frog-lashes-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i64": {}
+    },
+    "ninja-mask-tron": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai150": {}
+    },
+    "dead-frog-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i63": {}
+    },
+    "wink-frog-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i68": {}
+    },
+    "goofy-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i65": {}
+    }
+  },
+  "tracksuit": {
+    "tracksuit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai111": {
+        "black": {
+          "ST0": "#000000",
+          "ST1": "#464B4B"
+        },
+        "blue": {
+          "ST0": "#000000",
+          "ST1": "#6089FF"
+        },
+        "white": {
+          "ST0": "#000000",
+          "ST1": "#EDEDED"
+        },
+        "purple": {
+          "ST0": "#000000",
+          "ST1": "#B36CFF"
+        },
+        "blackout": {
+          "ST0": "#000000",
+          "ST1": "#000000"
+        },
+        "gray": {
+          "ST0": "#000000",
+          "ST1": "#959898"
+        },
+        "pink": {
+          "ST0": "#000000",
+          "ST1": "#FF3CAE"
+        },
+        "cyan": {
+          "ST0": "#000000",
+          "ST1": "#00A28A"
+        },
+        "yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400"
+        },
+        "orange": {
+          "ST0": "#000000",
+          "ST1": "#E94000"
+        },
+        "red": {
+          "ST0": "#000000",
+          "ST1": "#FF002C"
+        },
+        "fawn": {
+          "ST0": "#000000",
+          "ST1": "#C18300"
+        },
+        "green": {
+          "ST0": "#000000",
+          "ST1": "#00A900"
+        },
+        "spirit": {
+          "ST0": "#EDEDED",
+          "ST1": "#FF5400"
+        }
+      }
+    }
+  },
+  "tracksuit-stripe": {
+    "tracksuit-stripe": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai114": {}
+    },
+    "tracksuit-two-stripe": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai115": {}
+    },
+    "tracksuit-stripe-white": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai113": {}
+    }
+  },
+  "hooded-head": {
+    "hooded-head": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i94": {
+        "blackout-black": {
+          "ST1": "#000000",
+          "ST2": "#464B4B"
+        },
+        "blackout-white": {
+          "ST1": "#000000",
+          "ST2": "#EDEDED"
+        },
+        "white-black": {
+          "ST1": "#EDEDED",
+          "ST2": "#464B4B"
+        },
+        "black-green": {
+          "ST1": "#464B4B",
+          "ST2": "#00A900"
+        },
+        "black-black": {
+          "ST1": "#464B4B",
+          "ST2": "#464B4B"
+        },
+        "blue-purple": {
+          "ST1": "#6089FF",
+          "ST2": "#B36CFF"
+        },
+        "pink-cyan": {
+          "ST1": "#FF3CAE",
+          "ST2": "#00A28A"
+        },
+        "black-purple": {
+          "ST1": "#464B4B",
+          "ST2": "#B36CFF"
+        },
+        "black-red": {
+          "ST1": "#464B4B",
+          "ST2": "#FF002C"
+        },
+        "red-white": {
+          "ST1": "#FF002C",
+          "ST2": "#EDEDED"
+        },
+        "black-yellow": {
+          "ST1": "#464B4B",
+          "ST2": "#FFD400"
+        },
+        "black-blue": {
+          "ST1": "#464B4B",
+          "ST2": "#6089FF"
+        },
+        "black-white": {
+          "ST1": "#464B4B",
+          "ST2": "#EDEDED"
+        },
+        "yellow-black": {
+          "ST1": "#FFD400",
+          "ST2": "#464B4B"
+        },
+        "white-purple": {
+          "ST1": "#EDEDED",
+          "ST2": "#B36CFF"
+        }
+      }
+    }
+  },
+  "tv-head": {
+    "tv-head": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai142": {
+        "blue": {
+          "ST1": "#6089FF"
+        },
+        "tv-head": {
+          "ST1": "#959898"
+        },
+        "cyan": {
+          "ST1": "#00A28A"
+        },
+        "red": {
+          "ST1": "#FF002C"
+        },
+        "yellow": {
+          "ST1": "#FFD400"
+        },
+        "purple": {
+          "ST1": "#B36CFF"
+        }
+      }
+    }
+  },
+  "tv-screen": {
+    "no-signal": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai145": {}
+    },
+    "blue-robot": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai143": {}
+    },
+    "cute-robot": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai144": {}
+    },
+    "static": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai146": {}
+    },
+    "tv-off": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai147": {}
+    }
+  },
+  "hooded-skull": {
+    "hooded-skull": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i96": {
+        "blackout-yellow": {
+          "ST0": "#000000",
+          "ST1": "#FFD400"
+        },
+        "black-white": {
+          "ST0": "#464B4B",
+          "ST1": "#EDEDED"
+        },
+        "purple-yellow": {
+          "ST0": "#B36CFF",
+          "ST1": "#FFD400"
+        }
+      }
+    },
+    "hooded-hockey-mask": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i95": {
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "white": {
+          "ST0": "#EDEDED"
+        },
+        "black": {
+          "ST0": "#464B4B"
+        }
+      }
+    }
+  },
+  "hooded-skull-eyes": {
+    "hooded-skull-eyes-green": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i97": {}
+    },
+    "hooded-skull-white-x-eyes": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i99": {}
+    },
+    "hooded-skull-eyes-red": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i98": {}
+    }
+  },
+  "pepe-head": {
+    "pepe-head": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai24": {
+        "green": {
+          "ST0": "#00A900",
+          "ST2": "#FF002C"
+        },
+        "white": {
+          "ST0": "#EDEDED",
+          "ST2": "#FF002C"
+        },
+        "pink-purple": {
+          "ST0": "#FF3CAE",
+          "ST2": "#B36CFF"
+        },
+        "yellow": {
+          "ST0": "#FFD400",
+          "ST2": "#FF002C"
+        },
+        "purple": {
+          "ST0": "#B36CFF",
+          "ST2": "#FF002C"
+        }
+      },
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai160": {
+        "gray": {
+          "ST0": "#464B4B",
+          "ST2": "#FF002C"
+        },
+        "blue": {
+          "ST0": "#6089FF",
+          "ST2": "#FF002C"
+        }
+      }
+    }
+  },
+  "turtles-body": {
+    "turtle-body": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai117": {
+        "blue": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#6089FF",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "black": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#464B4B",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "brown": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#B65F40",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "black-red": {
+          "ST0": "#000000",
+          "ST1": "#959898",
+          "ST2": "#FF002C",
+          "ST3": "#EDEDED",
+          "ST4": "#EDEDED",
+          "ST5": "#464B4B",
+          "ST6": "#464B4B"
+        },
+        "gray": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#959898",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "yellow": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#FFD400",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "red": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#FF002C",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "cyan": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#00A28A",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "purple": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#B36CFF",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "white": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#EDEDED",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        },
+        "pink": {
+          "ST0": "#8D3D21",
+          "ST1": "#D25B31",
+          "ST2": "#FFD400",
+          "ST3": "#FF3CAE",
+          "ST4": "#EDEDED",
+          "ST5": "#5EBD3E",
+          "ST6": "#00A900"
+        }
+      }
+    }
+  },
+  "turtles-hand": {
+    "short-sword": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai138": {}
+    },
+    "sai": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai136": {}
+    },
+    "nunchucks": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai135": {}
+    },
+    "short-sword-black-red": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai137": {}
+    },
+    "thumbs-up": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai139": {}
+    },
+    "bo-staff": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai134": {}
+    }
+  },
+  "turtles-head": {
+    "turtle": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai140": {
+        "bandana-blue": {
+          "ST1": "#6089FF"
+        },
+        "bandana-black": {
+          "ST1": "#464B4B"
+        },
+        "mask-black-white": {
+          "ST1": "#EDEDED",
+          "ST2": "#464B4B"
+        },
+        "bandana-gray": {
+          "ST1": "#959898"
+        },
+        "bandana-yellow": {
+          "ST1": "#FFD400"
+        },
+        "bandana-red": {
+          "ST1": "#FF002C"
+        },
+        "bandana-brown": {
+          "ST1": "#B65F40"
+        },
+        "bandana-cyan": {
+          "ST1": "#00A28A"
+        },
+        "bandana-purple": {
+          "ST1": "#B36CFF"
+        },
+        "bandana-white": {
+          "ST1": "#EDEDED"
+        },
+        "bandana-pink": {
+          "ST1": "#FF3CAE"
+        }
+      }
+    },
+    "turtle-mask": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai141": {
+        "purple": {
+          "ST1": "#B36CFF",
+          "ST2": "#00A900"
+        },
+        "brown": {
+          "ST1": "#B65F40",
+          "ST2": "#00A900"
+        },
+        "gray": {
+          "ST1": "#959898",
+          "ST2": "#00A900"
+        },
+        "yellow": {
+          "ST1": "#FFD400",
+          "ST2": "#00A900"
+        },
+        "red": {
+          "ST1": "#FF002C",
+          "ST2": "#00A900"
+        },
+        "pink": {
+          "ST1": "#FF3CAE",
+          "ST2": "#00A900"
+        },
+        "cyan": {
+          "ST1": "#00A28A",
+          "ST2": "#00A900"
+        },
+        "blue": {
+          "ST1": "#6089FF",
+          "ST2": "#00A900"
+        }
+      }
+    }
+  },
+  "turtles-face": {
+    "glossy-eyes": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai125": {}
+    },
+    "angry-eyes-smile": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai120": {}
+    },
+    "xx-dead-eyes-pizza": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai131": {}
+    },
+    "angry-eyes-gasp": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai118": {}
+    },
+    "classic-cartoon-eyes": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai124": {}
+    },
+    "tired-eyes": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai129": {}
+    },
+    "tired-eyes-gasp": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai126": {}
+    },
+    "classic-cartoon-eyes-smile": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai123": {}
+    },
+    "xx-dead-eyes-smile": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai132": {}
+    },
+    "classic-cartoon-eyes-pizza": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai122": {}
+    },
+    "classic-cartoon-eyes-gasp": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai121": {}
+    },
+    "tired-eyes-pizza": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai127": {}
+    },
+    "tired-eyes-smile": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai128": {}
+    },
+    "xx-dead-eyes": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai133": {}
+    }
+  },
+  "frog-top-of-head": {
+    "frog-halo-yellow": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i78": {}
+    }
+  },
+  "spirit-body-weapon": {
+    "weapon-body-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai32": {}
+    },
+    "weapon-body-red-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai31": {}
+    }
+  },
+  "spirit-hands-weapons": {
+    "katana-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai33": {}
+    },
+    "pizza-fork-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai36": {}
+    },
+    "pizza-fork-red-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai35": {}
+    },
+    "thumbs-up-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai38": {}
+    },
+    "microphone-spirit": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai34": {}
+    }
+  },
+  "spirit-ninja": {
+    "scar-spirit-brown": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai39": {}
+    }
+  }
+}
