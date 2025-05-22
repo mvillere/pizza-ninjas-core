@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
+    "format": "prettier --write scripts/ && prettier --write data/",
     "art:retrieve-ids": "node --loader ts-node/esm scripts/art-retrieve-ids.ts",
     "art:retrieve-traits": "node --loader ts-node/esm scripts/art-retrieve-traits.ts",
     "art:process-ids": "node --loader ts-node/esm scripts/art-process-ids.ts",
@@ -16,6 +17,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.17.32",
+    "prettier": "^3.5.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
