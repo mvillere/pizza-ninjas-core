@@ -1,223 +1,242 @@
+
+
+==== LOG SESSION: 2025-05-22T22:07:23.478Z ====
+
 Fetching ninja inscription IDs...
 Processing 1500 ninjas...
-[TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-
-[CORRECTED] Trait: hands-weapons____push-notification-white-text.svg corrected to contain explicit color setting for ST1  
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____tron-frog-head.svg -> frog-head____frog-head-tron.svg
-[TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-
+[WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[CORRECTED] Trait: hands-weapons____push-notification-white-text.svg corrected to contain explicit color setting for ST1
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____tron-frog-head.svg -> frog-head____frog-head-tron.svg
+[WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
 [CORRECTED] Trait: cat-eyes____dead-cat-eyes-white.svg corrected according to the cat-eyes____dead-cat-eyes-white.svg rule.
 Old: {"ST0":"#000000","ST1":"#EDEDED","ST2":"#000000"}
 New: {"ST0":"#000000","ST1":"#EDEDED","ST3":"#000000"}
 
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
 [CORRECTED] Trait: cat-eyes____dead-cat-eyes-yellow.svg corrected according to the cat-eyes____dead-cat-eyes-yellow.svg rule.
 Old: {"ST0":"#000000","ST1":"#FFD400","ST2":"#000000"}
 New: {"ST0":"#000000","ST1":"#FFD400","ST3":"#000000"}
 
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
 [CORRECTED] Trait: hooded-head____hooded-head-blackout-white.svg corrected according to the hooded-head____hooded-head-blackout-white.svg rule.
 Old: {"ST1":"#000000","ST2":"#00A900"}
 New: {"ST1":"#000000","ST2":"#EDEDED"}
 
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
-[LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
-[TRAIT NAME NORMALIZED] back-accessories____ninjato_spirit_pink_yellow.svg -> back-accessories____ninjato-spirit-pink-yellow.svg
-[TRAIT NAME NORMALIZED] cat-eyes____big_eyes_pink.svg -> cat-eyes____big-eyes-pink.svg
-[TRAIT NAME NORMALIZED] top-of-head____western_hat_spirit.svg -> top-of-head____western-hat-spirit.svg
-[TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
-[TRAIT NAME NORMALIZED] hooded-head____hooded_head_white_purple.svg -> hooded-head____hooded-head-white-purple.svg        
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [TRAIT NAME NORMALIZED] back-accessories____ninjato_spirit_pink_yellow.svg -> back-accessories____ninjato-spirit-pink-yellow.svg
+[WARN] [TRAIT NAME NORMALIZED] cat-eyes____big_eyes_pink.svg -> cat-eyes____big-eyes-pink.svg
+[WARN] [TRAIT NAME NORMALIZED] top-of-head____western_hat_spirit.svg -> top-of-head____western-hat-spirit.svg
+[WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [TRAIT NAME NORMALIZED] hooded-head____hooded_head_white_purple.svg -> hooded-head____hooded-head-white-purple.svg
 Successfully saved 1500 ninja IDs to E:\Dev\NFT\TVSystems\github\mvillere\pizza-ninjas-core\data\ninja-ids.json
+
+==== END SESSION ====

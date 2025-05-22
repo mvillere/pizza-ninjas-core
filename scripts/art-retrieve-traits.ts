@@ -2,12 +2,16 @@ import fs from 'fs/promises';
 import path from 'path';
 import { getChildrenInscriptions, getInscriptionPreview } from './utils/ord.js';
 import { fileURLToPath } from 'url';
+import { createScriptLogger } from './utils/logger.js';
 
 const NINJA_PARENT = '80da3cecac858f2757c5b338be15980bdc9d9570d4e86765b4948be8143c82e1i0';
 
 // ESM way to get __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+
+// Create a logger for this script
+const logger = createScriptLogger('trait-mappings');
 
 interface TraitConfig {
   trait: string;
@@ -100,6 +104,9 @@ async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
 }
 
 async function main() {
+  // Start logging to file
+  logger.start();
+
   try {
     console.log('Fetching ninja inscription IDs...');
     const ninjaIds = await getNinjaChildren();
@@ -142,9 +149,14 @@ async function main() {
           trait.trait.startsWith('frog-head____frog-head') &&
           trait.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69'
         ) {
+          // Frog head yellow was inadvertently assigned the toad head inscription id.
           const originalId = trait.id;
           trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
           console.warn(`[FROG HEAD ID CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
+        } else if (trait.trait === 'ninjalerts-face____dead-white.svg') {
+          // dead-white ninja face was assigned the dead-white-black inscription id.
+          trait.id = 'd81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159';
+          console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${trait.id} to ${trait.id}`);
         }
 
         traitMap.set(trait.trait, trait.id);
@@ -221,6 +233,10 @@ async function main() {
   } catch (error) {
     console.error('Error in main:', error);
     process.exit(1);
+  } finally {
+    // Save logs to file and restore console - overwrite the file instead of appending
+    await logger.saveLogToFile(false);
+    logger.stop();
   }
 }
 
