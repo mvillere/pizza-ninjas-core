@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import { createScriptLogger } from './utils/logger.js';
 
 const NINJA_PARENT = '80da3cecac858f2757c5b338be15980bdc9d9570d4e86765b4948be8143c82e1i0';
+const RALF_NINJA_ID = '269730d6cd8c0795317bb8fd043fc7cecb147bb98ae0fed1a1ca9cc646a0c6a2i0';
 
 // ESM way to get __dirname
 const __filename = fileURLToPath(import.meta.url);
@@ -20,6 +21,14 @@ interface TraitConfig {
   holiday_swap?: string;
   [key: `ST${number}`]: string | undefined;
 }
+
+// Define Ralf's trait mappings by inscription ID
+const RALF_TRAIT_MAPPINGS: Record<string, string> = {
+  '3eb63d923f4634a25845f1769d2212e5aa78465051b7b3fb783b60749fbba761i0': 'stoic-body____stoic-body-ralf.svg',
+  f7ecf7b6faa7d8a1f2ac6e3facc44a85b8b88661bae424074df4524d747408f8i0: 'ninjalerts-head____ninjalerts-head-ralf.svg',
+  e004f8234329c7a4c1d0a78856d127c89d8b2e0d26ac6e0202fe8be71e43cc54i0: 'ninjalerts-face____ralf.svg',
+  b80b35b835f9f7fc399830e04bb538372367da3d9baad2f1a91a61ce9f6adbd9i0: 'top-of-head____ralf.svg',
+};
 
 /**
  * Normalizes a trait name by:
@@ -82,7 +91,37 @@ async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
     const configStr = match[1];
     const configs: TraitConfig[] = [];
 
-    // Simple parsing of the array objects
+    // Handle special case for Ralf ninja (Ninja 1500)
+    if (ninjaId === RALF_NINJA_ID) {
+      // Simple parsing of the array objects for Ralf
+      const objectMatches = configStr.match(/\{([\s\S]*?)\}/g) || [];
+      for (const objStr of objectMatches) {
+        try {
+          const jsonStr = objStr.replace(/(\w+):/g, '"$1":').replace(/'/g, '"');
+          const parsedConfig = JSON.parse(jsonStr) as { id: string; type?: string };
+
+          // Apply Ralf trait mappings
+          if (parsedConfig.id && RALF_TRAIT_MAPPINGS[parsedConfig.id]) {
+            const config: TraitConfig = {
+              trait: RALF_TRAIT_MAPPINGS[parsedConfig.id],
+              id: parsedConfig.id,
+            };
+
+            if (parsedConfig.type) {
+              config.type = parsedConfig.type;
+            }
+
+            console.log(`[RALF TRAIT ASSIGNED] ${parsedConfig.id} -> ${config.trait}`);
+            configs.push(config);
+          }
+        } catch (e) {
+          console.warn(`Failed to parse object in ${ninjaId}:`, e);
+        }
+      }
+      return configs;
+    }
+
+    // Regular handling for other ninjas
     const objectMatches = configStr.match(/\{([\s\S]*?)\}/g) || [];
     for (const objStr of objectMatches) {
       try {
@@ -144,19 +183,19 @@ async function main() {
           trait.trait = normalizedTrait;
         }
 
+        const originalId = trait.id;
         // Correct frog-head IDs - all frog head variants should use the same inscription ID
         if (
           trait.trait.startsWith('frog-head____frog-head') &&
           trait.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69'
         ) {
           // Frog head yellow was inadvertently assigned the toad head inscription id.
-          const originalId = trait.id;
           trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
           console.warn(`[FROG HEAD ID CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
         } else if (trait.trait === 'ninjalerts-face____dead-white.svg') {
           // dead-white ninja face was assigned the dead-white-black inscription id.
           trait.id = 'd81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159';
-          console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${trait.id} to ${trait.id}`);
+          console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
         }
 
         traitMap.set(trait.trait, trait.id);
