@@ -196,6 +196,12 @@ async function main() {
           // dead-white ninja face was assigned the dead-white-black inscription id.
           trait.id = 'd81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159';
           console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
+        } else if (
+          trait.trait === 'ninjalerts-face____dead.svg' ||
+          trait.trait === 'ninjalerts-face____dead-yellow.svg'
+        ) {
+          trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144';
+          console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
         }
 
         traitMap.set(trait.trait, trait.id);

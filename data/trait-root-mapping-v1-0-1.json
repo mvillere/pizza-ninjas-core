@@ -1481,16 +1481,26 @@
       "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai15": {}
     },
     "dead": {
-      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144": {
         "yellow": {
           "ST0": "#FFD400",
           "ST1": "#FFD400",
+          "ST2": "#000000"
+        },
+        "dark": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
           "ST2": "#000000"
         },
         "dead": {
           "ST0": "#000000",
           "ST1": "#FFD400",
           "ST2": "#000000"
+        },
+        "dark-white": {
+          "ST0": "#000000",
+          "ST1": "#464B4B",
+          "ST2": "#EDEDED"
         }
       }
     },
@@ -1568,20 +1578,6 @@
     },
     "cyborg": {
       "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i142": {}
-    },
-    "dead-dark": {
-      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144": {
-        "dead-dark": {
-          "ST0": "#000000",
-          "ST1": "#464B4B",
-          "ST2": "#000000"
-        },
-        "white": {
-          "ST0": "#000000",
-          "ST1": "#464B4B",
-          "ST2": "#EDEDED"
-        }
-      }
     },
     "hollow-green-yellow": {
       "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai4": {}
@@ -1679,6 +1675,9 @@
     },
     "eye-patch": {
       "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i148": {}
+    },
+    "dead-white-black": {
+      "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158": {}
     },
     "btc-spectacles": {
       "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i138": {}

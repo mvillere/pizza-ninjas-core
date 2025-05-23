@@ -200,10 +200,11 @@
     "hands-weapons____pizza-fork-cyan.svg",
     "hands-weapons____pizza-fork-white.svg"
   ],
-  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158": [
+  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144": [
     "ninjalerts-face____dead-yellow.svg",
+    "ninjalerts-face____dead-dark.svg",
     "ninjalerts-face____dead.svg",
-    "ninjalerts-face____dead-white-black.svg"
+    "ninjalerts-face____dead-dark-white.svg"
   ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai69": [
     "top-of-head____classic-headband-blue.svg",
@@ -471,10 +472,6 @@
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai108": ["top-of-head____white-pizza.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai89": ["top-of-head____pizza.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i128": ["monomi-headband____monomi-durag-red.svg"],
-  "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144": [
-    "ninjalerts-face____dead-dark.svg",
-    "ninjalerts-face____dead-dark-white.svg"
-  ],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai142": [
     "tv-head____tv-head-blue.svg",
     "tv-head____tv-head.svg",
@@ -754,6 +751,7 @@
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i20": ["cat-eyes____cat-glasses-3d.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai62": ["top-of-head____block-height.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i148": ["ninjalerts-face____eye-patch.svg"],
+  "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158": ["ninjalerts-face____dead-white-black.svg"],
   "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i138": ["ninjalerts-face____btc-spectacles.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai22": ["ninjalerts-face____x.svg"],
   "d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai100": ["top-of-head____threads.svg"],

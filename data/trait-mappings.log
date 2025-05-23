@@ -1,16 +1,19 @@
 
 
-==== LOG SESSION: 2025-05-23T20:27:48.831Z ====
+==== LOG SESSION: 2025-05-23T20:43:59.733Z ====
 
 Fetching ninja inscription IDs...
 Processing 1500 ninjas...
 [WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] 
 [CORRECTED] Trait: hands-weapons____push-notification-white-text.svg corrected to contain explicit color setting for ST1
@@ -55,6 +58,7 @@ New: {"ST0":"#000000","ST1":"#EDEDED","ST3":"#000000"}
 
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
@@ -130,6 +134,7 @@ New: {"ST0":"#000000","ST1":"#FFD400","ST3":"#000000"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
@@ -168,6 +173,7 @@ New: {"ST1":"#000000","ST2":"#EDEDED"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
@@ -192,6 +198,8 @@ New: {"ST1":"#000000","ST2":"#EDEDED"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
@@ -224,13 +232,26 @@ New: {"ST1":"#000000","ST2":"#EDEDED"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [TRAIT NAME NORMALIZED] back-accessories____ninjato_spirit_pink_yellow.svg -> back-accessories____ninjato-spirit-pink-yellow.svg
 [WARN] [TRAIT NAME NORMALIZED] cat-eyes____big_eyes_pink.svg -> cat-eyes____big-eyes-pink.svg
 [WARN] [TRAIT NAME NORMALIZED] top-of-head____western_hat_spirit.svg -> top-of-head____western-hat-spirit.svg
