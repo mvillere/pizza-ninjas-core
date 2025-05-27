@@ -213,12 +213,21 @@ async function main() {
           }
         }
 
+        // Explicitly set default colors for SVG, since SVG is shared across multiple traits with color configs.
+        const explicitClasses = [];
         if (trait.trait === 'hands-weapons____push-notification-white-text.svg') {
-          // Technically this is the same color that is set by default in the SVG, but we need
-          // it explicitly set since several different traits share the SVG with different colors.
           colorDefs['ST1'] = '#4A4F4F';
+          explicitClasses.push('ST1');
+        } else if (trait.trait === 'pepe-head____pepe-head-blackout.svg') {
+          colorDefs['ST0'] = '#000000';
+          colorDefs['ST2'] = '#FF002C';
+          explicitClasses.push('ST0', 'ST2');
+        }
 
-          console.warn(`\n[CORRECTED] Trait: ${trait.trait} corrected to contain explicit color setting for ST1`);
+        if (explicitClasses.length > 0) {
+          console.warn(
+            `\n[EXPLICIT DEFAULT] Trait: ${trait.trait} given explicit color settings for ${explicitClasses.join(', ')}`
+          );
         }
 
         if (Object.keys(colorDefs).length > 0) {

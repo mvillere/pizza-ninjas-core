@@ -1252,6 +1252,10 @@
   "frog-eyes____headband-blue.svg": {
     "ST0": "#6089FF"
   },
+  "pepe-head____pepe-head-blackout.svg": {
+    "ST0": "#000000",
+    "ST2": "#FF002C"
+  },
   "frog-eyes____headband-yellow.svg": {
     "ST0": "#FFD400"
   },
