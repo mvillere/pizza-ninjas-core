@@ -11,6 +11,7 @@
     "art:retrieve-traits": "node --loader ts-node/esm scripts/art-retrieve-traits.ts",
     "art:process-ids": "node --loader ts-node/esm scripts/art-process-ids.ts",
     "art:process-traits": "node --loader ts-node/esm scripts/art-process-traits.ts",
+    "art:process-layers": "node --loader ts-node/esm scripts/art-process-layers.ts",
     "vector": "node --loader ts-node/esm scripts/vector.ts"
   },
   "author": "@NiftyMike",

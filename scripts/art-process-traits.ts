@@ -6,6 +6,18 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+interface InscriptionData {
+  id: string;
+  colors: Record<string, Record<string, string>>;
+  filename: string;
+}
+
+interface TraitGroupData {
+  inscriptions: InscriptionData[];
+  type: string;
+  generation: string;
+}
+
 // Helper to get the common prefix of an array of strings
 function getCommonPrefix(strings: string[]): string {
   if (strings.length === 0) return '';
@@ -21,18 +33,61 @@ function getCommonPrefix(strings: string[]): string {
   return prefix;
 }
 
+// Helper to determine generation based on inscription ID pattern
+function determineGeneration(id: string): string {
+  // All traits are v1 for now
+  return 'v1';
+}
+
+// Load trait group layer types from file
+async function loadTraitGroupLayerTypes(): Promise<Map<string, string>> {
+  const dataDir = path.join(__dirname, '../data');
+  const traitGroupLayerTypesPath = path.join(dataDir, 'trait-group-layer-types.json');
+
+  try {
+    const content = await fs.readFile(traitGroupLayerTypesPath, 'utf-8');
+    const traitGroupLayerTypesObj = JSON.parse(content) as Record<string, string>;
+    return new Map(Object.entries(traitGroupLayerTypesObj));
+  } catch (error) {
+    throw new Error(`Failed to load trait group layer types from ${traitGroupLayerTypesPath}: ${error}`);
+  }
+}
+
 // Helper to get the root and color map for a set of traitPairs
-function getRootAndColors(traitPairs: { traitname: string; colorDef: Record<string, string> | null }[]): {
+function getRootAndColors(
+  traitPairs: {
+    traitname: string;
+    colorDef: Record<string, string> | null;
+    type: string;
+    id: string;
+    traitgroup: string;
+  }[]
+): {
   root: string;
-  colorMap: Record<string, Record<string, string>>;
+  inscriptions: InscriptionData[];
+  type: string;
+  generation: string;
 } {
   if (traitPairs.length === 1) {
     const traitname = traitPairs[0].traitname.replace(/\.svg$/, '');
     const color = traitname.split('-').pop()!;
-    const colorMap: Record<string, Record<string, string>> = {};
-    if (traitPairs[0].colorDef) colorMap[color] = traitPairs[0].colorDef;
-    return { root: traitname, colorMap };
+    const colors: Record<string, Record<string, string>> = {};
+    if (traitPairs[0].colorDef) colors[color] = traitPairs[0].colorDef;
+
+    const inscription: InscriptionData = {
+      id: traitPairs[0].id,
+      colors,
+      filename: `${traitPairs[0].traitgroup}____${traitPairs[0].traitname}`,
+    };
+
+    return {
+      root: traitname,
+      inscriptions: [inscription],
+      type: traitPairs[0].type,
+      generation: determineGeneration(traitPairs[0].id),
+    };
   }
+
   // Remove .svg extension
   const names = traitPairs.map((pair) => pair.traitname.replace(/\.svg$/, ''));
   // Find common prefix
@@ -43,29 +98,51 @@ function getRootAndColors(traitPairs: { traitname: string; colorDef: Record<stri
   } else {
     root = names.reduce((a, b) => (a.length <= b.length ? a : b));
   }
-  // Build colorMap
-  const colorMap: Record<string, Record<string, string>> = {};
+
+  // Group by inscription ID
+  const inscriptionMap = new Map<string, InscriptionData>();
+
   for (const pair of traitPairs) {
-    // Extract color by removing the root prefix and .svg suffix
     const traitWithoutSvg = pair.traitname.replace(/\.svg$/, '');
     let color: string;
     if (root && traitWithoutSvg.startsWith(root)) {
-      // Remove root + optional dash
       color = traitWithoutSvg.slice(root.length).replace(/^-/, '');
     } else {
-      // Fallback to last segment if root pattern doesn't match
       color = traitWithoutSvg.split('-').pop()!;
     }
-    // If empty after extraction, use the full name
     color = color || traitWithoutSvg;
-    if (pair.colorDef) colorMap[color] = pair.colorDef;
+
+    if (!inscriptionMap.has(pair.id)) {
+      inscriptionMap.set(pair.id, {
+        id: pair.id,
+        colors: {},
+        filename: `${pair.traitgroup}____${pair.traitname}`,
+      });
+    }
+
+    if (pair.colorDef) {
+      inscriptionMap.get(pair.id)!.colors[color] = pair.colorDef;
+    }
   }
-  return { root, colorMap };
+
+  const inscriptions = Array.from(inscriptionMap.values());
+  const primaryType = traitPairs[0].type;
+  const primaryGeneration = determineGeneration(traitPairs[0].id);
+
+  return {
+    root,
+    inscriptions,
+    type: primaryType,
+    generation: primaryGeneration,
+  };
 }
 
 async function main() {
   try {
     const dataDir = path.join(__dirname, '../data');
+
+    console.log('Loading trait group layer types...');
+    const traitGroupLayerTypes = await loadTraitGroupLayerTypes();
 
     const traitColorDefsPath = path.join(dataDir, 'trait-color-defs.json');
     const traitColorDefs = (await fs.readFile(traitColorDefsPath, 'utf-8').then(JSON.parse)) as Record<
@@ -79,31 +156,46 @@ async function main() {
       string[]
     >;
 
-    // traitgroup -> trait-root -> id -> color -> colorDef
-    const mapping: Record<string, Record<string, Record<string, Record<string, Record<string, string>>>>> = {};
+    // traitgroup -> trait-root -> TraitGroupData
+    const mapping: Record<string, Record<string, TraitGroupData>> = {};
 
     for (const [id, traitArr] of Object.entries(traitRelationships)) {
       // Group by traitgroup
-      const groupMap: Record<string, { traitname: string; colorDef: Record<string, string> }[]> = {};
+      const groupMap: Record<
+        string,
+        { traitname: string; colorDef: Record<string, string> | null; type: string; id: string; traitgroup: string }[]
+      > = {};
+
       for (const trait of traitArr) {
         const [traitgroup, traitname] = trait.split('____');
         if (!traitgroup || !traitname) continue;
         if (!groupMap[traitgroup]) groupMap[traitgroup] = [];
         const colorDef: Record<string, string> | null = traitColorDefs[trait] ?? null;
-        groupMap[traitgroup].push({ traitname, colorDef });
+
+        // Get the type from our loaded mapping
+        const type = traitGroupLayerTypes.get(traitgroup) || 'unknown';
+
+        groupMap[traitgroup].push({ traitname, colorDef, type, id, traitgroup });
       }
+
       for (const [traitgroup, traitPairs] of Object.entries(groupMap)) {
-        const { root, colorMap } = getRootAndColors(traitPairs);
+        const { root, inscriptions, type, generation } = getRootAndColors(traitPairs);
+
         if (!mapping[traitgroup]) mapping[traitgroup] = {};
-        if (!mapping[traitgroup][root]) mapping[traitgroup][root] = {};
-        mapping[traitgroup][root][id] = colorMap;
+
+        mapping[traitgroup][root] = {
+          inscriptions,
+          type,
+          generation,
+        };
       }
     }
 
-    const outputPath = path.join(dataDir, 'trait-root-mapping-v1-0-2.json');
+    const outputPath = path.join(dataDir, 'trait-root-mapping-v1-1-0.json');
     await fs.writeFile(outputPath, JSON.stringify(mapping, null, 2));
 
-    console.log(`Wrote trait root mapping to ${outputPath}`);
+    console.log(`\nWrote trait root mapping to ${outputPath}`);
+    console.log(`Processed ${Object.keys(mapping).length} trait groups`);
   } catch (error) {
     console.error('Error in art-process-traits:', error);
     process.exit(1);
