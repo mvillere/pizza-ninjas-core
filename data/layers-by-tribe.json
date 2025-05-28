@@ -1,0 +1,444 @@
+{
+  "GLOBAL": {
+    "layerIdPrefix": 0,
+    "layers": [
+      {
+        "layer": "01-back-accessories",
+        "layerGroupId": 1,
+        "traitGroups": ["back-accessories"],
+        "dependencies": [],
+        "optionality": "optional"
+      },
+      {
+        "layer": "02-body",
+        "layerGroupId": 2,
+        "traitGroups": [
+          "kombat-gi-body",
+          "spirit-body-stoic",
+          "spirit-body-weapon",
+          "stoic-body",
+          "tracksuit",
+          "weapon-body"
+        ],
+        "forces": [{ "spirit-body-weapon": 4, "weapon-body": 4 }],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "03-body-decorations",
+        "layerGroupId": 3,
+        "traitGroups": ["kombat-color", "tracksuit-stripe", "shinobi-stripe", "shinobi-belt"],
+        "dependencies": [
+          { "kombat-color": "kombat-gi-body" },
+          { "tracksuit-stripe": "tracksuit" },
+          { "shinobi-stripe": "stoic-body" },
+          { "shinobi-belt": "weapon-body" }
+        ],
+        "optionality": "optional"
+      },
+      {
+        "layer": "04-hands",
+        "layerGroupId": 4,
+        "traitGroups": ["hands-weapons", "spirit-hands-weapons"],
+        "dependencies": [{ "hands-weapons": "weapon-body" }, { "spirit-hands-weapons": "spirit-body-weapon" }],
+        "optionality": "forced"
+      },
+      {
+        "layer": "08-top-of-head",
+        "layerGroupId": 8,
+        "traitGroups": ["top-of-head"],
+        "dependencies": [],
+        "optionality": "optional"
+      }
+    ]
+  },
+  "cat": {
+    "minTraits": 3,
+    "maxTraits": 7,
+    "layerIdPrefix": 100,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "101-cat-head",
+        "layerGroupId": 101,
+        "traitGroups": ["cat-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "102-cat-eyes",
+        "layerGroupId": 102,
+        "traitGroups": ["cat-eyes"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "103-cat-top-of-head",
+        "layerGroupId": 103,
+        "traitGroups": ["cat-top-of-head"],
+        "dependencies": [],
+        "optionality": "optional"
+      }
+    ]
+  },
+  "classic": {
+    "minTraits": 3,
+    "maxTraits": 9,
+    "layerIdPrefix": 200,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "201-ninjalerts-head",
+        "layerGroupId": 201,
+        "traitGroups": ["ninjalerts-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "202-ninjalerts-face",
+        "layerGroupId": 202,
+        "traitGroups": ["ninjalerts-face", "blackout-face"],
+        "dependencies": [],
+        "forces": [{ "blackout-face": 203 }],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "203-blackout-eyes",
+        "layerGroupId": 203,
+        "traitGroups": ["blackout-eyes"],
+        "dependencies": [{ "blackout-eyes": "blackout-face" }],
+        "optionality": "forced"
+      },
+      {
+        "layer": "204-men-yoroi",
+        "layerGroupId": 204,
+        "traitGroups": ["men-yoroi"],
+        "dependencies": [],
+        "optionality": "optional"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  },
+  "frog": {
+    "minTraits": 4,
+    "maxTraits": 8,
+    "layerIdPrefix": 300,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "301-frog-head",
+        "layerGroupId": 301,
+        "traitGroups": ["frog-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "302-frog-mouth",
+        "layerGroupId": 302,
+        "traitGroups": ["frog-mouth"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "303-frog-eyes",
+        "layerGroupId": 303,
+        "traitGroups": ["frog-eyes"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "304-frog-top-of-head",
+        "layerGroupId": 304,
+        "traitGroups": ["frog-top-of-head"],
+        "excludes": 8,
+        "dependencies": [],
+        "optionality": "optional"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  },
+  "turtles": {
+    "minTraits": 4,
+    "maxTraits": 4,
+    "layerIdPrefix": 400,
+    "layers": [
+      {
+        "layer": "401-turtles-body",
+        "layerGroupId": 401,
+        "traitGroups": ["turtles-body"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "402-turtles-hand",
+        "layerGroupId": 402,
+        "traitGroups": ["turtles-hand"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "403-turtles-head",
+        "layerGroupId": 403,
+        "traitGroups": ["turtles-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "404-turtles-face",
+        "layerGroupId": 404,
+        "traitGroups": ["turtles-face"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      }
+    ]
+  },
+  "pepe": {
+    "minTraits": 2,
+    "maxTraits": 6,
+    "layerIdPrefix": 500,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "501-pepe-head",
+        "layerGroupId": 501,
+        "traitGroups": ["pepe-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  },
+  "tv": {
+    "minTraits": 3,
+    "maxTraits": 4,
+    "layerIdPrefix": 600,
+    "layers": [
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "601-tv-head",
+        "layerGroupId": 601,
+        "traitGroups": ["tv-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "602-tv-screen",
+        "layerGroupId": 602,
+        "traitGroups": ["tv-screen"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      }
+    ]
+  },
+  "hooded": {
+    "minTraits": 2,
+    "maxTraits": 7,
+    "layerIdPrefix": 700,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "701-hooded-head",
+        "layerGroupId": 701,
+        "traitGroups": ["hooded-head", "hooded-skull", "hooded-hockey-mask"],
+        "forces": [{ "hooded-skull": 702 }],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "702-hooded-skull-eyes",
+        "layerGroupId": 702,
+        "traitGroups": ["hooded-skull-eyes"],
+        "dependencies": [{ "hooded-skull-eyes": "hooded-skull" }],
+        "optionality": "forced"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  },
+  "kevin": {
+    "minTraits": 2,
+    "maxTraits": 6,
+    "layerIdPrefix": 800,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "801-kevin-head",
+        "layerGroupId": 801,
+        "traitGroups": ["kevin-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  },
+  "monomi": {
+    "minTraits": 4,
+    "maxTraits": 8,
+    "layerIdPrefix": 900,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "901-monomi-head",
+        "layerGroupId": 901,
+        "traitGroups": ["monomi-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "902-monomi-headband",
+        "layerGroupId": 902,
+        "traitGroups": ["monomi-headband"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "903-monomi-face",
+        "layerGroupId": 903,
+        "traitGroups": ["monomi-face"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  },
+  "spirit": {
+    "minTraits": 3,
+    "maxTraits": 8,
+    "layerIdPrefix": 1000,
+    "layers": [
+      {
+        "layerGroupId": 1
+      },
+      {
+        "layerGroupId": 2
+      },
+      {
+        "layerGroupId": 3
+      },
+      {
+        "layerGroupId": 4
+      },
+      {
+        "layer": "1001-spirit-ninjalerts-head",
+        "layerGroupId": 1001,
+        "traitGroups": ["spirit-ninjalerts-head"],
+        "dependencies": [],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "1002-spirit-ninjalerts-face",
+        "layerGroupId": 1002,
+        "traitGroups": ["spirit-ninjalerts-face", "blackout-face"],
+        "dependencies": [],
+        "forces": [{ "blackout-face": 1003 }],
+        "optionality": "mandatory"
+      },
+      {
+        "layer": "1003-blackout-eyes",
+        "layerGroupId": 1003,
+        "traitGroups": ["blackout-eyes"],
+        "dependencies": [{ "blackout-eyes": "blackout-face" }],
+        "optionality": "forced"
+      },
+      {
+        "layerGroupId": 8
+      }
+    ]
+  }
+}
