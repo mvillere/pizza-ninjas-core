@@ -1,10 +1,9 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { getChildrenInscriptions, getInscriptionPreview } from './utils/ord.js';
+import { getInscriptionPreview } from './utils/ord.js';
 import { fileURLToPath } from 'url';
 import { createScriptLogger } from './utils/logger.js';
 
-const NINJA_PARENT = '80da3cecac858f2757c5b338be15980bdc9d9570d4e86765b4948be8143c82e1i0';
 const RALF_NINJA_ID = '269730d6cd8c0795317bb8fd043fc7cecb147bb98ae0fed1a1ca9cc646a0c6a2i0';
 
 // ESM way to get __dirname
@@ -63,10 +62,6 @@ function normalizeTraitName(traitName: string): string {
   return `${traitGroup}____${normalizedFileName}`;
 }
 
-async function getNinjaChildren(): Promise<string[]> {
-  return getChildrenInscriptions(NINJA_PARENT);
-}
-
 async function getNinjaTraitConfigs(ninjaId: string): Promise<TraitConfig[]> {
   try {
     // Check if ninja HTML exists on disk first
@@ -76,6 +71,7 @@ async function getNinjaTraitConfigs(ninjaId: string): Promise<TraitConfig[]> {
       html = await fs.readFile(ninjaHtmlPath, 'utf-8');
     } catch (err) {
       // If file doesn't exist, fetch from inscription preview and save
+      console.log(`HTML file not found for ${ninjaId}, fetching from ordinals...`);
       html = await getInscriptionPreview(ninjaId);
       await fs.writeFile(ninjaHtmlPath, html);
     }
@@ -137,7 +133,7 @@ async function getNinjaTraitConfigs(ninjaId: string): Promise<TraitConfig[]> {
 
     return configs;
   } catch (error) {
-    console.error(`Error fetching preview for ${ninjaId}:`, error);
+    console.error(`Error processing ninja ${ninjaId}:`, error);
     return [];
   }
 }
@@ -147,16 +143,19 @@ async function main() {
   logger.start();
 
   try {
-    console.log('Fetching ninja inscription IDs...');
-    const ninjaIds = await getNinjaChildren();
-
-    // Save to /data directory at the project root
+    // Load ninja IDs from existing file (should be created by art-retrieve-inscriptions.ts)
     const dataDir = path.join(__dirname, '..', 'data');
-    await fs.mkdir(dataDir, { recursive: true });
-
-    // Save to JSON file
-    const outputPath = path.join(dataDir, 'ninja-ids.json');
-    await fs.writeFile(outputPath, JSON.stringify(ninjaIds, null, 2));
+    const ninjaIdsPath = path.join(dataDir, 'ninja-ids.json');
+    
+    let ninjaIds: string[];
+    try {
+      const ninjaIdsData = await fs.readFile(ninjaIdsPath, 'utf-8');
+      ninjaIds = JSON.parse(ninjaIdsData);
+    } catch (error) {
+      console.error(`Could not load ninja-ids.json from ${ninjaIdsPath}`);
+      console.error('Please run "npm run art:retrieve-inscriptions" first');
+      process.exit(1);
+    }
 
     console.log(`Processing ${ninjaIds.length} ninjas...`);
     const traitMap = new Map<string, string>();
@@ -288,7 +287,11 @@ async function main() {
     const traitColorDefsPath = path.join(dataDir, 'trait-color-defs.json');
     await fs.writeFile(traitColorDefsPath, JSON.stringify(traitColorDefsObject, null, 2));
 
-    console.log(`Successfully saved ${ninjaIds.length} ninja IDs to ${outputPath}`);
+    console.log(`\n=== Trait Processing Complete ===`);
+    console.log(`Processed ${ninjaIds.length} ninjas`);
+    console.log(`Found ${traitMap.size} unique traits`);
+    console.log(`Trait mappings saved to: ${traitOutputPath}`);
+    console.log(`Trait color definitions saved to: ${traitColorDefsPath}`);
   } catch (error) {
     console.error('Error in main:', error);
     process.exit(1);

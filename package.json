@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "format": "prettier --write scripts/ && prettier --write data/",
-    "art:retrieve-ids": "node --loader ts-node/esm scripts/art-retrieve-ids.ts",
+    "art:retrieve-inscriptions": "node --loader ts-node/esm scripts/art-retrieve-inscriptions.ts",
     "art:retrieve-traits": "node --loader ts-node/esm scripts/art-retrieve-traits.ts",
     "art:process-ids": "node --loader ts-node/esm scripts/art-process-ids.ts",
     "art:process-traits": "node --loader ts-node/esm scripts/art-process-traits.ts",
