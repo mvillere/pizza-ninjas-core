@@ -52,41 +52,6 @@ async function main() {
 
     const notUsedIdsPath = path.join(dataDir, 'art-ids-not-used.json');
     await fs.writeFile(notUsedIdsPath, JSON.stringify(Array.from(notUsedIds), null, 2));
-
-    // const traitGroups = new Map<string, Set<string>>();
-
-    // for (const [trait, id] of Object.entries(relatedTraits)) {
-    //     if (!relatedTraits.has(id)) {
-
-    // // Second pass: identify unique traits and their IDs
-    // for (const [normalizedTrait, ids] of traitGroups) {
-    //   if (ids.size === 1) {
-    //     // If there's only one ID for this trait, it's a unique trait
-    //     normalizedTraits.set(normalizedTrait, Array.from(ids)[0]);
-    //   } else {
-    //     // For traits with multiple IDs, we need to verify they're all the same
-    //     const uniqueIds = new Set(ids);
-    //     if (uniqueIds.size === 1) {
-    //       // If all variations point to the same ID, it's a unique trait
-    //       normalizedTraits.set(normalizedTrait, Array.from(uniqueIds)[0]);
-    //     } else {
-    //       console.warn(`Multiple IDs found for trait ${normalizedTrait}:`, Array.from(uniqueIds));
-    //     }
-    //   }
-    // }
-
-    // // Create the final output
-    // const output = {
-    //   artIds,
-    //   normalizedTraits: Object.fromEntries(normalizedTraits),
-    // };
-
-    // // Save to JSON file
-    // const outputPath = path.join(dataDir, 'joined-art-traits.json');
-    // await fs.writeFile(outputPath, JSON.stringify(output, null, 2));
-
-    // console.log(`Successfully saved joined data to ${outputPath}`);
-    // console.log(`Found ${artIds.length} art IDs and ${normalizedTraits.size} unique traits`);
   } catch (error) {
     console.error('Error in main:', error);
     process.exit(1);

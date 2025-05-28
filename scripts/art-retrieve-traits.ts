@@ -67,7 +67,7 @@ async function getNinjaChildren(): Promise<string[]> {
   return getChildrenInscriptions(NINJA_PARENT);
 }
 
-async function getNinjaPreview(ninjaId: string): Promise<TraitConfig[]> {
+async function getNinjaTraitConfigs(ninjaId: string): Promise<TraitConfig[]> {
   try {
     // Check if ninja HTML exists on disk first
     const ninjaHtmlPath = path.join(__dirname, '..', 'ninjas/inscriptions', `${ninjaId}.html`);
@@ -163,10 +163,10 @@ async function main() {
     const traitColorDefs = new Map<string, Record<string, string>>();
 
     for (const ninjaId of ninjaIds) {
-      const traits = await getNinjaPreview(ninjaId);
-      for (const trait of traits) {
+      const traitConfigs = await getNinjaTraitConfigs(ninjaId);
+      for (const traitConfig of traitConfigs) {
         // Normalize trait name (convert underscores to dashes)
-        const originalTrait = trait.trait;
+        const originalTrait = traitConfig.trait;
         const normalizedTrait = normalizeTraitName(originalTrait);
 
         if (originalTrait !== normalizedTrait) {
@@ -180,50 +180,50 @@ async function main() {
           } else {
             console.warn(`[TRAIT NAME NORMALIZED] ${originalTrait} -> ${normalizedTrait}`);
           }
-          trait.trait = normalizedTrait;
+          traitConfig.trait = normalizedTrait;
         } else if (originalTrait === 'spirit-ninja____scar-spirit-brown.svg') {
           // This trait was mis-named in the original colleciton.
           const adjustedTrait = 'spirit-ninjalerts-face____scar-spirit-brown.svg';
           console.warn(`[TRAIT NAME ADJUSTED] ${originalTrait} -> ${adjustedTrait}`);
-          trait.trait = adjustedTrait;
+          traitConfig.trait = adjustedTrait;
         }
 
-        const originalId = trait.id;
+        const originalId = traitConfig.id;
         // Correct frog-head IDs - all frog head variants should use the same inscription ID
         if (
-          trait.trait.startsWith('frog-head____frog-head') &&
-          trait.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69'
+          traitConfig.trait.startsWith('frog-head____frog-head') &&
+          traitConfig.id !== '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69'
         ) {
           // Frog head yellow was inadvertently assigned the toad head inscription id.
-          trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
-          console.warn(`[FROG HEAD ID CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
-        } else if (trait.trait === 'ninjalerts-face____dead-white.svg') {
+          traitConfig.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
+          console.warn(`[FROG HEAD ID CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`);
+        } else if (traitConfig.trait === 'ninjalerts-face____dead-white.svg') {
           // dead-white ninja face was assigned the dead-white-black inscription id.
-          trait.id = 'd81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159';
-          console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
+          traitConfig.id = 'd81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159';
+          console.warn(`[NINJALERTS FACE CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`);
         } else if (
-          trait.trait === 'ninjalerts-face____dead.svg' ||
-          trait.trait === 'ninjalerts-face____dead-yellow.svg'
+          traitConfig.trait === 'ninjalerts-face____dead.svg' ||
+          traitConfig.trait === 'ninjalerts-face____dead-yellow.svg'
         ) {
-          trait.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144';
-          console.warn(`[NINJALERTS FACE CORRECTED] ${trait.trait} ID changed from ${originalId} to ${trait.id}`);
+          traitConfig.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144';
+          console.warn(`[NINJALERTS FACE CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`);
         }
 
-        traitMap.set(trait.trait, trait.id);
+        traitMap.set(traitConfig.trait, traitConfig.id);
         // Collect ST* color defs
         const colorDefs: Record<string, string> = {};
-        for (const key in trait) {
-          if (typeof key === 'string' && /^ST\d+$/.test(key) && trait[key as keyof TraitConfig]) {
-            colorDefs[key] = trait[key as keyof TraitConfig] as string;
+        for (const key in traitConfig) {
+          if (typeof key === 'string' && /^ST\d+$/.test(key) && traitConfig[key as keyof TraitConfig]) {
+            colorDefs[key] = traitConfig[key as keyof TraitConfig] as string;
           }
         }
 
         // Explicitly set default colors for SVG, since SVG is shared across multiple traits with color configs.
         const explicitClasses = [];
-        if (trait.trait === 'hands-weapons____push-notification-white-text.svg') {
+        if (traitConfig.trait === 'hands-weapons____push-notification-white-text.svg') {
           colorDefs['ST1'] = '#4A4F4F';
           explicitClasses.push('ST1');
-        } else if (trait.trait === 'pepe-head____pepe-head-blackout.svg') {
+        } else if (traitConfig.trait === 'pepe-head____pepe-head-blackout.svg') {
           colorDefs['ST0'] = '#000000';
           colorDefs['ST2'] = '#FF002C';
           explicitClasses.push('ST0', 'ST2');
@@ -231,19 +231,19 @@ async function main() {
 
         if (explicitClasses.length > 0) {
           console.warn(
-            `\n[EXPLICIT DEFAULT] Trait: ${trait.trait} given explicit color settings for ${explicitClasses.join(', ')}`
+            `\n[EXPLICIT DEFAULT] Trait: ${traitConfig.trait} given explicit color settings for ${explicitClasses.join(', ')}`
           );
         }
 
         if (Object.keys(colorDefs).length > 0) {
-          const existing = traitColorDefs.get(trait.trait);
+          const existing = traitColorDefs.get(traitConfig.trait);
           if (existing) {
             let corrected = false;
             const existingStr = JSON.stringify(existing);
             const newStr = JSON.stringify(colorDefs);
             if (existingStr !== newStr) {
               let correctValue: Record<string, string> | undefined;
-              switch (trait.trait) {
+              switch (traitConfig.trait) {
                 case 'cat-eyes____dead-cat-eyes-white.svg':
                   correctValue = { ST0: '#000000', ST1: '#EDEDED', ST3: '#000000' };
                   break;
@@ -257,20 +257,20 @@ async function main() {
 
               const correctStr = JSON.stringify(correctValue);
               if (correctValue && existingStr !== correctStr) {
-                traitColorDefs.set(trait.trait, correctValue);
+                traitColorDefs.set(traitConfig.trait, correctValue);
                 console.warn(
-                  `\n[CORRECTED] Trait: ${trait.trait} corrected according to the ${trait.trait} rule.\nOld: ${existingStr}\nNew: ${correctStr}\n`
+                  `\n[CORRECTED] Trait: ${traitConfig.trait} corrected according to the ${traitConfig.trait} rule.\nOld: ${existingStr}\nNew: ${correctStr}\n`
                 );
                 corrected = true;
               }
             }
             if (!corrected && existingStr !== newStr) {
               console.error(
-                `\n\n[TRAIT COLOR DEF MISMATCH] Trait: ${trait.trait}\nExisting: ${existingStr}\nNew:      ${newStr}\n`
+                `\n\n[TRAIT COLOR DEF MISMATCH] Trait: ${traitConfig.trait}\nExisting: ${existingStr}\nNew:      ${newStr}\n`
               );
             }
           } else {
-            traitColorDefs.set(trait.trait, colorDefs);
+            traitColorDefs.set(traitConfig.trait, colorDefs);
           }
         }
       }
