@@ -6,10 +6,16 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+interface VariantData {
+  'trait-key': string;
+  color: string | null;
+  'color-def': Record<string, string>;
+}
+
 interface InscriptionData {
   id: string;
-  colors: Record<string, Record<string, string>>;
-  filename: string;
+  variants: VariantData[];
+  'file-path': string;
 }
 
 interface TraitGroupData {
@@ -71,13 +77,17 @@ function getRootAndColors(
   if (traitPairs.length === 1) {
     const traitname = traitPairs[0].traitname.replace(/\.svg$/, '');
     const color = traitname.split('-').pop()!;
-    const colors: Record<string, Record<string, string>> = {};
-    if (traitPairs[0].colorDef) colors[color] = traitPairs[0].colorDef;
 
     const inscription: InscriptionData = {
       id: traitPairs[0].id,
-      colors,
-      filename: `${traitPairs[0].traitgroup}____${traitPairs[0].traitname}`,
+      variants: [
+        {
+          'trait-key': `${traitPairs[0].traitgroup}____${traitPairs[0].traitname}`,
+          color: traitPairs[0].colorDef ? color : null,
+          'color-def': traitPairs[0].colorDef || {},
+        },
+      ],
+      'file-path': `${traitPairs[0].traitgroup}____${traitname}____${traitPairs[0].id}.svg`,
     };
 
     return {
@@ -115,14 +125,16 @@ function getRootAndColors(
     if (!inscriptionMap.has(pair.id)) {
       inscriptionMap.set(pair.id, {
         id: pair.id,
-        colors: {},
-        filename: `${pair.traitgroup}____${pair.traitname}`,
+        variants: [],
+        'file-path': `${pair.traitgroup}____${root}____${pair.id}.svg`,
       });
     }
 
-    if (pair.colorDef) {
-      inscriptionMap.get(pair.id)!.colors[color] = pair.colorDef;
-    }
+    inscriptionMap.get(pair.id)!.variants.push({
+      'trait-key': `${pair.traitgroup}____${pair.traitname}`,
+      color: pair.colorDef ? color : null,
+      'color-def': pair.colorDef || {},
+    });
   }
 
   const inscriptions = Array.from(inscriptionMap.values());
