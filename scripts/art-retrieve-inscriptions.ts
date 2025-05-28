@@ -30,7 +30,7 @@ async function downloadNinjaHtml(ninjaId: string): Promise<void> {
     const ninjaDir = path.join(__dirname, '..', 'ninjas/inscriptions');
     await fs.mkdir(ninjaDir, { recursive: true });
     const ninjaHtmlPath = path.join(ninjaDir, `${ninjaId}.html`);
-    
+
     try {
       // Check if file already exists
       await fs.access(ninjaHtmlPath);
@@ -52,7 +52,7 @@ async function downloadNinjaHtml(ninjaId: string): Promise<void> {
 async function main() {
   try {
     console.log('Starting inscription retrieval process...');
-    
+
     // Ensure data directory exists
     const dataDir = path.join(__dirname, '../data');
     await fs.mkdir(dataDir, { recursive: true });
@@ -60,7 +60,7 @@ async function main() {
     // Part A: Retrieve art assets
     console.log('Fetching art asset inscription IDs...');
     const artIds = await getChildrenInscriptions(ROOT_ART_ASSET);
-    
+
     const artIdsPath = path.join(dataDir, 'art-ids.json');
     await fs.writeFile(artIdsPath, JSON.stringify(artIds, null, 2));
     console.log(`Found ${artIds.length} art assets`);
@@ -74,7 +74,7 @@ async function main() {
     // Part B: Retrieve ninja inscriptions
     console.log('Fetching ninja inscription IDs...');
     const ninjaIds = await getChildrenInscriptions(NINJA_PARENT);
-    
+
     const ninjaIdsPath = path.join(dataDir, 'ninja-ids.json');
     await fs.writeFile(ninjaIdsPath, JSON.stringify(ninjaIds, null, 2));
     console.log(`Found ${ninjaIds.length} ninjas`);
@@ -90,11 +90,10 @@ async function main() {
     console.log(`Ninja IDs saved to: ${ninjaIdsPath}`);
     console.log('Art assets saved to: ./art/inscriptions/');
     console.log('Ninja HTML files saved to: ./ninjas/inscriptions/');
-    
   } catch (error) {
     console.error('Error in main:', error);
     process.exit(1);
   }
 }
 
-main().catch(console.error); 
+main().catch(console.error);

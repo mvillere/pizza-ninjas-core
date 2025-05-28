@@ -1,88 +1,441 @@
 
 
-==== LOG SESSION: 2025-05-28T15:11:39.169Z ====
+==== LOG SESSION: 2025-05-28T16:18:05.099Z ====
 
-Fetching ninja inscription IDs...
 Processing 1500 ninjas...
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sauce.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-cyan.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pigtails-dark.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____white-pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-orange.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-red.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pigtails.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-yellow.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tomato-sauce.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-red-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-orange.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____push-pin.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-green.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____monomi-rabbit.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-red.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] 
 [EXPLICIT DEFAULT] Trait: hands-weapons____push-notification-white-text.svg given explicit color settings for ST1
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tomato-sauce.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____pizza-slice.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
 [WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-black-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-black-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-green.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____pizza-slice.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-orange.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-gray-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-blue.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____tron-frog-head.svg -> frog-head____frog-head-tron.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-black-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____push-pin.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____orange-sherbert.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] 
 [EXPLICIT DEFAULT] Trait: pepe-head____pepe-head-blackout.svg given explicit color settings for ST0, ST2
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-white.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-orange.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____hooded-head-mohawk-cyan.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____white-pizza.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-blue.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____monomi-rabbit.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____white-pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-gray.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
 [WARN] 
 [CORRECTED] Trait: cat-eyes____dead-cat-eyes-white.svg corrected according to the cat-eyes____dead-cat-eyes-white.svg rule.
 Old: {"ST0":"#000000","ST1":"#EDEDED","ST2":"#000000"}
 New: {"ST0":"#000000","ST1":"#EDEDED","ST3":"#000000"}
 
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-red-yellow.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-purple-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
@@ -91,13 +444,31 @@ New: {"ST0":"#000000","ST1":"#EDEDED","ST3":"#000000"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-red-yellow.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-green.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
@@ -105,75 +476,175 @@ New: {"ST0":"#000000","ST1":"#EDEDED","ST3":"#000000"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tomato-sauce.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____hooded-head-mohawk-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sauce.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] 
 [CORRECTED] Trait: cat-eyes____dead-cat-eyes-yellow.svg corrected according to the cat-eyes____dead-cat-eyes-yellow.svg rule.
 Old: {"ST0":"#000000","ST1":"#FFD400","ST2":"#000000"}
 New: {"ST0":"#000000","ST1":"#FFD400","ST3":"#000000"}
 
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____pizza-slice.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____monomi-rabbit.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tomato-sauce.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
 [CORRECTED] Trait: hooded-head____hooded-head-blackout-white.svg corrected according to the hooded-head____hooded-head-blackout-white.svg rule.
 Old: {"ST1":"#000000","ST2":"#00A900"}
 New: {"ST1":"#000000","ST2":"#EDEDED"}
 
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____hooded-head-mohawk-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-black-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
@@ -182,89 +653,408 @@ New: {"ST1":"#000000","ST2":"#EDEDED"}
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____white-pizza.svg" so adjusting to hat
+[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
+[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
-[WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
-[WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tomato-sauce.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ponytail.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sauce.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-gray-pink.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____hooded-head-mohawk-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____push-pin.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____white-pizza.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sauce.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____push-pin.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____pink-frog-head.svg -> frog-head____frog-head-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-red.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____purple-frog-head.svg -> frog-head____frog-head-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-cyan.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____orange-frog-head.svg -> frog-head____frog-head-orange.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____black-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____push-pin.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-blue.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pigtails.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____cyan-frog-head.svg -> frog-head____frog-head-cyan.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-cyan.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____yellow-frog-head.svg -> frog-head____frog-head-yellow.svg
 [WARN] [FROG HEAD ID CORRECTED] frog-head____frog-head-yellow.svg ID changed from 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i70 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-cyan.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____push-pin.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____blue-frog-head.svg -> frog-head____frog-head-blue.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-gray.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-white.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ponytail.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-orange.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ponytail.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-purple-white.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-gray.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] ninjalerts-face____3D-Glasses.svg -> ninjalerts-face____3d-glasses.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
 [WARN] [LEADING COLOR MOVED TO TRAILING] frog-head____albino-frog-head.svg -> frog-head____frog-head-albino.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-yellow.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-green.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ice-cream.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-yellow.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____classic-headband-green.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-pink.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-blue.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-red.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to 840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sword.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____mohawk-spirit.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] back-accessories____ninjato_spirit_pink_yellow.svg -> back-accessories____ninjato-spirit-pink-yellow.svg
 [WARN] [TRAIT NAME NORMALIZED] cat-eyes____big_eyes_pink.svg -> cat-eyes____big-eyes-pink.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears-black-purple.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____unicorn.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____horns-black.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
 [WARN] [TRAIT NAME ADJUSTED] spirit-ninja____scar-spirit-brown.svg -> spirit-ninjalerts-face____scar-spirit-brown.svg
 [WARN] [TRAIT NAME NORMALIZED] top-of-head____western_hat_spirit.svg -> top-of-head____western-hat-spirit.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "cat-top-of-head" is incorrectly set to "head" for trait "cat-top-of-head____tiny-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____tiny-tilted-crown.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____dark-crown.svg" so adjusting to hat
 [WARN] [TRAIT NAME NORMALIZED] blackout-eyes____Blackout-Scar.svg -> blackout-eyes____blackout-scar.svg
 [WARN] [NINJALERTS FACE CORRECTED] ninjalerts-face____dead-white.svg ID changed from d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai158 to d81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159
 [WARN] [TRAIT NAME NORMALIZED] hooded-head____hooded_head_white_purple.svg -> hooded-head____hooded-head-white-purple.svg
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____bunny-ears.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____fried-egg.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____pizza-sticky.svg" so adjusting to hat
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____sprout.svg" so adjusting to hat
 [RALF TRAIT ASSIGNED] 3eb63d923f4634a25845f1769d2212e5aa78465051b7b3fb783b60749fbba761i0 -> stoic-body____stoic-body-ralf.svg
 [RALF TRAIT ASSIGNED] f7ecf7b6faa7d8a1f2ac6e3facc44a85b8b88661bae424074df4524d747408f8i0 -> ninjalerts-head____ninjalerts-head-ralf.svg
 [RALF TRAIT ASSIGNED] e004f8234329c7a4c1d0a78856d127c89d8b2e0d26ac6e0202fe8be71e43cc54i0 -> ninjalerts-face____ralf.svg
 [RALF TRAIT ASSIGNED] b80b35b835f9f7fc399830e04bb538372367da3d9baad2f1a91a61ce9f6adbd9i0 -> top-of-head____ralf.svg
-Successfully saved 1500 ninja IDs to E:\Dev\NFT\TVSystems\github\mvillere\pizza-ninjas-core\data\ninja-ids.json
+[WARN] 
+[TRAIT GROUP TYPE ADJUSTED] "top-of-head" is incorrectly set to "head" for trait "top-of-head____ralf.svg" so adjusting to hat
+
+=== Trait Processing Complete ===
+Processed 1500 ninjas
+Found 692 unique traits
+Found 42 trait groups with layer types
+Trait mappings saved to: E:\Dev\NFT\TVSystems\github\mvillere\pizza-ninjas-core\data\trait-mappings.json
+Trait color definitions saved to: E:\Dev\NFT\TVSystems\github\mvillere\pizza-ninjas-core\data\trait-color-defs.json
+Trait group layer types saved to: E:\Dev\NFT\TVSystems\github\mvillere\pizza-ninjas-core\data\trait-group-layer-types.json
 
 ==== END SESSION ====

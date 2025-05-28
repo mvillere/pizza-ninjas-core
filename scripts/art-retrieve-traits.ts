@@ -16,6 +16,12 @@ const logger = createScriptLogger('trait-mappings');
 interface TraitConfig {
   trait: string;
   id: string;
+  /**
+   * Animation layer group - used by the animation system to group and move layers together.
+   * Known values: 'body' | 'head' | 'hat'
+   * Note: Originally inconsistently applied in source data - top-of-head traits appear
+   * as both 'head' and 'hat', so we normalize top-of-head and cat-top-of-head to 'hat'
+   */
   type?: string;
   holiday_swap?: string;
   [key: `ST${number}`]: string | undefined;
@@ -146,7 +152,7 @@ async function main() {
     // Load ninja IDs from existing file (should be created by art-retrieve-inscriptions.ts)
     const dataDir = path.join(__dirname, '..', 'data');
     const ninjaIdsPath = path.join(dataDir, 'ninja-ids.json');
-    
+
     let ninjaIds: string[];
     try {
       const ninjaIdsData = await fs.readFile(ninjaIdsPath, 'utf-8');
@@ -160,6 +166,7 @@ async function main() {
     console.log(`Processing ${ninjaIds.length} ninjas...`);
     const traitMap = new Map<string, string>();
     const traitColorDefs = new Map<string, Record<string, string>>();
+    const traitGroupLayerTypes = new Map<string, string>(); // traitgroup -> type
 
     for (const ninjaId of ninjaIds) {
       const traitConfigs = await getNinjaTraitConfigs(ninjaId);
@@ -195,20 +202,55 @@ async function main() {
         ) {
           // Frog head yellow was inadvertently assigned the toad head inscription id.
           traitConfig.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i69';
-          console.warn(`[FROG HEAD ID CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`);
+          console.warn(
+            `[FROG HEAD ID CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`
+          );
         } else if (traitConfig.trait === 'ninjalerts-face____dead-white.svg') {
           // dead-white ninja face was assigned the dead-white-black inscription id.
           traitConfig.id = 'd81a779eaa394f71a43d749721f4a6ecf236bf5fcab7200f2e033be18f93f56ai159';
-          console.warn(`[NINJALERTS FACE CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`);
+          console.warn(
+            `[NINJALERTS FACE CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`
+          );
         } else if (
           traitConfig.trait === 'ninjalerts-face____dead.svg' ||
           traitConfig.trait === 'ninjalerts-face____dead-yellow.svg'
         ) {
           traitConfig.id = '840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i144';
-          console.warn(`[NINJALERTS FACE CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`);
+          console.warn(
+            `[NINJALERTS FACE CORRECTED] ${traitConfig.trait} ID changed from ${originalId} to ${traitConfig.id}`
+          );
         }
 
         traitMap.set(traitConfig.trait, traitConfig.id);
+
+        // Extract trait group and map to layer type with consistency checking
+        const traitGroup = traitConfig.trait.split('____')[0];
+        if (traitConfig.type && traitGroup) {
+          const originalType = traitConfig.type;
+          let adjustedType = originalType;
+
+          if (traitGroup === 'top-of-head' || traitGroup === 'cat-top-of-head') {
+            adjustedType = 'hat';
+          }
+
+          if (originalType !== adjustedType) {
+            console.warn(
+              `\n[TRAIT GROUP TYPE ADJUSTED] "${traitGroup}" is incorrectly set to "${originalType}" for trait "${traitConfig.trait}" so adjusting to ${adjustedType}`
+            );
+          }
+
+          const existingType = traitGroupLayerTypes.get(traitGroup);
+          if (existingType && existingType !== adjustedType) {
+            console.error(
+              `\n[TRAIT GROUP TYPE MISMATCH] "${traitGroup}" was mapped to "${existingType}" but encountered "${adjustedType}" in ninja ${ninjaId}`
+            );
+            console.error(`  Trait: ${traitConfig.trait}`);
+            console.error(`  This may indicate a bug in the original data - please review and correct\n`);
+          } else if (!existingType) {
+            traitGroupLayerTypes.set(traitGroup, adjustedType);
+          }
+        }
+
         // Collect ST* color defs
         const colorDefs: Record<string, string> = {};
         for (const key in traitConfig) {
@@ -278,6 +320,7 @@ async function main() {
     // Convert Map to object for JSON serialization
     const traitObject = Object.fromEntries(traitMap);
     const traitColorDefsObject = Object.fromEntries(traitColorDefs);
+    const traitGroupLayerTypesObject = Object.fromEntries(traitGroupLayerTypes);
 
     // Save trait mapping to file
     const traitOutputPath = path.join(dataDir, 'trait-mappings.json');
@@ -287,11 +330,17 @@ async function main() {
     const traitColorDefsPath = path.join(dataDir, 'trait-color-defs.json');
     await fs.writeFile(traitColorDefsPath, JSON.stringify(traitColorDefsObject, null, 2));
 
+    // Save trait group layer types to file
+    const traitGroupLayerTypesPath = path.join(dataDir, 'trait-group-layer-types.json');
+    await fs.writeFile(traitGroupLayerTypesPath, JSON.stringify(traitGroupLayerTypesObject, null, 2));
+
     console.log(`\n=== Trait Processing Complete ===`);
     console.log(`Processed ${ninjaIds.length} ninjas`);
     console.log(`Found ${traitMap.size} unique traits`);
+    console.log(`Found ${traitGroupLayerTypes.size} trait groups with layer types`);
     console.log(`Trait mappings saved to: ${traitOutputPath}`);
     console.log(`Trait color definitions saved to: ${traitColorDefsPath}`);
+    console.log(`Trait group layer types saved to: ${traitGroupLayerTypesPath}`);
   } catch (error) {
     console.error('Error in main:', error);
     process.exit(1);
