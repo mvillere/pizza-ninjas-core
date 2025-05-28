@@ -188,8 +188,16 @@ async function main() {
           }
           traitConfig.trait = normalizedTrait;
         } else if (originalTrait === 'spirit-ninja____scar-spirit-brown.svg') {
-          // This trait was mis-named in the original colleciton.
+          // This trait was misnamed in the original colleciton.
           const adjustedTrait = 'spirit-ninjalerts-face____scar-spirit-brown.svg';
+          console.warn(`[TRAIT NAME ADJUSTED] ${originalTrait} -> ${adjustedTrait}`);
+          traitConfig.trait = adjustedTrait;
+        } else if (originalTrait.includes('hooded-skull____hooded-hockey-mask')) {
+          // This trait was misgrouped in the original collection.
+          const adjustedTrait = originalTrait.replace(
+            'hooded-skull____hooded-hockey-mask',
+            'hooded-hockey-mask____hooded-hockey-mask'
+          );
           console.warn(`[TRAIT NAME ADJUSTED] ${originalTrait} -> ${adjustedTrait}`);
           traitConfig.trait = adjustedTrait;
         }

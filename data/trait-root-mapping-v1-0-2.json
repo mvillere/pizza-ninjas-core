@@ -2503,19 +2503,6 @@
           "ST1": "#FFD400"
         }
       }
-    },
-    "hooded-hockey-mask": {
-      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i95": {
-        "red": {
-          "ST0": "#FF002C"
-        },
-        "white": {
-          "ST0": "#EDEDED"
-        },
-        "black": {
-          "ST0": "#464B4B"
-        }
-      }
     }
   },
   "hooded-skull-eyes": {
@@ -2565,6 +2552,21 @@
         "blue": {
           "ST0": "#6089FF",
           "ST2": "#FF002C"
+        }
+      }
+    }
+  },
+  "hooded-hockey-mask": {
+    "hooded-hockey-mask": {
+      "840a103adbc9adb3202d53477fcb0039d5e1935f6f20b91d3e7bbe7fa3a1e1a1i95": {
+        "red": {
+          "ST0": "#FF002C"
+        },
+        "white": {
+          "ST0": "#EDEDED"
+        },
+        "black": {
+          "ST0": "#464B4B"
         }
       }
     }
