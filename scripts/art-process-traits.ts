@@ -100,7 +100,7 @@ async function main() {
       }
     }
 
-    const outputPath = path.join(dataDir, 'trait-root-mapping-v1-0-1.json');
+    const outputPath = path.join(dataDir, 'trait-root-mapping-v1-0-2.json');
     await fs.writeFile(outputPath, JSON.stringify(mapping, null, 2));
 
     console.log(`Wrote trait root mapping to ${outputPath}`);

@@ -181,6 +181,11 @@ async function main() {
             console.warn(`[TRAIT NAME NORMALIZED] ${originalTrait} -> ${normalizedTrait}`);
           }
           trait.trait = normalizedTrait;
+        } else if (originalTrait === 'spirit-ninja____scar-spirit-brown.svg') {
+          // This trait was mis-named in the original colleciton.
+          const adjustedTrait = 'spirit-ninjalerts-face____scar-spirit-brown.svg';
+          console.warn(`[TRAIT NAME ADJUSTED] ${originalTrait} -> ${adjustedTrait}`);
+          trait.trait = adjustedTrait;
         }
 
         const originalId = trait.id;
