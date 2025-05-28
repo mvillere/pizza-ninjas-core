@@ -183,11 +183,32 @@ async function main() {
 
         if (!mapping[traitgroup]) mapping[traitgroup] = {};
 
-        mapping[traitgroup][root] = {
-          inscriptions,
-          type,
-          generation,
-        };
+        if (mapping[traitgroup][root]) {
+          // Trait root already exists, combine inscriptions
+          const existing = mapping[traitgroup][root];
+
+          // Warn about type/generation changes
+          if (existing.type !== type) {
+            console.warn(
+              `Warning: Type mismatch for ${traitgroup}.${root}: existing="${existing.type}" vs new="${type}"`
+            );
+          }
+          if (existing.generation !== generation) {
+            console.warn(
+              `Warning: Generation mismatch for ${traitgroup}.${root}: existing="${existing.generation}" vs new="${generation}"`
+            );
+          }
+
+          // Combine inscriptions
+          existing.inscriptions.push(...inscriptions);
+        } else {
+          // New trait root
+          mapping[traitgroup][root] = {
+            inscriptions,
+            type,
+            generation,
+          };
+        }
       }
     }
 
